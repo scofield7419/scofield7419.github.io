@@ -1,0 +1,80 @@
+- date: 18 May 2023
+  headline: "I will serve as Senior Area Chair of [EMNLP 2023](https://2023.emnlp.org/)."
+
+- date: 8 May 2023
+  headline: "We are releasing a novel work on LLM, [**VPGTrans**: Transfer Visual Prompt Generator across LLMs](https://arxiv.org/abs/2305.01278),
+          where we release the **VL-Vicuna**, a multimodal version Vicuna. [Twitter post](https://twitter.com/zhanga6/status/1653619736461340673?s=20),
+          [机器之心](https://www.jiqizhixin.com/articles/2023-05-19-11), [新智元](https://mp.weixin.qq.com/s/7Pf1PCZKdpyWOLdUyBH-Bw).
+          Try it out in our [demo page](https://vpgtrans.github.io/)."
+
+- date: 3 May 2023
+  headline: "Seven papers are accepted by ACL 2023, Congrats to my co-authors! **Theme-A: Sentiment Analysis** ([Dialogue-level ABSA](https://arxiv.org/pdf/2211.05705.pdf), and [Chain-of-Though Reasoning for Implicit Sentiment](https://arxiv.org/pdf/2205.10346.pdf)), 
+          **Theme-B: Information Extraction** ([Multimodal Relation Extraction](https://arxiv.org/pdf/2305.11719.pdf), [Cross-lingual Relation Extraction](https://arxiv.org/pdf/2305.12258.pdf)),
+          **Theme-C: Structured Multimodal learning** ([3D Visual Spatial Description](https://arxiv.org/pdf/2305.11768.pdf), [Cross-lingual Captioning](https://arxiv.org/pdf/2305.12260.pdf), [Inference-time Image-free Unsupervised Multimodal Machine Translation](https://arxiv.org/pdf/2305.12256.pdf)).
+          See you in Toronto, July."
+
+- date: 29 April 2023
+  headline: "We are holding the **Deep Multimodal Learning for Information Retrieval (MMIR 2023)** workshop at ACM Multimedia 2023, [Call for papers](https://videorelation.nextcenter.org/MMIR23/)."
+
+- date: 30 March 2023
+  headline: "I will serve as Workshop Co-chair of [EMNLP 2023](https://2023.emnlp.org/)."
+
+
+- date: 5 March 2023
+  headline: "[NSSDM 2023](https://wing-nus.github.io/NSSDM-2023) was hold successfully, thanks our keynote speakers;
+          also special thanks to our co-organizers [Wenjie](https://wenjiewwj.github.io/), [Yisong](https://yisong.me/) for the hard work!
+          See the archive videos of the symposium at [homepage](https://wing-nus.github.io/NSSDM-2023)."
+  photo: "<img src='/images/newspic/NSSDM23-panel.jpeg' class='img-responsive' style='max-width: 800px' />"
+
+
+- date: 3 March 2023
+  headline: "Our student volunteers did jobs in serving the [WSDM 2023](https://www.wsdm-conference.org) and made it big success, thank you all!"
+  photo: "<img src='/images/newspic/wsdm23-volunteer1.jpg' class='img-responsive' style='max-width: 600px' />
+          <img src='/images/newspic/wsdm23-volunteer2.jpg' class='img-responsive' style='max-width: 600px' />"
+
+
+- date: 20 April 2023
+  headline: "Prof. [Min-yen Kan](https://www.comp.nus.edu.sg/~kanmy), [Tat-Seng Chua](https://www.chuatatseng.com/) and I will host the **2023 NUS Symposium on Search and Data Mining (NSSDM 2023)** on **Thursday, 2 Mar** in NUS at [Innovation 4.0](https://maps.google.com/maps?ll=1.294251,103.775931&z=17&t=m&hl=en&gl=SG&mapclient=embed&cid=11892943123017974494).
+        We will invite prestigious scholars to give insightful and inspiring keynotes.
+        Welcome participant, register at [NSSDM homepage](https://wing-nus.github.io/NSSDM-2023/)."
+
+
+- date: 15 February 2023
+  headline: "Our newly proposed benchmark, **DiaASQ: Conversational Aspect-based Sentiment Quadruple Analysis**, is released on [NLPCC 2023 shared task](http://tcci.ccf.org.cn/conference/2023/cfpt.php).
+          Call for participation at [DiaASQ Homepage](https://conasq.pages.dev)."
+
+
+
+- date: 8 December  2022
+  headline: "I am fortunate to have my Ph.D thesis **On the Syntax-oriented Modeling and Optimization of Natural Language** receive the award of 
+      [Excellent Doctoral Thesis of Chinese Information Processing Society of China (CIPSC)](http://www.cipsc.org.cn/chcontent.php?&xuhao=20221122)."
+
+
+
+- date: 6 October 2022
+  headline: "Two papers are accepted by [EMNLP 2022](https://2022.emnlp.org/), on
+          [**Entity-centered Cross-document Relation Extraction**](https://arxiv.org/pdf/2210.16541.pdf), 
+          and [**Conversation Disentanglement with Bi-Level Contrastive Learning**](https://arxiv.org/pdf/2210.15265.pdf), 
+          Congrats to my co-authors! "
+
+
+- date: 17 August 2022
+  headline: "Two papers are accepted by [COLING 2022](https://coling2022.org/), on
+          [**OneEE: A One-Stage Framework for Fast Overlapping and Nested Event Extraction**](https://arxiv.org/pdf/2209.04112.pdf), 
+          and [**Joint Alignment of Multi-Task Feature and Label Spaces for Emotion Cause Pair Extraction**](https://arxiv.org/pdf/2209.04112.pdf), 
+          Congrats to Hu Cao and Shunjie! "
+
+
+
+- date: 15 June 2022
+  headline: "I will serve as Senior Program Committee of [WSDM 2023](https://www.wsdm-conference.org/2023/organizers/senior-program-committee)."
+
+
+- date: 2 June 2022
+  headline: "I will serve as Area Chair of [EMNLP 2022](https://2022.emnlp.org/)."
+
+
+- date: 30 May 2022
+  headline: "I will serve as Student Volunteer Chair of [WSDM 2023](https://www.wsdm-conference.org/2023/organizers/organizing-committee).
+        Contact me if you are interested in offering service."
+

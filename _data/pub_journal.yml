@@ -1,0 +1,173 @@
+- title:  "On the Robustness of Aspect-based Sentiment Analysis: Rethinking Model, Data, and Training"
+  venue:
+    full: ACM Transactions on Information Systems
+    short: TOIS
+  year: 2023
+  authors: <strong>Hao Fei</strong>, Tat-Seng Chua, Chenliang Li, Donghong Ji, Meishan Zhang, Yafeng Ren
+  link:
+    paper: https://arxiv.org/pdf/2304.09563.pdf
+
+
+
+- title: Nonautoregressive encoder-decoder neural framework for end-to-end aspect-based sentiment triplet extraction
+  venue:
+    full: IEEE Transactions on Neural Networks and Learning Systems
+    short: TNNLS
+  year: 2023
+  authors: <strong>Hao Fei</strong>, Yafeng Ren, Yue Zhang, Donghong Ji
+  link:
+    paper: https://ieeexplore.ieee.org/abstract/document/9634849
+
+
+
+- title: Optimizing Attention for Sequence Modeling via Reinforcement Learning
+  venue:
+    full: IEEE Transactions on Neural Networks and Learning Systems
+    short: TNNLS
+  year: 2022
+  authors: <strong>Hao Fei</strong>, Yue Zhang, Yafeng Ren, Donghong Ji
+  link:
+    paper: https://ieeexplore.ieee.org/document/9352534
+    code: https://github.com/scofield7419/DRGA
+
+
+
+
+
+- title: Enriching contextualized language model from knowledge graph for biomedical information extraction
+  venue:
+    full: Briefings in Bioinformatics
+    short: BiB
+  year: 2021
+  authors: <strong>Hao Fei</strong>, Yafeng Ren, Yue Zhang, Donghong Ji, Xiaohui Liang
+  link:
+    paper: https://academic.oup.com/bib/article-pdf/22/3/bbaa110/37963251/bbaa110.pdf
+    code: https://github.com/Baxelyne/BioKGLM
+
+
+
+- title: A span-graph neural model for overlapping entity relation extraction in biomedical texts
+  venue:
+    full: Bioinformatics
+  year: 2021
+  authors: <strong>Hao Fei</strong>, Yafeng Ren, Yue Zhang, Donghong Ji, Xiaohui Liang
+  link:
+    paper: https://academic.oup.com/bioinformatics/article-pdf/37/11/1581/50360951/btaa993.pdf
+
+
+
+
+- title: Second-Order Semantic Role Labeling With Global Structural Refinement
+  venue:
+    full: IEEE/ACM Transactions on Audio, Speech and Language Processing
+    short: TASLP
+  year: 2021
+  authors: <strong>Hao Fei</strong>, Shengqiong Wu, Yafeng Ren, Donghong Ji
+  link:
+    paper: https://ieeexplore.ieee.org/document/9439066
+
+
+
+- title: High-Order Pair-Wise Aspect and Opinion Terms Extraction With Edge-Enhanced Syntactic Graph Convolution
+  venue:
+    full: IEEE/ACM Transactions on Audio, Speech and Language Processing
+    short: TASLP
+  year: 2021
+  authors: 	Shengqiong Wu, <strong>Hao Fei</strong>, Yafeng Ren, Bobo Li, Fei Li, Donghong Ji
+  link:
+    paper: https://ieeexplore.ieee.org/document/9478183
+    code: https://github.com/ChocoWu/ESGCN-AOP
+
+
+
+
+
+
+
+- title: Topic-Enhanced Capsule Network for Multi-Label Emotion Classification
+  venue:
+    full: IEEE/ACM Transactions on Audio, Speech and Language Processing
+    short: TASLP
+  year: 2020
+  authors: <strong>Hao Fei</strong>, Donghong Ji, Yue Zhang, Yafeng Ren
+  link:
+    paper: https://ieeexplore.ieee.org/document/9113297
+
+
+- title: Cross-Lingual Semantic Role Labeling With Model Transfer
+  venue:
+    full: IEEE/ACM Transactions on Audio, Speech and Language Processing
+    short: TASLP
+  year: 2020
+  authors: <strong>Hao Fei</strong>, Meishan Zhang, Fei Li, Donghong Ji
+  link:
+    paper: https://ieeexplore.ieee.org/document/9165903
+
+
+- title: "Boundaries and edges rethinking: An end-to-end neural model for overlapping entity relation extraction"
+  venue:
+    full: Information Processing & Management
+    short: IPM
+  year: 2020
+  authors: <strong>Hao Fei</strong>, Yafeng Ren, Donghong Ji
+  link:
+    paper: https://www.sciencedirect.com/science/article/abs/pii/S0306457320308062?via%3Dihub
+
+
+
+
+- title: A tree-based neural network model for biomedical event trigger detection
+  venue:
+    full: Information Sciences
+  year: 2020
+  authors: <strong>Hao Fei</strong>, Yafeng Ren, Donghong Ji
+  link:
+    paper: https://www.sciencedirect.com/science/article/abs/pii/S0020025519309247?via%3Dihub
+
+
+
+- title: Dispatched attention with multi-task learning for nested mention recognition
+  venue:
+    full: Information Sciences
+  year: 2020
+  authors: <strong>Hao Fei</strong>, Yafeng Ren, Donghong Ji
+  link:
+    paper: https://www.sciencedirect.com/science/article/abs/pii/S0020025519310333?via%3Dihub
+
+
+- title: A deep neural network model for speakers coreference resolution in legal texts
+  venue:
+    full: Information Processing & Management
+    short: IPM
+  year: 2020
+  authors: Donghong Ji, Jun Gao, <strong>Hao Fei</strong>, Chong Teng, Yafeng Ren
+  link:
+    paper: https://www.sciencedirect.com/science/article/abs/pii/S0306457320308608?via%3Dihub
+
+
+
+
+- title: An end-to-end joint model for evidence information extraction from court record document
+  venue:
+    full: Information Processing & Management
+    short: IPM
+  year: 2020
+  authors: Donghong Ji, Peng Tao, <strong>Hao Fei</strong>, Yafeng Ren
+  link:
+    paper: https://www.sciencedirect.com/science/article/abs/pii/S0306457320308001?via%3Dihub
+
+
+
+
+
+
+- title:  A hybrid neural network model for predicting kidney disease in hypertension patients based on electronic health records
+  venue:
+    full: BMC Medical Informatics & Decision Making
+    short: MIDM
+  year: 2019
+  authors: 	Yafeng Ren<sup>#</sup>, <strong>Hao Fei<sup>#</sup></strong>, Xiaohui Liang, Donghong Ji, Ming Cheng
+  link:
+    paper: https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0765-4
+
+

@@ -1,0 +1,139 @@
+- name: VPGTrans
+  photo:
+    name: VPGTrans.png
+    scale: 95%
+  paper:
+    name: "VPGTrans: Transfer Visual Prompt Generator across LLMs"
+    link: https://arxiv.org/pdf/2305.01278.pdf
+    code: https://github.com/VPGTrans/VPGTrans
+  site:
+    link: https://vpgtrans.github.io/
+    note: with demo
+  desc: "While developing a new vision-language LLM (VL-LLM) by pre-training on tremendous image-text pairs from scratch can be exceedingly resource-consuming, connecting an existing LLM with a comparatively lightweight visual prompt generator (VPG) becomes a feasible paradigm. 
+      However, further tuning the VPG part of the VL-LLM still suffers from indispensable computational costs, i.e., requiring thousands of GPU hours and millions of training data. One alternative solution is to transfer an existing VPG from any existing VL-LLMs for the target VL-LLM.
+      In this work, we for the first time investigate the VPG transferability across LLMs, and explore a solution to reduce the cost of VPG transfer. We first study the VPG transfer across different LLM sizes (e.g., small-to-large), and across different LLM types, through which we diagnose the key factors to maximize the transfer efficiency. 
+      Based on our observation, we design a two-stage transfer framework named VPGTrans, which is simple yet highly effective. Through extensive experiments, we demonstrate that VPGTrans helps significantly speed up the transfer learning process without compromising performance. Remarkably, it helps achieve the VPG transfer from BLIP-2 OPT<sub>2.7B</sub> to BLIP-2 OPT<sub>6.7B</sub> with over 10 times speed-up and 10.7% training data compared with connecting a VPG to OPT<sub>6.7B</sub> from scratch. Further, a series of intriguing findings and potential rationales behind them are provided and discussed. 
+      Finally, we showcase the application value of our VPGTrans approach, by newly customizing two novel VL-LLMs, including VL-LLaMA and VL-Vicuna, with recently released LLaMA and Vicuna models.
+      With our VPGTrans, one can build a novel high-performance VL-LLM based on any existing text-based LLMs and an existing VPG with considerably lower cost."
+
+
+- name: BiLSTM+CRF
+  photo:
+    name: BiLSTM+CRF.png
+    scale: 100%
+  paper:
+    name: BiLSTM+CRF system for Sequential Labeling Tasks
+    link: https://github.com/scofield7419/sequence-labeling-BiLSTM-CRF
+    code: https://github.com/scofield7419/sequence-labeling-BiLSTM-CRF
+  site:
+    link: #
+    note: with demo
+  desc: "A TensorFlow implementation of BiLSTM+CRF model, for NLP sequence labeling tasks.
+    Sequential labeling is one typical methodology modeling the sequence prediction tasks in NLP. Common sequential labeling tasks include, e.g., Part-of-Speech (POS) Tagging,
+    Chunking, Named Entity Recognition (NER), Sentence Boundary Detection, Chinese Word Segmentation (CWG), Semantic Role Labeling (SRL), Event Extraction, and so forth.
+    This TensforFlow-based BiLSTM+CRF system advances in highly scalable; everything is configurable; modularized with clear structure; very friendly for beginners and easy to DIY."
+
+
+
+
+- name: THOR
+  photo:
+    name: thor.png
+    scale: 100%
+  paper:
+    name: Reasoning Implicit Sentiment with Chain-of-Thought Prompting
+    link: https://arxiv.org/pdf/2305.11255.pdf
+    code: https://github.com/scofield7419/THOR-ISA
+  site:
+    link: http://haofei.vip/THOR/
+  desc: 'While sentiment analysis systems try to determine the sentiment polarities of given targets based on the key opinion expressions in input texts, in implicit sentiment analysis (ISA) the opinion cues come in an implicit and obscure manner. 
+Thus detecting implicit sentiment requires the common-sense and multi-hop reasoning ability to infer the latent intent of opinion. 
+Inspired by the recent chain-of-thought (CoT) idea, in this work we introduce a Three-hop Reasoning (THOR) CoT framework to mimic the human-like reasoning process for ISA. 
+We design a three-step prompting principle for THOR to step-by-step induce the implicit aspect, opinion, and finally the sentiment polarity. 
+Our THOR+Flan-T5 (11B) pushes the state-of-the-art (SoTA) by over 6% F1 on supervised setup. 
+More strikingly, THOR+GPT3 (175B) boosts the SoTA by over 50% F1 on zero-shot setting.'
+
+
+
+- name: DiaASQ
+  photo:
+    name: DiaASQ.png
+    scale: 100%
+  paper:
+    name: "DiaASQ: A Benchmark of Conversational Aspect-based Sentiment Quadruple Analysis"
+    link: https://arxiv.org/pdf/2211.05705.pdf
+    code: https://github.com/unikcc/DiaASQ
+  site:
+    link: https://conasq.pages.dev/
+  desc: 'The rapid development of aspect-based sentiment analysis (ABSA) within recent decades shows great potential for real-world society. 
+  The current ABSA works, however, are mostly limited to the scenario of a single text piece, leaving the study in dialogue contexts unexplored. 
+  To bridge the gap between fine-grained sentiment analysis and conversational opinion mining, in this work, we introduce a novel task of conversational aspect-based sentiment quadruple analysis, namely DiaASQ, aiming to detect the quadruple of target-aspect-opinion-sentiment in a dialogue. 
+  We manually construct a large-scale high-quality DiaASQ dataset in both Chinese and English languages. 
+  We deliberately develop a neural model to benchmark the task, which advances in effectively performing end-to-end quadruple prediction, and manages to incorporate rich dialogue-specific and discourse feature representations for better cross-utterance quadruple extraction. 
+  We hope the new benchmark will spur more advancements in the sentiment analysis community.'
+
+
+
+- name: W<sup>2</sup>NER
+  photo:
+    name: w2ner.png
+    scale: 100%
+  paper:
+    name: Unified Named Entity Recognition as Word-Word Relation Classification
+    link: https://arxiv.org/pdf/2112.10070.pdf
+    code: https://github.com/ljynlp/W2NER
+  site:
+    link: https://haofei.vip/W2NER-page/
+  desc: 'We present a novel end-to-end NER (including flat, nested, discontinuous NER) system with a word-word relation classification modeling, named W<sup>2</sup>NER. 
+      The architecture resolves the kernel bottleneck of unified NER by effectively modeling the neighboring relations between entity words with Next-Neighboring-Word (NNW) and Tail-Head-Word-* (THW-*) relations. 
+      With the W2NER scheme, the unified NER can be modeled as a 2D grid of word pairs.'
+
+
+
+- name: LasUIE
+  photo:
+    name: LasUIE.png
+    scale: 75%
+  paper:
+    name: "LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model"
+    link: https://arxiv.org/pdf/2304.06248.pdf
+    code: https://github.com/ChocoWu/LasUIE
+  site:
+    link: http://haofei.vip/LasUIE-page
+  desc: "Universally modeling all typical information extraction tasks (UIE) with one generative language model (GLM) has revealed great potential by the latest study, where various IE predictions are unified into a linearized hierarchical expression under a GLM. Syntactic structure information, a type of effective feature which has been extensively utilized in IE community, should also be beneficial to UIE. In this work, we propose a novel structure-aware GLM, fully unleashing the power of syntactic knowledge for UIE. A heterogeneous structure inductor is explored to unsupervisedly induce rich heterogeneous structural representations by post-training an existing GLM. In particular, a structural broadcaster is devised to compact various latent trees into explicit high-order forests, helping to guide a better generation during decoding. We finally introduce a task-oriented structure fine-tuning mechanism, further adjusting the learned structures to most coincide with the end-task's need. Over 12 IE benchmarks across 7 tasks our system shows significant improvements over the baseline UIE system. Further in-depth analyses show that our GLM learns rich task-adaptive structural bias that greatly resolves the UIE crux, the long-range dependence issue and boundary identifying."
+
+
+
+- name: SMDL
+  photo:
+    name: SMDL.png
+    scale: 95%
+  paper:
+    name: "Matching Structure for Dual Learning"
+    link: https://proceedings.mlr.press/v162/fei22a/fei22a.pdf
+    code: https://github.com/scofield7419/StruMatchDL
+  site:
+    link: https://haofei.vip/SMDL/
+  desc: "Many natural language processing (NLP) tasks appear in dual forms, which are generally solved by dual learning technique that models the dualities between the coupled tasks. In this work, we propose to further enhance dual learning with structure matching that explicitly builds structural connections in between. Starting with the dual text↔text generation, we perform duallysyntactic structure co-echoing of the region of interest (RoI) between the task pair, together with a syntax cross-reconstruction at the decoding side. We next extend the idea to a text↔non-text setup, making alignment between the syntactic-semantic structure. Over 2*14 tasks covering 5 dual learning scenarios, the proposed structure matching method shows its significant effectiveness in enhancing existing dual learning. Our method can retrieve the key RoIs that are highly crucial to the task performance. Besides NLP tasks, it is also revealed that our approach has great potential in facilitating more non-text↔non-text scenarios."
+
+
+
+
+- name: HeSyFu
+  photo:
+    name: HeSyFu.png
+    scale: 100%
+  paper:
+    name: "Better Combine Them Together! Integrating Syntactic Constituency and Dependency Representations for Semantic Role Labeling"
+    link: https://aclanthology.org/2021.findings-acl.49.pdf
+    code: https://github.com/scofield7419/HeSyFu
+  site:
+    link: https://haofei.vip/HeSyFu-SRL/
+  desc: "Structural syntax knowledge has been proven effective for semantic role labeling (SRL), while existing works mostly use only one singleton syntax, such as either syntactic dependency or constituency tree. 
+        In this project, we explore the integration of heterogeneous syntactic representations for SRL. 
+        We first consider a TreeLSTM-based integration, collaboratively learning the phrasal boundaries from the constituency and the semantic relations from dependency. 
+        We further introduce a label-aware GCN solution for simultaneously modeling the syntactic edges and labels. 
+        Experimental results demonstrate that by effectively combining the heterogeneous syntactic representations, our methods yield task improvements on both span-based and dependencybased SRL. 
+        Also our system achieves new state-of-the-art SRL performances, meanwhile bringing explainable task improvements."
+
+

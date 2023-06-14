@@ -1,0 +1,43 @@
+- title: Transfer Visual Prompt Generator across LLMs
+  venue:
+    name: arXiv
+  year: 2023
+  authors: Ao Zhang, <strong>Hao Fei<sup>*</sup></strong>, <strong>Yuan Yao<sup>*</sup></strong>, Wei Ji, Li Li, Zhiyuan Liu, Tat-Seng Chua
+  link:
+    paper: https://arxiv.org/pdf/2305.01278.pdf
+    code: https://vpgtrans.github.io/
+
+- title: Revisiting Conversation Discourse for Dialogue Disentanglement
+  venue:
+    name: arXiv
+  year: 2023
+  authors: Bobo Li, <strong>Hao Fei</strong>, Fei Li, Shengqiong Wu, Lizi Liao, Yinwei Wei, Tat-Seng Chua, Donghong Ji
+  link:
+    paper: https://arxiv.org/pdf/2306.03975.pdf
+
+- title: "TKDP: Threefold Knowledge-enriched Deep Prompt Tuning for Few-shot Named Entity Recognition 	"
+  venue:
+    name: arXiv
+  year: 2023
+  authors: Jiang Liu, <strong>Hao Fei</strong>, Fei Li, Jingye Li, Bobo Li, Liang Zhao, Chong Teng, Donghong Ji
+  link:
+    paper: https://arxiv.org/pdf/2306.03974.pdf
+
+- title: "ECQED: Emotion-Cause Quadruple Extraction in Dialogs"
+  venue:
+    name: arXiv
+  year: 2023
+  authors: Li Zheng, Donghong Ji, <strong>Hao Fei</strong>, Shengqiong Wu, Jingye Li, Bobo Li, Chong Teng
+  link:
+    paper: https://arxiv.org/pdf/2306.03969.pdf
+
+- title: "Subband-based Generative Adversarial Network for Non-parallel Many-to-many Voice Conversion"
+  venue:
+    name: arXiv
+  year: 2022
+  authors: Jian Ma, Zhedong Zheng, <strong>Hao Fei</strong>, Feng Zheng, Tat-seng Chua, Yi Yang
+  link:
+    paper: https://arxiv.org/pdf/2207.06057.pdf
+
+
+
