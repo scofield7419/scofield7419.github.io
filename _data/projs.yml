@@ -133,6 +133,22 @@ More strikingly, THOR+GPT3 (175B) boosts the SoTA by over 50% F1 on zero-shot se
 
 
 
+
+- name: XSRL
+  photo:
+    name: XSRL.png
+    scale: 100%
+  paper:
+    name: "Cross-Lingual Semantic Role Labeling with High-Quality Translated Training Corpus"
+    link: https://aclanthology.org/2020.acl-main.627.pdf
+    code: https://github.com/scofield7419/XSRL-ACL
+  site:
+    link: https://haofei.vip/XSRL
+  desc: "Many efforts of research are devoted to semantic role labeling (SRL) which is crucial for natural language understanding. Supervised approaches have achieved impressing performances when large-scale corpora are available for resource-rich languages such as English. While for the low-resource languages with no annotated SRL dataset, it is still challenging to obtain competitive performances. Cross-lingual SRL is one promising way to address the problem, which has achieved great advances with the help of model transferring and annotation projection. In this paper, we propose a novel alternative based on corpus translation, constructing high-quality training datasets for the target languages from the source gold-standard SRL annotations. Experimental results on Universal Proposition Bank show that the translation-based method is highly effective, and the automatic pseudo datasets can improve the target-language SRL performances significantly."
+
+
+
+
 - name: HeSyFu
   photo:
     name: HeSyFu.png
