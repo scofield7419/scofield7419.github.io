@@ -45,7 +45,7 @@
     link: https://arxiv.org/pdf/2305.11255.pdf
     code: https://github.com/scofield7419/THOR-ISA
   site:
-    link: http://haofei.vip/THOR/
+    link: https://haofei.vip/THOR/
   desc: 'While sentiment analysis systems try to determine the sentiment polarities of given targets based on the key opinion expressions in input texts, in implicit sentiment analysis (ISA) the opinion cues come in an implicit and obscure manner. 
 Thus detecting implicit sentiment requires the common-sense and multi-hop reasoning ability to infer the latent intent of opinion. 
 Inspired by the recent chain-of-thought (CoT) idea, in this work we introduce a Three-hop Reasoning (THOR) CoT framework to mimic the human-like reasoning process for ISA. 
@@ -99,7 +99,7 @@ More strikingly, THOR+GPT3 (175B) boosts the SoTA by over 50% F1 on zero-shot se
     link: https://arxiv.org/pdf/2304.06248.pdf
     code: https://github.com/ChocoWu/LasUIE
   site:
-    link: http://haofei.vip/LasUIE-page
+    link: https://haofei.vip/LasUIE-page
   desc: "Universally modeling all typical information extraction tasks (UIE) with one generative language model (GLM) has revealed great potential by the latest study, where various IE predictions are unified into a linearized hierarchical expression under a GLM. Syntactic structure information, a type of effective feature which has been extensively utilized in IE community, should also be beneficial to UIE. In this work, we propose a novel structure-aware GLM, fully unleashing the power of syntactic knowledge for UIE. A heterogeneous structure inductor is explored to unsupervisedly induce rich heterogeneous structural representations by post-training an existing GLM. In particular, a structural broadcaster is devised to compact various latent trees into explicit high-order forests, helping to guide a better generation during decoding. We finally introduce a task-oriented structure fine-tuning mechanism, further adjusting the learned structures to most coincide with the end-task's need. Over 12 IE benchmarks across 7 tasks our system shows significant improvements over the baseline UIE system. Further in-depth analyses show that our GLM learns rich task-adaptive structural bias that greatly resolves the UIE crux, the long-range dependence issue and boundary identifying."
 
 
@@ -107,7 +107,7 @@ More strikingly, THOR+GPT3 (175B) boosts the SoTA by over 50% F1 on zero-shot se
 - name: SMDL
   photo:
     name: SMDL.png
-    scale: 95%
+    scale: 90%
   paper:
     name: "Matching Structure for Dual Learning"
     link: https://proceedings.mlr.press/v162/fei22a/fei22a.pdf
@@ -116,6 +116,20 @@ More strikingly, THOR+GPT3 (175B) boosts the SoTA by over 50% F1 on zero-shot se
     link: https://haofei.vip/SMDL/
   desc: "Many natural language processing (NLP) tasks appear in dual forms, which are generally solved by dual learning technique that models the dualities between the coupled tasks. In this work, we propose to further enhance dual learning with structure matching that explicitly builds structural connections in between. Starting with the dual text↔text generation, we perform duallysyntactic structure co-echoing of the region of interest (RoI) between the task pair, together with a syntax cross-reconstruction at the decoding side. We next extend the idea to a text↔non-text setup, making alignment between the syntactic-semantic structure. Over 2*14 tasks covering 5 dual learning scenarios, the proposed structure matching method shows its significant effectiveness in enhancing existing dual learning. Our method can retrieve the key RoIs that are highly crucial to the task performance. Besides NLP tasks, it is also revealed that our approach has great potential in facilitating more non-text↔non-text scenarios."
 
+
+
+
+- name: UABSA
+  photo:
+    name: UABSA.png
+    scale: 95%
+  paper:
+    name: "Inheriting the Wisdom of Predecessors: A Multiplex Cascade Framework for Unified Aspect-based Sentiment Analysis"
+    link: https://www.ijcai.org/proceedings/2022/0572.pdf
+    code: https://github.com/scofield7419/UABSA-SyMux
+  site:
+    link: https://haofei.vip/UABSA
+  desc: "So far, aspect-based sentiment analysis (ABSA) has involved with total seven subtasks, in which, however the interactions among them have been left unexplored sufficiently. This work presents a novel multiplex cascade framework for unified ABSA and maintaining such interactions. First, we model total seven subtasks as a hierarchical dependency in the easy-to-hard order, based on which we then propose a multiplex decoding mechanism, transferring the sentiment layouts and clues in lower tasks to upper ones. The multiplex strategy enables highly-efficient subtask interflows and avoids repetitive training; meanwhile it sufficiently utilizes the existing data without requiring any further annotation. Further, based on the characteristics of aspect-opinion term extraction and pairing, we enhance our multiplex framework by integrating POS tag and syntactic dependency information for term boundary and pairing identification. The proposed Syntax-aware Multiplex (SyMux) framework enhances the ABSA performances on 28 subtasks (7×4 datasets) with big margins."
 
 
 
