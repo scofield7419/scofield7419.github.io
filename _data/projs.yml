@@ -122,7 +122,7 @@ More strikingly, THOR+GPT3 (175B) boosts the SoTA by over 50% F1 on zero-shot se
 - name: UABSA
   photo:
     name: UABSA.png
-    scale: 95%
+    scale: 100%
   paper:
     name: "Inheriting the Wisdom of Predecessors: A Multiplex Cascade Framework for Unified Aspect-based Sentiment Analysis"
     link: https://www.ijcai.org/proceedings/2022/0572.pdf
