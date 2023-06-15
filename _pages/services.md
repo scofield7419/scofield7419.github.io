@@ -14,11 +14,11 @@ permalink: /services
 
 ### Conference Organizer
 
-- [IJCAI 2022](https://ijcai-22.org/) Virtual Session Chair
+- [IJCAI 2022](https://ijcai-22.org/) Session Chair (SNLP track, Virtual)
 - [WSDM 2023](https://www.wsdm-conference.org/2023/organizers/organizing-committee) Volunteer Co-Chair
 - [NSSDM 2023](https://wing-nus.github.io/NSSDM-2023) Symposium Chair
 - [EMNLP 2023](https://2023.emnlp.org/organization/) Workshop Co-Chair
-
+- [ACL 2023](https://ijcai-22.org/) Session Chair (Summarization track)
 
 
 
