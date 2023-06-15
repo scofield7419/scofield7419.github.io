@@ -137,7 +137,7 @@ More strikingly, THOR+GPT3 (175B) boosts the SoTA by over 50% F1 on zero-shot se
 - name: XSRL
   photo:
     name: XSRL.png
-    scale: 100%
+    scale: 94%
   paper:
     name: "Cross-Lingual Semantic Role Labeling with High-Quality Translated Training Corpus"
     link: https://aclanthology.org/2020.acl-main.627.pdf
