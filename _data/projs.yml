@@ -64,7 +64,7 @@ More strikingly, THOR+GPT3 (175B) boosts the SoTA by over 50% F1 on zero-shot se
     link: https://arxiv.org/pdf/2211.05705.pdf
     code: https://github.com/unikcc/DiaASQ
   site:
-    link: https://conasq.pages.dev/
+    link: https://diaasq-page.pages.dev/
   desc: 'The rapid development of aspect-based sentiment analysis (ABSA) within recent decades shows great potential for real-world society. 
   The current ABSA works, however, are mostly limited to the scenario of a single text piece, leaving the study in dialogue contexts unexplored. 
   To bridge the gap between fine-grained sentiment analysis and conversational opinion mining, in this work, we introduce a novel task of conversational aspect-based sentiment quadruple analysis, namely DiaASQ, aiming to detect the quadruple of target-aspect-opinion-sentiment in a dialogue. 
