@@ -20,7 +20,10 @@ and also the human-level reasoning largely follows the structural manner.
 {: .text-justify}
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/structure-examples.png){: style="width: 92%; float: center; margin: 0px; margin-left: 30px"}
+<p align="center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/structure-examples.png" width="92%"/>
+</p>
+
 
 
 Thus, the essence of semantics understanding of languages, visions, etc., lies in the understanding of the intrinsic semantic structures, which motivates my research angle.
