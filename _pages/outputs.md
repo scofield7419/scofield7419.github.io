@@ -81,6 +81,7 @@ Those are the students I am (was) collaborating with.
   - Haidong Xu, Harbin Institute of Technology (Shenzhen), Co-advising with Prof. [Meishan Zhang](https://zhangmeishan.github.io/)
   - Bin Wang, Harbin Institute of Technology (Shenzhen), Co-advising with Prof. [Meishan Zhang](https://zhangmeishan.github.io/)
   - Minghui Xu, Wuhan University, Co-advising with Prof. [Fei Li](https://scholar.google.com/citations?user=AoMmysMAAAAJ)
+  - Ling Zhuang, Central China Normal University, Co-advising with Prof. Po Hu
   - [Jingye Li](https://ljynlp.github.io/), Wuhan University, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
   - Jiang Liu, Wuhan University, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
   - Li Zheng, Wuhan University, Co-advising with Prof. [Fei Li](https://scholar.google.com/citations?user=AoMmysMAAAAJ)
