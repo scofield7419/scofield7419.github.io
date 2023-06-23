@@ -27,10 +27,10 @@ permalink: /outputs
 ### Invited Talks 
 
 - 2023.4: **Towards Human-level AI**, Huawei Cloud, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/talk-HaoFei-Towards-Human-level-AI.pdf)
-- 2023.2: **Towards Human-level AI**, NUS, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/talk-HaoFei-Towards-Human-level-AI.pdf)
+- 2023.2: **Towards Human-level AI**, NUS, NExT++, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/talk-HaoFei-Towards-Human-level-AI.pdf)
 - 2022.10: **On the Structure-aware NLP and Beyond**, Jianghan University, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/talk-HaoFei-structure-aware-NLP.pdf)
 - 2022.9: **Neural Models for End-to-end Complex Information Extraction**, SEA AI Lab, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/end-to-end-extraction-feihao.pdf)
-- 2022.6: **On the Structure-aware NLP and Beyond**, NUS, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/talk-HaoFei-structure-aware-NLP.pdf)
+- 2022.6: **On the Structure-aware NLP and Beyond**, NUS, NExT++, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/talk-HaoFei-structure-aware-NLP.pdf)
 - 2021.10: **Language Semantic Vs. Syntactic Structure Parsing**, Wuhan University, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/Semantic-Syntactic-parsing.pdf)
 - 2020.8: **Deep Learning in NLP**, Wuhan University, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/Deep-Learning-NLP.pdf)
 - 2019.11: **Implicit Objective Network for Emotion Detection**, NLPCC 2019,  [(slides)]()
