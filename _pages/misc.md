@@ -52,11 +52,11 @@ permalink: /misc
 ### About Me
 
 - Thinking
-  - I am living with the [`Top-Down`](https://www.daryllscott.com/discovery-vs-data) thinking mode and logic, and I always advocate problem-solving with a from-top-to-bottom viewpoint. I am INTJ.
+  - I am INTJ. I am living with the [`Top-Down`](https://www.daryllscott.com/discovery-vs-data) thinking mode and logic, and I always advocate problem-solving with a from-top-to-bottom viewpoint. 
   - I am highly sensitive to subtle details, emotions, and relationships, which makes me very meticulous about details. I am also an extremely enthusiastic organizer and have a penchant for categorizing and arranging things.
   - Whenever coming to producing or outputting, I am accustomed to a smooth, fluent, and coherent thought process. Additionally, I excel at detecting instances of cognitive leaps in others' thinking.
   Thus, I am good at bridging gaps.
-  - I kinda enjoy being alone. I often do meditation. For years, I am keeping searching for my `Inner Peace`.
+  - I kinda enjoy being alone. I often do meditation. For years, I am keeping searching for my [`Inner Peace`](https://en.wikipedia.org/wiki/Inner_peace).
 
 - Skills
   - I speak Mandarin (Native), English, Cantonese.
