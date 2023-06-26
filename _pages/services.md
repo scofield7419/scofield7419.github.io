@@ -45,7 +45,7 @@ permalink: /services
 - ICML 2021, 2022, 2023
 - ICLR 2020, 2021, 2022, 2023
 - NeurIPS 2020, 2021, 2022, 2023
-- NeurIPS (Data and Benchmark Track), 2023
+- NeurIPS (Data and Benchmark Track) 2023
 - AAAI 2019, 2020, 2021, 2022, 2023
 - IJCAI 2019, 2020, 2021, 2022
 - SIGIR 2023
