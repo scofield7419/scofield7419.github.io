@@ -62,7 +62,7 @@ I am apt to construct learning models, with the fundamental goal of building sys
 My ongoing research focuses on the particular angle of **`Structure-aware Intelligence Learning` (SAIL)**, 
 which aims at enhancing the semantics understanding of varied modalities with the intrinsic data structure modeling.
 The __SAIL__ idea works effectively for the deep learning based AI, and also holds for the current large language models (LLMs), 
-which will ultimately helps achieve AGI of universal modalities (world modeling).
+which will ultimately help achieve AGI of universal modalities (world modeling).
 See my [research statement]({{ site.url }}{{ site.baseurl }}/research) for more details.
 Also, I believe so much that the key to realizing human-level AGI lies in two fundamental aspects simultaneously,
 **A. `human-level complex reasoning ability`** and **B. `mastering of the world knowledge`**, with one not doing without the other.
@@ -71,9 +71,9 @@ Also, I believe so much that the key to realizing human-level AGI lies in two fu
 
 
 My research has been published in top-tier ML/NLP/DM venues, including, ICML, NeurIPS, ACL, AAAI, WWW, SIGIR, IJCAI, EMNLP, COLING, TOIS, TNNLS, TASLP, etc.
-My Ph.D thesis was awarded Excellent Doctoral Thesis of Chinese Information Processing Society (CIPS).
+My Ph.D thesis was awarded the Excellent Doctoral Thesis of Chinese Information Processing Society (CIPS).
 I won more than ten honors and awards when I was in Ph.D stage.
-I've served as (Senior) Area Chair or Senior Program Committee of top-tier conferences, such as ACL, IJCAI, EMNLP, WSDM, ARR. Also, I am the persistently-invited reviewer for prestigious journals including TPAMI, TNNLS, TKDE, TOIS, TAFFC and TASLP.
+I've served as (Senior) Area Chair or Senior Program Committee of top-tier conferences, such as ACL, IJCAI, EMNLP, WSDM, ARR. Also, I am the persistently-invited reviewer for prestigious journals including TPAMI, TNNLS, TKDE, TOIS, TAFFC and TASLP, etc.
 I am (was) the organization committee of WSDM 2022 (Volunteer Chair), NSSDM 2023 (Program Chair), EMNLP 2023 (Workshop Chair). 
 {: .text-justify}
 
@@ -84,8 +84,8 @@ I am (was) the organization committee of WSDM 2022 (Volunteer Chair), NSSDM 2023
 ### Advertising
 
 **I am constantly looking for collaborations.**
-If you are a Ph.D student, and interested in what I am doing now, you can make a contact with me.
-If you are from Chinese universities, there are also vacancies for research intern (aka., CSC-funded joint PhD project). 
+If you are a Ph.D student, and interested in what I am doing now, you can make contact with me.
+If you are from Chinese universities, there are also vacancies for research interns (aka., CSC-funded joint PhD project). 
 Please describe your research status and attach your resume.
 {: .text-justify}
 
