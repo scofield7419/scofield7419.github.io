@@ -51,12 +51,20 @@ permalink: /misc
 
 ### About Me
 
+
+<p align="center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/top-down.png" width="80%"/>
+</p>
+
 - Thinking
-  - I am INTJ. I am living with the [`Top-Down`](https://www.daryllscott.com/discovery-vs-data) thinking mode and logic, and I always advocate problem-solving with a from-top-to-bottom viewpoint. 
-  - I am highly sensitive to subtle details, emotions, and relationships, which makes me very meticulous about details. I am also an extremely enthusiastic organizer and have a penchant for categorizing and arranging things.
+  - I am INTJ. I am living with the Structured Thinking mode and logic.
+I advocate problem-solving with a [`Top-Down`](https://www.daryllscott.com/discovery-vs-data) (from-top-to-bottom) manner.
+Whenever communicating with people, my mind always follows tree-like Stack-based Depth-first Traversal.
   - Whenever coming to producing or outputting, I am accustomed to a smooth, fluent, and coherent thought process. Additionally, I excel at detecting instances of cognitive leaps in others' thinking.
   Thus, I am good at bridging gaps.
+  - I am highly sensitive to subtle details, emotions, and relationships, which makes me very meticulous about details. I am also an extremely enthusiastic organizer and have a penchant for categorizing and arranging things.
   - I kinda enjoy being alone. I often do meditation. For years, I am keeping searching for my [`Inner Peace`](https://en.wikipedia.org/wiki/Inner_peace).
+
 
 - Skills
   - I speak Mandarin (Native), English, Cantonese.
