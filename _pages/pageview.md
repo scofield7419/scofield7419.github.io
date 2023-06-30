@@ -11,7 +11,7 @@ permalink: /pageview
 <div style="margin-top: 100px"></div>
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=b6e0dd&w=a&t=n&d=HHR0os3rRmH5M4XiHNDaDvtIJdBCADmPgZtg5l8aZEk&co=ffffff&cmo=bca8f9&cmn=fca747'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=b6e0dd&w=a&t=tt&d=HHR0os3rRmH5M4XiHNDaDvtIJdBCADmPgZtg5l8aZEk&co=ffffff&cmo=bca8f9&cmn=fca747&ct=00d6b9'></script>
 
 
-<div style="margin-top: 155px"></div>
+<div style="margin-top: 160px"></div>
