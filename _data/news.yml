@@ -84,3 +84,7 @@
   headline: "I will serve as Student Volunteer Chair of [WSDM 2023](https://www.wsdm-conference.org/2023/organizers/organizing-committee).
         Contact me if you are interested in offering service."
 
+
+- date: 1 Jan 2022
+  headline: See [viewing statistics]({{ site.url }}{{ site.baseurl }}/pageview).
+
