@@ -2,7 +2,7 @@
 title: "Hao Fei - Pageviews"
 layout: textlay
 excerpt: "Hao Fei - Pageviews"
-sitemap: true
+sitemap: false
 permalink: /pageview
 ---
 
