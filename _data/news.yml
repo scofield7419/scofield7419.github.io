@@ -86,5 +86,5 @@
 
 
 - date: 1 Jan 2022
-  headline: "See [website viewing statistics]({{ site.url }}{{ site.baseurl }}/pageview)."
+  headline: "See [website viewing statistics](./pageview)."
 
