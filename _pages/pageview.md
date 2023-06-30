@@ -8,6 +8,10 @@ permalink: /pageview
 
 # Pageviews
 
-<div style="margin-top: 20px"></div>
+<div style="margin-top: 35px"></div>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6IxMkD9AxgkXmtT-CMTMolftstwgqiD1ExJBl3I8mPE&cl=ffffff&w=a"></script>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HHR0os3rRmH5M4XiHNDaDvtIJdBCADmPgZtg5l8aZEk&cl=ffffff&w=a"></script>
+
+
+<div style="margin-top: 35px"></div>
