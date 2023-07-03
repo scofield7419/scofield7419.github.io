@@ -8,10 +8,10 @@
   headline: "I will serve as Senior Area Chair of [EMNLP 2023](https://2023.emnlp.org/)."
 
 - date: 8 May 2023
-  headline: "We are releasing a novel work on LLM, [**VPGTrans**: Transfer Visual Prompt Generator across LLMs](https://arxiv.org/abs/2305.01278),
+  headline: "We are releasing a novel work about LLM, [**VPGTrans**: Transfer Visual Prompt Generator across LLMs](https://arxiv.org/abs/2305.01278),
           where we release the **VL-Vicuna**, a multimodal version Vicuna. [Twitter post](https://twitter.com/zhanga6/status/1653619736461340673?s=20),
           [机器之心](https://www.jiqizhixin.com/articles/2023-05-19-11), [新智元](https://mp.weixin.qq.com/s/7Pf1PCZKdpyWOLdUyBH-Bw).
-          Try it out in our [demo page](https://vpgtrans.github.io/)."
+          Try it out at our [demo page](https://vpgtrans.github.io/)."
 
 - date: 3 May 2023
   headline: "Seven papers are accepted by ACL 2023, Congrats to my co-authors! **Theme-A: Sentiment Analysis** ([Dialogue-level ABSA](https://arxiv.org/pdf/2211.05705.pdf), and [Chain-of-Though Reasoning for Implicit Sentiment](https://arxiv.org/pdf/2305.11255.pdf)), 
