@@ -7,6 +7,7 @@
   link:
     paper: https://arxiv.org/pdf/2205.10346.pdf
     code: https://github.com/scofield7419/THOR-ISA
+    Paperweakly: https://mp.weixin.qq.com/s/IwWHK5heDEG2blMVoDhVdw
 
 - title: "Scene Graph as Pivoting: Inference-time Image-free Unsupervised Multimodal Machine Translation with Visual Scene Hallucination"
   venue:
@@ -33,6 +34,7 @@
     name: ACL
   year: 2023
   authors: Shengqiong Wu, <strong>Hao Fei<sup>*</sup></strong>, Yixin Cao, Lidong Bing, Tat-Seng Chua
+  Highlight: Best paper nomination (1.6%)
   link:
     paper: https://arxiv.org/pdf/2305.11719.pdf
     code: https://github.com/ChocoWu/MRE-ISE
@@ -75,6 +77,7 @@
     name: NeurIPS
   year: 2022
   authors: <strong>Hao Fei</strong>, Shengqiong Wu, Jingye Li, Bobo Li, Fei Li, Libo Qin, Meishan Zhang, Min Zhang, Tat-Seng Chua
+  Highlight: Spotlight
   link:
     paper: https://arxiv.org/pdf/2304.06248.pdf
     code: https://github.com/ChocoWu/LasUIE
