@@ -41,7 +41,7 @@ Jump to [Preprint](#preprint), [Conference](#conference), [Journal](#journal), [
   <span style="font-size: 20px;">&#8226;</span> &nbsp; <strong style="font-size: 17px;">{{ publi.title }}</strong> <br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>{{ publi.authors }} </em><br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>{{ publi.venue.name }}</strong>     {% if publi.venue.note %} ({{publi.venue.note}}){% endif %} &nbsp;&nbsp; {{ publi.year }} 
- &nbsp;&nbsp;&nbsp;&nbsp;   {% if publi.highlight %} <strong style="color:#C7254E;">({{ publi.highlight }})</strong>  {% endif %} &nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ publi.link.paper }}">\[paper\]</a>&nbsp;{% if publi.link.code %}<a href="{{ publi.link.code }}">\[code\]</a>{% endif %}&nbsp;{% if publi.promote %}<a href="{{ publi.promote.link }}">\[{{ publi.promote.name }}\]</a>{% endif %}
+ {% if publi.highlight %}&nbsp;&nbsp;&nbsp;&nbsp;   <strong style="color:#C7254E;">({{ publi.highlight }})</strong>  {% endif %} &nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ publi.link.paper }}">\[paper\]</a>&nbsp;{% if publi.link.code %}<a href="{{ publi.link.code }}">\[code\]</a>{% endif %}&nbsp;{% if publi.promote %}<a href="{{ publi.promote.link }}">\[{{ publi.promote.name }}\]</a>{% endif %}
 
 {% endfor %}
 
