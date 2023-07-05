@@ -6,6 +6,9 @@
   link:
     paper: https://arxiv.org/pdf/2305.01278.pdf
     code: https://vpgtrans.github.io/
+  promote:
+    name: 新智元
+    link: https://mp.weixin.qq.com/s/7Pf1PCZKdpyWOLdUyBH-Bw
 
 - title: Revisiting Conversation Discourse for Dialogue Disentanglement
   venue:
