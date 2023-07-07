@@ -172,16 +172,15 @@ Jump to [Vexento](#vexento), [Slushii](#slushii), [Marshmello](#marshmello), [Ot
 
 - `Stargazing`
 
-
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=306251268/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/track=4065950764/transparent=true/" seamless><a href="https://slushiimusic.bandcamp.com/album/dream">Dream by Slushii</a></iframe>
+
 
 
 <div style="margin-top: 20px"></div>
 
 - `So Long` (feat. Madi)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/275443224&color=%2330deec&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/3Cy4OhGwwkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
@@ -190,7 +189,7 @@ Jump to [Vexento](#vexento), [Slushii](#slushii), [Marshmello](#marshmello), [Ot
 
 - `Hold On`
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336193473&color=%236e22fd&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/XTh75mVa2c0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
@@ -199,8 +198,7 @@ Jump to [Vexento](#vexento), [Slushii](#slushii), [Marshmello](#marshmello), [Ot
 
 - `Into the Light`
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336193806&color=%235ee9a0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/fUYXY6rgb-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
@@ -208,8 +206,7 @@ Jump to [Vexento](#vexento), [Slushii](#slushii), [Marshmello](#marshmello), [Ot
 
 - `Destiny`
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265920853&color=%236e22fd&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/d3gh_x0-0A0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
@@ -217,8 +214,7 @@ Jump to [Vexento](#vexento), [Slushii](#slushii), [Marshmello](#marshmello), [Ot
 
 - `Fly High`
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336194478&color=%23b9aace&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/UyopNcSgcK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
@@ -235,8 +231,7 @@ Jump to [Vexento](#vexento), [Slushii](#slushii), [Marshmello](#marshmello), [Ot
 
 - `Step By Step`
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/333172837&color=%236e22fd&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/ITYuhyvrn8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
@@ -244,8 +239,7 @@ Jump to [Vexento](#vexento), [Slushii](#slushii), [Marshmello](#marshmello), [Ot
 
 - `On My Own`
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/506244168&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/G-qsdIEPhsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 <div style="margin-top: 20px"></div>
@@ -261,16 +255,14 @@ Jump to [Vexento](#vexento), [Slushii](#slushii), [Marshmello](#marshmello), [Ot
 
 - `Without You`
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/464952183&color=%23d30663&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/eibXiaQlORc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 <div style="margin-top: 20px"></div>
 
 - `There x2` (ft. Marshmello)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/393284094&color=%239898bf&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/4wrW8J5jVqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
  
 
@@ -278,8 +270,7 @@ Jump to [Vexento](#vexento), [Slushii](#slushii), [Marshmello](#marshmello), [Ot
 
 - `Closer` (The Chainsmokers ft Halsey, Slushii Remix)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/282900559&color=%23b9aace&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/UhOCpeVvnKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
@@ -363,8 +354,7 @@ Jump to [Vexento](#vexento), [Slushii](#slushii), [Marshmello](#marshmello), [Ot
 
 - `Silence` (Slushii Remix)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347212748&color=%23dbae6b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/0T88vvr4nk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
  
 <div style="margin-top: 20px"></div>
@@ -374,6 +364,15 @@ Jump to [Vexento](#vexento), [Slushii](#slushii), [Marshmello](#marshmello), [Ot
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/9WIX-z7X8zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+ 
+
+
+<div style="margin-top: 20px"></div>
+
+- `Wolves` (ft. Selena Gomez)
+
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/3ZJ1PkZt3M8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
@@ -761,6 +760,11 @@ Jump to [Vexento](#vexento), [Slushii](#slushii), [Marshmello](#marshmello), [Ot
 
 
 
+<div style="margin-top: 20px"></div>
+
+- `Wake Up` (Jay Hardway)
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/imN-fyriY1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
