@@ -172,8 +172,8 @@ Jump to [Vexento](#vexento), [Slushii](#slushii), [Marshmello](#marshmello), [Ot
 
 - `Stargazing`
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/543707505&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=306251268/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/track=4065950764/transparent=true/" seamless><a href="https://slushiimusic.bandcamp.com/album/dream">Dream by Slushii</a></iframe>
 
 
 <div style="margin-top: 20px"></div>
