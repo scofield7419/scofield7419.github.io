@@ -45,7 +45,7 @@ permalink: /
 
 ### Profile
 I am currently a postdoc research fellow of [NExT++ research center](https://www.nextcenter.org/team), National University of Singapore, working with Prof. [Tat-Seng Chua](https://www.chuatatseng.com/).
-Previously, I was also an associate researcher at Singapore [SEA AI lab](https://sail.sea.com/), working with Prof. [Shuicheng Yan](https://yanshuicheng.info/).
+I am also an associate researcher at Singapore [SEA AI lab](https://sail.sea.com/), working with Prof. [Shuicheng Yan](https://yanshuicheng.info/).
 Prior to that, I received my Ph.D degree at Wuhan University, advised by Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ); 
 and received B.E degree from Xidian University.
 I was an intern at Baidu Inc. when I was in my B.E stage.
