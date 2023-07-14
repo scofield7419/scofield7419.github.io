@@ -73,6 +73,7 @@ Whenever communicating with people, my mind always follows tree-like Stack-based
   - I always have passions for hardware programming (STM32, ARM, Arduino, Raspberry Pi), which I learned during my B.E.
   - Whenever I am not thinking about research, I will pick up my interests:
     - i) learning various natural language, e.g., French, Spanish, German, Italian, Japanese, Korean.
+       I enjoy the experience of embodying different personality roles when speaking different languages.
     - ii) making EDM music; where I have a particular fondness for genres such as Future Bass and Dubstep. 
        I use FL-Studio, Cubase and GarageBand. I exclusively follow [Vexento](https://www.youtube.com/@Vexento), [Marshmello](https://www.youtube.com/@marshmello) and [Slushii](https://www.youtube.com/@SlushiiMusic). 
        See [my music playlist]({{ site.url }}{{ site.baseurl }}/music).
