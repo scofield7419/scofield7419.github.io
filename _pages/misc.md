@@ -32,6 +32,7 @@ permalink: /misc
 
 
 - About AI, Cognition and Thought
+  - [Cognitive Neuroscience of Language](https://www.routledge.com/Cognitive-Neuroscience-of-Language/Kemmerer/p/book/9781138318403) (David Kemmerer)
   - [Theories of language acquisition](https://www.montsaye.northants.sch.uk/assets/Uploads/English-Language-Summer-Work-2.pdf)
   - [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)
   - [Language and Thinking](https://courses.lumenlearning.com/waymaker-psychology/chapter/reading-language-and-thought/)
