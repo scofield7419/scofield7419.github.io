@@ -63,7 +63,7 @@ permalink: /services
 
 ### Journal Editorial Board
 
-- Guest Editor, at [Electronics](https://www.mdpi.com/journal/electronics), on [Advances in Large Language Model Empowered Machine Learning: Design and Application](https://www.mdpi.com/journal/electronics/special_issues/RC9S717EB3).
+- Guest Editor, at [Electronics](https://www.mdpi.com/journal/electronics), on a special issue of [Advances in Large Language Model Empowered Machine Learning: Design and Application](https://www.mdpi.com/journal/electronics/special_issues/RC9S717EB3)
 
 
 
