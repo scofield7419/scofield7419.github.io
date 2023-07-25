@@ -1,3 +1,23 @@
+
+- title: "Knowledge-enhanced event relation extraction via event ontology prompt"
+  venue:
+    full: Information Fusion
+  year: 2023
+  authors: Ling Zhuang<sup>#</sup>, <strong>Hao Fei</strong><sup>#</sup>, Po Hu
+  link:
+    paper: https://www.sciencedirect.com/science/article/abs/pii/S156625352300235X
+
+
+- title: "Syntax-based Dynamic Latent Graph for Event Relation Extraction"
+  venue:
+    full: Information Processing & Management
+    short: IPM
+  year: 2023
+  authors: Ling Zhuang, <strong>Hao Fei</strong>, Po Hu
+  link:
+    paper: #
+
+
 - title:  "On the Robustness of Aspect-based Sentiment Analysis: Rethinking Model, Data, and Training"
   venue:
     full: ACM Transactions on Information Systems
@@ -29,6 +49,18 @@
   link:
     paper: https://ieeexplore.ieee.org/document/9352534
     code: https://github.com/scofield7419/DRGA
+
+
+
+
+- title: "A semantic and syntactic enhanced neural model for financial sentiment analysis"
+  venue:
+    full: Information Processing & Management
+    short: IPM
+  year: 2022
+  authors: Chunli Xiang, Junchi Zhang, Fei Li, <strong>Hao Fei</strong>, Donghong Ji
+  link:
+    paper: https://www.sciencedirect.com/science/article/abs/pii/S0306457322000656
 
 
 
