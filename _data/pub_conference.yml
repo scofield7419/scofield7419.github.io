@@ -1,3 +1,12 @@
+- title: "DialogRE^C+: An Extension of DialogRE to Investigate How Much Coreference Helps Relation Extraction in Dialogs"
+  venue:
+    name: NLPCC
+  year: 2023
+  authors: Yiyun Xiong, Mengwei Dai, Fei Li, <strong>Hao Fei</strong>, Bobo Li, Shengqiong Wu, Chong Teng and Donghong Ji
+  link:
+    paper: #
+    code: #
+
 - title:  Reasoning Implicit Sentiment with Chain-of-Thought Prompting
   venue:
     name: ACL
