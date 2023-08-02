@@ -32,7 +32,7 @@ permalink: /services
 - IJCAI 2023, Speech & Natural Language Processing track, (SPC)
 - ACL 2023, Sentiment Analysis track, (AC)
 - EMNLP 2023, Information Extraction track, (SAC)
-
+- AAAI 2024, Speech & Natural Language Processing track, (SPC)
 
 
 <div style="margin-top: 30px"></div>
