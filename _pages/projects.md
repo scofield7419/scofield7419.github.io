@@ -30,7 +30,6 @@ permalink: /projects
   <div style="margin-top: -5px"><span style="font-size: 20px;">&#8226;</span> &nbsp; <a class="github-button" href="{{proj.paper.code}}" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Star</a></div>
   {% endif %}
 </div>
-</div>
 <div style="margin-top: 45px"></div>
 {% endfor %}
 
