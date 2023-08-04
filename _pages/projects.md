@@ -28,8 +28,6 @@ permalink: /projects
   <span style="font-size: 20px;">&#8226;</span> &nbsp; <strong style="font-size: 17px;">Description: </strong>{{ proj.desc}}<br>
   
   <div style="margin-top: -5px">{% if proj.paper.code %}<span style="font-size: 20px;">&#8226;</span> &nbsp; <a class="github-button" href="{{proj.paper.code}}" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Star</a>{% endif %}</div>
-  
-</div>
 </div>
 <div style="margin-top: 45px"></div>
 {% endfor %}
