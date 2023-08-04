@@ -23,13 +23,14 @@ permalink: /projects
 </div>
 <div  style="margin-left: 20px;margin-top: -20px">
   {% if proj.paper %}<span style="font-size: 20px;">&#8226;</span> &nbsp; <strong style="font-size: 17px;"><a href="{{proj.paper.link}}">{{proj.paper.name}}</a></strong><br />{% endif %}
-  <span style="font-size: 20px;">&#8226;</span> &nbsp; <strong style="font-size: 17px;"><a href="{{proj.site.link}}">Project site</a>{% if proj.site.note %} ({{proj.site.note}}){% endif %}</strong> &nbsp; &nbsp; &nbsp; <br>
+  <span style="font-size: 20px;">&#8226;</span> &nbsp; <strong style="font-size: 17px;"><a href="{{proj.site.link}}">Project site</a>{% if proj.site.note %} ({{proj.site.note}}){% endif %}</strong> &nbsp; &nbsp; &nbsp; 
+  <br>
   <span style="font-size: 20px;">&#8226;</span> &nbsp; <strong style="font-size: 17px;">Description: </strong>{{ proj.desc}}<br>
   {% if proj.paper.code %}
   <div style="margin-top: -5px">
-  <span style="font-size: 20px;">&#8226;</span> &nbsp; <a class="github-button" href="{{proj.paper.code}}" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Star</a>
+    <span style="font-size: 20px;">&#8226;</span> &nbsp; <a class="github-button" href="{{proj.paper.code}}" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Star</a>
+  </div>
   {% endif %}
-</div>
 </div>
 </div>
 <div style="margin-top: 45px"></div>
