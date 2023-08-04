@@ -1,3 +1,16 @@
+- name: XNLP
+  photo:
+    name: XNLP.png
+    scale: 100%
+  paper:
+    name: "XNLP: An Interactive Demonstration System for Universal Structured NLP"
+    link: https://arxiv.org/pdf/2308.01846.pdf
+  site:
+    link: https://xnlp.haofei.vip/
+    note: with demo
+  desc: "Structured Natural Language Processing (XNLP) is an important subset of NLP that entails understanding the underlying semantic or syntactic structure of texts, which serves as a foundational component for many downstream applications. Despite certain recent efforts to explore universal solutions for specific categories of XNLP tasks, a comprehensive and effective approach for unifying all XNLP tasks long remains underdeveloped. In the meanwhile, while XNLP demonstration systems are vital for researchers exploring various XNLP tasks, existing platforms can be limited to, e.g., supporting few XNLP tasks, lacking interactivity and universalness. To this end, we propose an advanced XNLP demonstration platform, where we propose leveraging LLM to achieve universal XNLP, with one model for all with high generalizability. Overall, our system advances in multiple aspects, including universal XNLP modeling, high performance, interpretability, scalability, and interactivity, providing a unified platform for exploring diverse XNLP tasks in the community."
+
+
 - name: VPGTrans
   photo:
     name: VPGTrans.png
