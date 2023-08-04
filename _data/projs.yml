@@ -11,6 +11,8 @@
   desc: "Structured Natural Language Processing (XNLP) is an important subset of NLP that entails understanding the underlying semantic or syntactic structure of texts, which serves as a foundational component for many downstream applications. Despite certain recent efforts to explore universal solutions for specific categories of XNLP tasks, a comprehensive and effective approach for unifying all XNLP tasks long remains underdeveloped. In the meanwhile, while XNLP demonstration systems are vital for researchers exploring various XNLP tasks, existing platforms can be limited to, e.g., supporting few XNLP tasks, lacking interactivity and universalness. To this end, we propose an advanced XNLP demonstration platform, where we propose leveraging LLM to achieve universal XNLP, with one model for all with high generalizability. Overall, our system advances in multiple aspects, including universal XNLP modeling, high performance, interpretability, scalability, and interactivity, providing a unified platform for exploring diverse XNLP tasks in the community."
 
 
+
+
 - name: VPGTrans
   photo:
     name: VPGTrans.png
@@ -28,6 +30,8 @@
       Based on our observation, we design a two-stage transfer framework named VPGTrans, which is simple yet highly effective. Through extensive experiments, we demonstrate that VPGTrans helps significantly speed up the transfer learning process without compromising performance. Remarkably, it helps achieve the VPG transfer from BLIP-2 OPT<sub>2.7B</sub> to BLIP-2 OPT<sub>6.7B</sub> with over 10 times speed-up and 10.7% training data compared with connecting a VPG to OPT<sub>6.7B</sub> from scratch. Further, a series of intriguing findings and potential rationales behind them are provided and discussed. 
       Finally, we showcase the application value of our VPGTrans approach, by newly customizing two novel VL-LLMs, including VL-LLaMA and VL-Vicuna, with recently released LLaMA and Vicuna models.
       With our VPGTrans, one can build a novel high-performance VL-LLM based on any existing text-based LLMs and an existing VPG with considerably lower cost."
+
+
 
 
 - name: BiLSTM+CRF
