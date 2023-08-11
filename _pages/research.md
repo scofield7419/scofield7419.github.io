@@ -111,6 +111,7 @@ My research is sliced into the following blocks with selected publications [\[Vi
   - SG-aided Multimodal IE
   - SG-pivoted Multimodal Machine Translation
   - Image/Video Captioning, Cross-lingual Captioning
+  - Text-Image/Video Retrieval
   - Vision-Language/Video Event Extraction (Situation Recognition, SRL)
   - Structured Dual Learning
   - Text-to-Image/Video Generation
