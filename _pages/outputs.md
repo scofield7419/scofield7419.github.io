@@ -72,6 +72,7 @@ permalink: /outputs
 Those are the students I am (was) collaborating with.
 
 - Ph.D Students
+    - [Leigang Qu](https://scholar.google.com/citations?user=1W2Tio4AAAAJ), NUS, Co-advising with Prof. [Tat-Seng Chua](https://www.chuatatseng.com/)
     - [Shengqiong Wu](https://chocowu.github.io/), NUS, Co-advising with Prof. [Tat-Seng Chua](https://www.chuatatseng.com/)
     - [Yu Zhao](https://github.com/zhaoyucs), Tianjin University, CSC joint Ph.D @ NUS, Co-advising with Prof. [Meishan Zhang](https://zhangmeishan.github.io/)
     - [Bobo Li](https://github.com/unikcc), Wuhan University, CSC joint Ph.D @ NUS, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
@@ -82,10 +83,10 @@ Those are the students I am (was) collaborating with.
   - Bin Wang, Harbin Institute of Technology (Shenzhen), Co-advising with Prof. [Meishan Zhang](https://zhangmeishan.github.io/)
   - Minghui Xu, Wuhan University, Co-advising with Prof. [Fei Li](https://scholar.google.com/citations?user=AoMmysMAAAAJ)
   - Ling Zhuang, Central China Normal University, Co-advising with Prof. Po Hu
-  - [Jingye Li](https://ljynlp.github.io/), Wuhan University, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
   - Jiang Liu, Wuhan University, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
   - Li Zheng, Wuhan University, Co-advising with Prof. [Fei Li](https://scholar.google.com/citations?user=AoMmysMAAAAJ)
   - Yuyang Chai, Wuhan University, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
+  - [Jingye Li](https://ljynlp.github.io/), Wuhan University, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
   - Peng Tao, Wuhan University, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
   - Jun Gao, Wuhan University, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
 
