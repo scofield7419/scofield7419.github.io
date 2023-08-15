@@ -1,10 +1,11 @@
 - name: LayoutLLM-T2I
   photo:
     name: LayoutLLM-T2I.png
-    scale: 100%
+    scale: 97%
   paper:
     name: "LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation"
     link: https://arxiv.org/pdf/2308.05095.pdf
+    code: https://github.com/LayoutLLM-T2I/LayoutLLM-T2I
   site:
     link: https://layoutllm-t2i.github.io/
     note: with demo
