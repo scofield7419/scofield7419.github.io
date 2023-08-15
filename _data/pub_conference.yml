@@ -1,11 +1,45 @@
+- title: LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation
+  venue:
+    name: ACM MM
+  year: 2023
+  authors: Leigang Qu<sup>#</sup>, Shengqiong Wu<sup>#</sup>, <strong>Hao Fei<sup>*</sup></strong>, Liqiang Nie, Tat-Seng Chua
+  link:
+    paper: https://arxiv.org/pdf/2308.05095.pdf
+    code: https://layoutllm-t2i.github.io/
+    
+- title: Revisiting Disentanglement and Fusion on Modality and Context in Conversational Multimodal Emotion Recognition
+  venue:
+    name: ACM MM
+  year: 2023
+  authors: Bobo Li, <strong>Hao Fei</strong>, Lizi Liao, Yu Zhao, Chong Teng, Tat-Seng Chua, Donghong Ji, Fei Li
+  link:
+    paper: https://arxiv.org/pdf/2308.04502.pdf
+    
+- title: Constructing Holistic Spatio-Temporal Scene Graph for Video Semantic Role Labeling
+  venue:
+    name: ACM MM
+  year: 2023
+  authors: Yu Zhao, <strong>Hao Fei<sup>*</sup></strong>, Yixin Cao, Bobo Li, Meishan Zhang, Jianguo Wei, Min Zhang, Tat-Seng Chua
+  link:
+    paper: https://arxiv.org/pdf/2308.05081.pdf
+
+- title: Partial Annotation-based Video Moment Retrieval via Iterative Learning
+  venue:
+    name: ACM MM
+  year: 2023
+  authors: Wei Ji, Renjie Liang, Lizi Liao, <strong>Hao Fei<sup>*</sup></strong>, Fuli Feng
+  link:
+    paper: #
+
+    
 - title: "DialogRE^C+: An Extension of DialogRE to Investigate How Much Coreference Helps Relation Extraction in Dialogs"
   venue:
     name: NLPCC
   year: 2023
   authors: Yiyun Xiong, Mengwei Dai, Fei Li, <strong>Hao Fei</strong>, Bobo Li, Shengqiong Wu, Chong Teng and Donghong Ji
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/pdf/2308.04498.pdf
+    code: https://github.com/palm2333/DialogRE_coreference
 
 - title:  Reasoning Implicit Sentiment with Chain-of-Thought Prompting
   venue:
