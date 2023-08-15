@@ -1,4 +1,4 @@
-- title: LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation
+- title: "LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation"
   venue:
     name: ACM MM
   year: 2023
@@ -29,7 +29,7 @@
   year: 2023
   authors: Wei Ji, Renjie Liang, Lizi Liao, <strong>Hao Fei<sup>*</sup></strong>, Fuli Feng
   link:
-    paper: #
+    paper: \#
 
     
 - title: "DialogRE^C+: An Extension of DialogRE to Investigate How Much Coreference Helps Relation Extraction in Dialogs"
