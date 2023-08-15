@@ -1,3 +1,16 @@
+- name: LayoutLLM-T2I
+  photo:
+    name: LayoutLLM-T2I.png
+    scale: 100%
+  paper:
+    name: "LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation"
+    link: https://arxiv.org/pdf/2308.05095.pdf
+  site:
+    link: https://layoutllm-t2i.github.io/
+    note: with demo
+  desc: "In the text-to-image generation field, recent remarkable progress in Stable Diffusion makes it possible to generate rich kinds of novel photorealistic images. However, current models still face misalignment issues (e.g., problematic spatial relation understanding and numeration failure) in complex natural scenes, which impedes the high-faithfulness text-to-image generation. Although recent efforts have been made to improve controllability by giving fine-grained guidance (e.g., sketch and scribbles), this issue has not been fundamentally tackled since users have to provide such guidance information manually. In this work, we strive to synthesize high-fidelity images that are semantically aligned with a given textual prompt without any guidance. Toward this end, we propose a coarse-to-fine paradigm to achieve layout planning and image generation. Concretely, we first generate the coarse-grained layout conditioned on a given textual prompt via in-context learning based on Large Language Models. Afterward, we propose a fine-grained object-interaction diffusion method to synthesize high-faithfulness images conditioned on the prompt and the automatically generated layout. Extensive experiments demonstrate that our proposed method outperforms the state-of-the-art models in terms of cross-modal text-layout alignment and high-faithfulness image generation."
+
+
 - name: XNLP
   photo:
     name: XNLP.png
