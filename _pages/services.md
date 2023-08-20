@@ -73,6 +73,7 @@ permalink: /services
 ### Journal Reviewer
 
 - IEEE TPAMI
+- IEEE TMM
 - IEEE TKDE
 - ACM TOIS
 - IEEE TNNLS
