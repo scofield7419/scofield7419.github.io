@@ -72,7 +72,6 @@ permalink: /outputs
 Those are the students I am (was) collaborating with.
 
 - Ph.D Students
-    - [Leigang Qu](https://scholar.google.com/citations?user=1W2Tio4AAAAJ), NUS, Co-advising with Prof. [Tat-Seng Chua](https://www.chuatatseng.com/)
     - [Shengqiong Wu](https://chocowu.github.io/), NUS, Co-advising with Prof. [Tat-Seng Chua](https://www.chuatatseng.com/)
     - [Yu Zhao](https://github.com/zhaoyucs), Tianjin University, CSC joint Ph.D @ NUS, Co-advising with Prof. [Meishan Zhang](https://zhangmeishan.github.io/)
     - [Bobo Li](https://github.com/unikcc), Wuhan University, CSC joint Ph.D @ NUS, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
