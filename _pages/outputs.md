@@ -27,7 +27,7 @@ permalink: /outputs
 ### Invited Talks 
 
 - 2023.8: **LLM-Empowered Text-to-Vision Diffusion Models**, WING lab @ NUS, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/20230825-WING-feihao.pdf)
-- 2023.8: **Scene Graph-driven Structured Vision-Language Learning**, Institute of Computing Technology, Chinese Academy of Sciences, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/20230823-CAS-feihao.pdf)
+- 2023.8: **Scene Graph-driven Structured Vision-Language Learning**, Chinese Academy of Sciences, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/20230823-CAS-feihao.pdf)
 - 2023.4: **Towards Human-level AI**, Huawei Cloud, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/talk-HaoFei-Towards-Human-level-AI.pdf)
 - 2023.2: **Towards Human-level AI**, NExT++ @ NUS, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/talk-HaoFei-Towards-Human-level-AI.pdf)
 - 2022.10: **On the Structure-aware NLP and Beyond**, Jianghan University, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/talk-HaoFei-structure-aware-NLP.pdf)
@@ -74,12 +74,14 @@ permalink: /outputs
 Those are the students I am (was) collaborating with.
 
 - Ph.D Students
+    - Han Zhang, Xidian University
     - [Shengqiong Wu](https://chocowu.github.io/), NUS, Co-advising with Prof. [Tat-Seng Chua](https://www.chuatatseng.com/)
     - [Yu Zhao](https://github.com/zhaoyucs), Tianjin University, CSC joint Ph.D @ NUS, Co-advising with Prof. [Meishan Zhang](https://zhangmeishan.github.io/)
     - [Bobo Li](https://github.com/unikcc), Wuhan University, CSC joint Ph.D @ NUS, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
 
 
 - Master Students
+  - Meng Luo, NUS
   - Haidong Xu, Harbin Institute of Technology (Shenzhen), Co-advising with Prof. [Meishan Zhang](https://zhangmeishan.github.io/)
   - Bin Wang, Harbin Institute of Technology (Shenzhen), Co-advising with Prof. [Meishan Zhang](https://zhangmeishan.github.io/)
   - Minghui Xu, Wuhan University, Co-advising with Prof. [Fei Li](https://scholar.google.com/citations?user=AoMmysMAAAAJ)
