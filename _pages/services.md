@@ -74,6 +74,7 @@ permalink: /services
 
 - IEEE TPAMI
 - IEEE TMM
+- IEEE TCSVT
 - IEEE TKDE
 - ACM TOIS
 - IEEE TNNLS
