@@ -1,3 +1,12 @@
+- title: Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models
+  venue:
+    name: arXiv
+  year: 2023
+  authors: <strong>Hao Fei</strong>, Shengqiong Wu, Wei Ji, Hanwang Zhang, Tat-Seng Chua
+  link:
+    paper: https://arxiv.org/pdf/2308.13812.pdf
+    code: https://haofei.vip/Dysen-VDM/
+
 - title: Transfer Visual Prompt Generator across LLMs
   venue:
     name: arXiv
