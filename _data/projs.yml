@@ -1,7 +1,7 @@
 - name: Dysen-VDM
   photo:
     name: Dysen-VDM.png
-    scale: 75%
+    scale: 85%
   paper:
     name: "Dysen-VDM: Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models"
     link: https://arxiv.org/pdf/2308.13812.pdf
