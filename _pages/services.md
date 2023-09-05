@@ -33,6 +33,7 @@ permalink: /services
 - ACL 2023, Sentiment Analysis track, (AC)
 - EMNLP 2023, Information Extraction track, (SAC)
 - AAAI 2024, Speech & Natural Language Processing track, (SPC)
+- COLING 2024, Information Extraction track, (SAC)
 
 
 <div style="margin-top: 30px"></div>
@@ -54,6 +55,7 @@ permalink: /services
 - AACL 2020, 2021, 2022, 2023
 - NLPCC 2019, 2020, 2021, 2022, 2022
 - CCL 2019, 2020, 2021, 2022, 2023
+- WWW 2023, 2024
 
 
 
