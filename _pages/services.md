@@ -33,7 +33,7 @@ permalink: /services
 - ACL 2023, Sentiment Analysis track, (AC)
 - EMNLP 2023, Information Extraction track, (SAC)
 - AAAI 2024, Speech & Natural Language Processing track, (SPC)
-- COLING 2024, Information Extraction track, (SAC)
+- LREC-COLING 2024, Lexicon and Semantics track, (SAC)
 
 
 <div style="margin-top: 30px"></div>
@@ -50,8 +50,8 @@ permalink: /services
 - AAAI 2019, 2020, 2021, 2022, 2023
 - IJCAI 2019, 2020, 2021, 2022
 - SIGIR 2023
-- EMNLP 2018, 2018 2020, 2021
-- COLING 2018, 2018 2020, 2021, 2022, 2022
+- EMNLP 2018, 2019, 2020, 2021, 2022
+- COLING 2018, 2020, 2022
 - AACL 2020, 2021, 2022, 2023
 - NLPCC 2019, 2020, 2021, 2022, 2022
 - CCL 2019, 2020, 2021, 2022, 2023
