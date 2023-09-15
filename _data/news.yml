@@ -1,6 +1,6 @@
 - date: 12 Sep 2023
   headline: "We are excited to announce the release of NExT-GPT, the first end-to-end MM-LLM that perceives input and generates output in arbitrary combinations (any-to-any) of text, image, video, and audio and beyond.
-[Demo](https://next-gpt.github.io/), [Code](https://github.com/NExT-GPT/NExT-GPT), [Paper](https://arxiv.org/pdf/2309.05519)"
+[**Demo**](https://next-gpt.github.io/), [**Code**](https://github.com/NExT-GPT/NExT-GPT), [**Paper**](https://arxiv.org/pdf/2309.05519)"
 
 - date: 25 Aug 2023
   headline: "Invited to give a talk at WING lab @ NUS, on the topic of [**LLM-Empowered Text-to-Vision Diffusion Models**](https://haofei.vip/downloads/20230825-WING-feihao.pdf)"
