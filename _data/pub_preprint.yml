@@ -2,10 +2,13 @@
   venue:
     name: arXiv
   year: 2023
-  authors: Shengqiong Wu, <strong>Hao Fei</strong>, Leigang Qu, Wei Ji, Tat-Seng Chua
+  authors: Shengqiong Wu, <strong>Hao Fei<sup>*</sup></strong>, Leigang Qu, Wei Ji, Tat-Seng Chua
   link:
     paper: https://arxiv.org/pdf/2309.05519
     code: https://next-gpt.github.io/
+  promote:
+    name: 新智元
+    link: https://mp.weixin.qq.com/s/rE24QWdOFlYhMk7v3tv-fg
 
 - title: Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models
   venue:
