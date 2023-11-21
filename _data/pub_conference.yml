@@ -9,6 +9,19 @@
     code: https://github.com/acharkq/molca
 
 
+- title: "VPGTrans: Transfer Visual Prompt Generator across LLMs"
+  venue:
+    name: NeurIPS
+  year: 2023
+  authors: Ao Zhang, <strong>Hao Fei<sup>*</sup></strong>, <strong>Yuan Yao<sup>*</sup></strong>, Wei Ji, Li Li, Zhiyuan Liu, Tat-Seng Chua
+  link:
+    paper: https://arxiv.org/pdf/2305.01278.pdf
+    code: https://vpgtrans.github.io/
+  promote:
+    name: 新智元
+    link: https://mp.weixin.qq.com/s/7Pf1PCZKdpyWOLdUyBH-Bw
+
+
 - title: "Imagine That! Abstract-to-Intricate Textto-Image Synthesis with Scene Graph Hallucination Diffusion"
   venue:
     name: NeurIPS
