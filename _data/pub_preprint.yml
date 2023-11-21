@@ -1,3 +1,22 @@
+
+- title: "Towards Complex-query Referring Image Segmentation: A Novel Benchmark"
+  venue:
+    name: arXiv
+  year: 2023
+  authors: Wei Ji, Li Li, <strong>Hao Fei</strong>, Xiangyan Liu, Xun Yang, Juncheng Li, Roger Zimmermann
+  link:
+    paper: https://arxiv.org/pdf/2309.17205
+
+
+- title: "ControlRetriever: Harnessing the Power of Instructions for Controllable Retrieval"
+  venue:
+    name: arXiv
+  year: 2023
+  authors: Kaihang Pan, Juncheng Li, Hongye Song, <strong>Hao Fei</strong>, Wei Ji, Shuo Zhang, Jun Lin, Xiaozhong Liu, Siliang Tang
+  link:
+    paper: https://arxiv.org/pdf/2308.10025
+
+
 - title: "NExT-GPT: Any-to-Any Multimodal LLM"
   venue:
     name: arXiv
@@ -10,6 +29,7 @@
     name: 新智元
     link: https://mp.weixin.qq.com/s/rE24QWdOFlYhMk7v3tv-fg
 
+
 - title: Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models
   venue:
     name: arXiv
@@ -18,18 +38,6 @@
   link:
     paper: https://arxiv.org/pdf/2308.13812.pdf
     code: https://haofei.vip/Dysen-VDM/
-
-- title: Transfer Visual Prompt Generator across LLMs
-  venue:
-    name: arXiv
-  year: 2023
-  authors: Ao Zhang, <strong>Hao Fei<sup>*</sup></strong>, <strong>Yuan Yao<sup>*</sup></strong>, Wei Ji, Li Li, Zhiyuan Liu, Tat-Seng Chua
-  link:
-    paper: https://arxiv.org/pdf/2305.01278.pdf
-    code: https://vpgtrans.github.io/
-  promote:
-    name: 新智元
-    link: https://mp.weixin.qq.com/s/7Pf1PCZKdpyWOLdUyBH-Bw
 
 - title: Revisiting Conversation Discourse for Dialogue Disentanglement
   venue:
