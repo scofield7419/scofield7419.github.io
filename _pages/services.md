@@ -19,6 +19,7 @@ permalink: /services
 - [NSSDM 2023](https://wing-nus.github.io/NSSDM-2023) Symposium Chair
 - [EMNLP 2023](https://2023.emnlp.org/organization/) Workshop Co-Chair
 - [ACL 2023](https://ijcai-22.org/) Session Chair (Summarization track)
+- [SSNLP 2023](https://wing-nus.github.io/ssnlp-2023/) Organizing Committee
 
 
 
@@ -32,7 +33,7 @@ permalink: /services
 - IJCAI 2023, Speech & Natural Language Processing track, (SPC)
 - ACL 2023, Sentiment Analysis track, (AC)
 - EMNLP 2023, Information Extraction track, (SAC)
-- AAAI 2024, Speech & Natural Language Processing track, (SPC)
+- AAAI 2024, Speech & Natural Language Processing + Computer Vision tracks, (SPC)
 - LREC-COLING 2024, Lexicon and Semantics track, (SAC)
 
 
@@ -56,6 +57,7 @@ permalink: /services
 - NLPCC 2019, 2020, 2021, 2022, 2022
 - CCL 2019, 2020, 2021, 2022, 2023
 - WWW 2023, 2024
+- CVPR 2024
 
 
 
@@ -75,6 +77,7 @@ permalink: /services
 ### Journal Reviewer
 
 - IEEE TPAMI
+- IJCV
 - IEEE TMM
 - IEEE TCSVT
 - IEEE TKDE
