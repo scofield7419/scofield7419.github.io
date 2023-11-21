@@ -26,6 +26,7 @@ permalink: /outputs
 
 ### Invited Talks 
 
+- 2023.9: **LLM-Empowered Text-to-Vision Diffusion Models**, [MLNLP 2023](http://mlnlp.world/mlnlp2023/), [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/20230825-WING-feihao.pdf)
 - 2023.8: **LLM-Empowered Text-to-Vision Diffusion Models**, WING lab @ NUS, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/20230825-WING-feihao.pdf)
 - 2023.8: **Scene Graph-driven Structured Vision-Language Learning**, Chinese Academy of Sciences, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/20230823-CAS-feihao.pdf)
 - 2023.4: **Towards Human-level AI**, Huawei Cloud, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/talk-HaoFei-Towards-Human-level-AI.pdf)
@@ -81,6 +82,7 @@ Those are the students I am (was) collaborating with.
 
 
 - Master Students
+  - Jundong Xu, NUS
   - Meng Luo, NUS
   - Haidong Xu, Harbin Institute of Technology (Shenzhen), Co-advising with Prof. [Meishan Zhang](https://zhangmeishan.github.io/)
   - Bin Wang, Harbin Institute of Technology (Shenzhen), Co-advising with Prof. [Meishan Zhang](https://zhangmeishan.github.io/)
