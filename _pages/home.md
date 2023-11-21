@@ -83,9 +83,11 @@ I am (was) the organization committee of WSDM 2022 (Volunteer Chair), NSSDM 2023
 
 ### Advertising
 
-**I am constantly looking for collaborations.**
+**I am constantly looking for collaborations**, especially on the topics mentioned above. 
+Remote manner is also supported.
+For promising students I will provide sufficient GPUs.
 Hit me up, if you are a Ph.D/master/bachelor student and interested in what I am doing now.
-When you are from Chinese universities, there are also vacancies for research interns (e.g., self-/CSC-funded joint PhD project). 
+When you are from Chinese universities, there are also vacancies for research interns (e.g., self-/CSC-funded joint PhD project).
 Please describe your research status and attach your resume.
 {: .text-justify}
 
