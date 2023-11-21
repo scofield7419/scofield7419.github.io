@@ -1,3 +1,23 @@
+
+- title: "Molca: Molecular graph-language modeling with cross-modal projector and uni-modal adapter"
+  venue:
+    name: EMNLP
+  year: 2023
+  authors: Zhiyuan Liu, Sihang Li, Yanchen Luo, <strong>Hao Fei</strong>, Yixin Cao, Kenji Kawaguchi, Xiang Wang, Tat-Seng Chua
+  link:
+    paper: https://arxiv.org/pdf/2310.12798
+    code: https://github.com/acharkq/molca
+
+
+- title: "Imagine That! Abstract-to-Intricate Textto-Image Synthesis with Scene Graph Hallucination Diffusion"
+  venue:
+    name: NeurIPS
+  year: 2023
+  authors: Shengqiong Wu, <strong>Hao Fei<sup>*</sup></strong>, Hanwang Zhang, Tat-Seng Chua
+  link:
+    paper: https://neurips.cc/virtual/2023/poster/70785
+    code: https://github.com/ChocoWu/T2I-Salad
+
 - title: "LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation"
   venue:
     name: ACM MM
