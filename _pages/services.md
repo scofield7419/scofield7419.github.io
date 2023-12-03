@@ -35,6 +35,7 @@ permalink: /services
 - EMNLP 2023, Information Extraction track, (SAC)
 - AAAI 2024, Speech & Natural Language Processing + Computer Vision tracks, (SPC)
 - LREC-COLING 2024, Lexicon and Semantics track, (SAC)
+- IJCAI 2024, Speech & Natural Language Processing track, (SPC)
 
 
 <div style="margin-top: 30px"></div>
