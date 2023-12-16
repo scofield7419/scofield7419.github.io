@@ -1,5 +1,18 @@
 
 
+- date: 9 Dec 2023
+  headline: "Three papers are accepted by AAAI 2024, 1) **Commonsense Reasoning with Graph-of-Thought**, 2) **DiaASQ**, 3) **Spectral GNN**. Congrats to my co-authors!"
+
+
+- date: 7 Dec 2023
+  headline: "Invited to give a talk at [**CIPS Youth Working Committee in A Star, Singapore**](https://mp.weixin.qq.com/s/LeJwkE_sk29twigo1wxkMw), on the topic of **From Multimodal LLM to AGI**."
+
+
+- date: 4 Dec 2023
+  headline: "[SSNLP 2023](https://wing-nus.github.io/ssnlp-2023/) was held successfully, big thanks to invited speakers and our organizing committee."
+  photo: "<img src='/images/newspic/ssnlp23.jpg' class='img-responsive' style='max-width: 800px' />"
+
+
 - date: 8 Oct 2023
   headline: "One paper is accepted by EMNLP 2023, [**Molca**](https://acharkq.github.io/MolCA/) about **Molecular LLM**, welcome try the [online demo](https://acharkq.github.io/MolCA/) here. Congrats to my co-authors!"
 
@@ -77,7 +90,7 @@
 
 
 - date: 5 March 2023
-  headline: "[NSSDM 2023](https://wing-nus.github.io/NSSDM-2023) was hold successfully, thanks our keynote speakers;
+  headline: "[NSSDM 2023](https://wing-nus.github.io/NSSDM-2023) was held successfully, thanks our keynote speakers;
           also special thanks to our co-organizers [Wenjie](https://wenjiewwj.github.io/), [Yisong](https://yisong.me/) for the hard work!
           See the archive videos of the symposium at [homepage](https://wing-nus.github.io/NSSDM-2023)."
   photo: "<img src='/images/newspic/NSSDM23-panel.jpeg' class='img-responsive' style='max-width: 800px' />"
