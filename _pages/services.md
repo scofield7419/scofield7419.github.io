@@ -36,6 +36,8 @@ permalink: /services
 - AAAI 2024, Speech & Natural Language Processing + Computer Vision tracks, (SPC)
 - LREC-COLING 2024, Lexicon and Semantics track, (SAC)
 - IJCAI 2024, Speech & Natural Language Processing track, (SPC)
+- NAACL 2024, (AC/ARR-AE)
+- EACL 2024, (AC/ARR-AE)
 
 
 <div style="margin-top: 30px"></div>
@@ -51,7 +53,7 @@ permalink: /services
 - NeurIPS (Data and Benchmark Track) 2023
 - AAAI 2019, 2020, 2021, 2022, 2023
 - IJCAI 2019, 2020, 2021, 2022
-- SIGIR 2023
+- SIGIR 2023, 2024
 - EMNLP 2018, 2019, 2020, 2021, 2022
 - COLING 2018, 2020, 2022
 - AACL 2020, 2021, 2022, 2023
