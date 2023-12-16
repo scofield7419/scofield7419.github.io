@@ -1,4 +1,30 @@
 
+- title: "Reverse Multi-Choice Dialogue Commonsense Inference with Graph-of-Thought"
+  venue:
+    name: AAAI
+  year: 2024
+  authors: Li Zheng, <strong>Hao Fei</strong>, Fei Li1, Bobo Li, Lizi Liao, Donghong Ji, Chong Teng
+  link:
+    paper: #
+
+
+- title: "Harnessing Holistic Discourse Features and Triadic Interaction for Sentiment Quadruple Extraction in Dialogues"
+  venue:
+    name: AAAI
+  year: 2024
+  authors: Bobo Li, <strong>Hao Fei</strong>, Lizi Liao, Yu Zhao, Fangfang Su, Fei Li, Donghong Ji
+  link:
+    paper: #
+
+
+- title: "Improving Expressive Power of Spectral Graph Neural Networks with Eigenvalue Correction"
+  venue:
+    name: AAAI
+  year: 2024
+  authors: Kangkang Lu, Yanhua Yu, <strong>Hao Fei</strong>, Xuan Li, Zixuan Yang, Zirui Guo, Meiyu Liang, Mengran Yin, Tat-Seng Chua
+  link:
+    paper: #
+
 - title: "Molca: Molecular graph-language modeling with cross-modal projector and uni-modal adapter"
   venue:
     name: EMNLP
