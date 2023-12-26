@@ -28,7 +28,7 @@ permalink: /outputs
 
 
 
-- 2023.12: **From Multimodal LLM to AGI**, [**CIPS Youth Working Committee in A Star, Singapore**](https://mp.weixin.qq.com/s/LeJwkE_sk29twigo1wxkMw)
+- 2023.12: **From Multimodal LLM to AGI**, [CIPS Youth Working Committee in A Star, Singapore](https://mp.weixin.qq.com/s/LeJwkE_sk29twigo1wxkMw)
 - 2023.9: **LLM-Empowered Text-to-Vision Diffusion Models**, [MLNLP 2023](http://mlnlp.world/mlnlp2023/), [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/20230825-WING-feihao.pdf)
 - 2023.8: **LLM-Empowered Text-to-Vision Diffusion Models**, WING lab @ NUS, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/20230825-WING-feihao.pdf)
 - 2023.8: **Scene Graph-driven Structured Vision-Language Learning**, Chinese Academy of Sciences, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/20230823-CAS-feihao.pdf)
