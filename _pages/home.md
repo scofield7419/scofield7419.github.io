@@ -73,7 +73,8 @@ Also, I believe so much that the key to realizing human-level AGI lies in two fu
 My research has been published in top-tier ML/NLP/DM venues, including, ICML, NeurIPS, ACL, AAAI, WWW, SIGIR, IJCAI, EMNLP, COLING, TOIS, TNNLS, TASLP, etc.
 My Ph.D thesis was awarded the Excellent Doctoral Thesis of Chinese Information Processing Society (CIPS).
 I won more than ten honors and awards when I was in Ph.D stage.
-I've served as (Senior) Area Chair or Senior Program Committee of top-tier conferences, such as ACL, IJCAI, EMNLP, WSDM, ARR. Also, I am the persistently-invited reviewer for prestigious journals including TPAMI, TNNLS, TKDE, TOIS, TAFFC and TASLP, etc.
+I've served as (Senior) Area Chair or Senior Program Committee of top-tier conferences, such as ACL, AAAI, IJCAI, EMNLP, NAACL, WSDM, COLING, ARR. 
+I am a persistently-invited reviewer for prestigious journals including TPAMI, TNNLS, TKDE, TOIS, TAFFC and TASLP, etc.
 I am (was) the organization committee of WSDM 2022 (Volunteer Chair), NSSDM 2023 (Program Chair), EMNLP 2023 (Workshop Chair), SSNLP 2023 (Organizing Committee). 
 Also I am the Associate Editor of some journals, including TALLIP and Neurocomputing.
 {: .text-justify}
