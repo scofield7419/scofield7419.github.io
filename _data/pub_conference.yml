@@ -5,7 +5,8 @@
   year: 2024
   authors: Li Zheng, <strong>Hao Fei</strong>, Fei Li1, Bobo Li, Lizi Liao, Donghong Ji, Chong Teng
   link:
-    paper: #
+    paper: https://arxiv.org/pdf/2312.15291.pdf
+    code: https://github.com/ZhengL00/ReX-GoT
 
 
 - title: "Harnessing Holistic Discourse Features and Triadic Interaction for Sentiment Quadruple Extraction in Dialogues"
