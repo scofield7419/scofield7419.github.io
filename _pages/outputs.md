@@ -28,6 +28,7 @@ permalink: /outputs
 
 
 
+- 2024.1: **From Multimodal LLM to AGI**, [Harbin Institute of Technology, Shenzhen](#)
 - 2023.12: **From Multimodal LLM to AGI**, [CIPS Youth Working Committee in A Star, Singapore](https://mp.weixin.qq.com/s/LeJwkE_sk29twigo1wxkMw)
 - 2023.9: **LLM-Empowered Text-to-Vision Diffusion Models**, [MLNLP 2023](http://mlnlp.world/mlnlp2023/), [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/20230825-WING-feihao.pdf)
 - 2023.8: **LLM-Empowered Text-to-Vision Diffusion Models**, WING lab @ NUS, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/20230825-WING-feihao.pdf)
@@ -39,7 +40,7 @@ permalink: /outputs
 - 2022.6: **On the Structure-aware NLP and Beyond**, NExT++ @ NUS, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/talk-HaoFei-structure-aware-NLP.pdf)
 - 2021.10: **Language Semantic Vs. Syntactic Structure Parsing**, Wuhan University, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/Semantic-Syntactic-parsing.pdf)
 - 2020.8: **Deep Learning in NLP**, Wuhan University, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/Deep-Learning-NLP.pdf)
-- 2019.11: **Implicit Objective Network for Emotion Detection**, NLPCC 2019,  [(slides)]()
+- 2019.11: **Implicit Objective Network for Emotion Detection**, NLPCC 2019,  [(slides)](#)
 
 
 
