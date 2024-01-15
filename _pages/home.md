@@ -46,9 +46,8 @@ permalink: /
 ### Profile
 I am currently a postdoc research fellow of National University of Singapore, working with Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) at [NExT++ research center](https://www.nextcenter.org/team), and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) and Prof. [Mong Li Lee](https://www.comp.nus.edu.sg/~leeml/) at [Institute of Data Science](https://ids.nus.edu.sg/).
 I am also an associate researcher at [Kunlun 2050 Research, Skywork AI Lab](#) Singapore, working with Prof. [Shuicheng Yan](https://yanshuicheng.info/) (previously an associate researcher at [SEA AI lab](https://sail.sea.com/)).
-Prior to that, I received my Ph.D degree at Wuhan University, advised by Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ); 
-and received B.E degree from Xidian University.
-I was an intern at Baidu Inc. when I was in my B.E stage.
+Prior to that, I received my Ph.D degree at Wuhan University, advised by Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ).
+I was an intern at Baidu Inc. when I was in bachelor.
 {: .text-justify}
 
 
