@@ -1,4 +1,14 @@
 
+- title: "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning"
+  venue:
+    name: arXiv
+  year: 2023
+  authors: Sijin Chen, Xin Chen, Chi Zhang, Mingsheng Li, Gang Yu, <strong>Hao Fei</strong>, Hongyuan Zhu, Jiayuan Fan, Tao Chen
+  link:
+    paper: https://arxiv.org/pdf/2311.18651
+    code: https://github.com/Open3DA/LL3DA
+
+
 - title: "Towards Complex-query Referring Image Segmentation: A Novel Benchmark"
   venue:
     name: arXiv
