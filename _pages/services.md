@@ -39,6 +39,7 @@ permalink: /services
 - IJCAI 2024, Speech & Natural Language Processing track, (SPC)
 - NAACL 2024, (AC/ARR-AE)
 - EACL 2024, (AC/ARR-AE)
+- ACM MM 2024, (AC)
 
 
 <div style="margin-top: 30px"></div>
