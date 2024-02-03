@@ -1,4 +1,24 @@
 
+- title: "MMLSCU: A Dataset for Multi-modal Multi-domain Live Streaming Comment Understanding"
+  venue:
+    name: TheWebConf (WWW)
+  year: 2024
+  authors: Zixiang Meng, Qiang Gao, Di Guo, Yunlong Li, Bobo Li, <strong>Hao Fei</strong>, Shengqiong Wu, Fei Li, Chong Teng, Donghong Ji
+  link:
+    paper: #
+    code: #
+
+
+- title: "In-Context Learning for Few-Shot Nested Named Entity Recognition"
+  venue:
+    name: ICASSP
+  year: 2024
+  authors: Meishan Zhang, Bin Wang, <strong>Hao Fei<sup>*</sup></strong>, Min Zhang
+  link:
+    paper: #
+
+
+
 - title: "Reverse Multi-Choice Dialogue Commonsense Inference with Graph-of-Thought"
   venue:
     name: AAAI
@@ -256,7 +276,7 @@
 
 - title:  "Making Decision like Human: Joint Aspect Category Sentiment Analysis and Rating Prediction with Fine-to-Coarse Reasoning"
   venue:
-    name: WWW
+    name: TheWebConf (WWW)
   year: 2022
   authors: <strong>Hao Fei</strong>, Jingye Li, Yafeng Ren, Meishan Zhang, Donghong Ji
   link:
@@ -429,7 +449,7 @@
 
 - title:  "Latent Target-Opinion as Prior for Document-Level Sentiment Classification: A Variational Approach from Fine-Grained Perspective"
   venue:
-    name: WWW
+    name: TheWebConf (WWW)
   year: 2021
   authors: <strong>Hao Fei</strong>, Yafeng Ren, Bobo Li, Shengqiong Wu, Donghong Ji
   link:
