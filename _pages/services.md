@@ -52,6 +52,7 @@ permalink: /services
 - ARR 2021, 2022, 2023
 - ICML 2021, 2022, 2023
 - ICLR 2020, 2021, 2022, 2023
+- ICLR (AGI Workshop) 2024
 - NeurIPS 2020, 2021, 2022, 2023
 - NeurIPS (Data and Benchmark Track) 2023
 - AAAI 2019, 2020, 2021, 2022, 2023
@@ -65,8 +66,6 @@ permalink: /services
 - WWW 2023, 2024
 - CVPR 2024
 - COLM 2024
-
-
 
 <div style="margin-top: 30px"></div>
 
