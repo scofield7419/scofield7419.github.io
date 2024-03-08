@@ -1,4 +1,33 @@
 
+- title: Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models
+  venue:
+    name: CVPR
+  year: 2023
+  authors: <strong>Hao Fei</strong>, Shengqiong Wu, Wei Ji, Hanwang Zhang, Tat-Seng Chua
+  link:
+    paper: https://arxiv.org/pdf/2308.13812.pdf
+    code: https://haofei.vip/Dysen-VDM/
+
+
+- title: "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning"
+  venue:
+    name: CVPR
+  year: 2024
+  authors: Sijin Chen, Xin Chen, Chi Zhang, Mingsheng Li, Gang Yu, <strong>Hao Fei</strong>, Hongyuan Zhu, Jiayuan Fan, Tao Chen
+  link:
+    paper: https://arxiv.org/pdf/2311.18651
+    code: https://github.com/Open3DA/LL3DA
+
+
+- title: "What Factors Influence LLMs' Judgments? A Case Study on Question Answering"
+  venue:
+    name: COLING
+  year: 2024
+  authors: Lei Chen, Bobo Li, Li Zheng, Haining Wang, Zixiang Meng, Runfeng Shi, <strong>Hao Fei</strong>, Jun Zhou, Fei Li, Chong Teng and Donghong Ji
+  link:
+    paper: #
+
+
 - title: "MMLSCU: A Dataset for Multi-modal Multi-domain Live Streaming Comment Understanding"
   venue:
     name: TheWebConf (WWW)
@@ -15,7 +44,7 @@
   year: 2024
   authors: Meishan Zhang, Bin Wang, <strong>Hao Fei<sup>*</sup></strong>, Min Zhang
   link:
-    paper: #
+    paper: https://arxiv.org/pdf/2402.01182
 
 
 
@@ -44,7 +73,7 @@
   year: 2024
   authors: Kangkang Lu, Yanhua Yu, <strong>Hao Fei</strong>, Xuan Li, Zixuan Yang, Zirui Guo, Meiyu Liang, Mengran Yin, Tat-Seng Chua
   link:
-    paper: #
+    paper: https://arxiv.org/pdf/2401.15603
 
 - title: "Molca: Molecular graph-language modeling with cross-modal projector and uni-modal adapter"
   venue:
@@ -82,7 +111,7 @@
   venue:
     name: ACM MM
   year: 2023
-  authors: Leigang Qu<sup>#</sup>, Shengqiong Wu<sup>#</sup>, <strong>Hao Fei<sup>*</sup></strong>, Liqiang Nie, Tat-Seng Chua
+  authors: Leigang Qu, Shengqiong Wu, <strong>Hao Fei<sup>*</sup></strong>, Liqiang Nie, Tat-Seng Chua
   link:
     paper: https://arxiv.org/pdf/2308.05095.pdf
     code: https://layoutllm-t2i.github.io/
