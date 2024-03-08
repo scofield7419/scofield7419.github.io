@@ -29,6 +29,7 @@ permalink: /award
 ### Challenges and Shared Tasks
 
 
+- 2024: **2<sup>nd</sup>** place of SemEval-2024 Task 3: The Competition of Multimodal Emotion Cause Analysis in Conversations
 - 2019: **1<sup>st</sup>** place of Jing Dong Dialogue Challenge (JDDC) of preliminary competition
 - 2018: **1<sup>st</sup>** place of Text Matching Challenge of China Conference on Health Information Processing (CHIP) 
 
