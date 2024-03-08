@@ -50,7 +50,7 @@ permalink: /outputs
 
 ### Tutorials
 
-- 2024.6: **From Multimodal LLM to Human-level AI: Modality, Instruction, Reasoning and Beyond**, [Lrec-Coling 2024, Torino, Italia](https://mllm2024.github.io/CVPR2024)
+- 2024.6: **From Multimodal LLM to Human-level AI: Modality, Instruction, Reasoning and Beyond**, [CVPR 2024, Seattle WA, USA](https://mllm2024.github.io/CVPR2024)
 - 2024.5: **From Multimodal LLM to Human-level AI: Modality, Instruction, Reasoning, Efficiency and Beyond**, [Lrec-Coling 2024, Torino, Italia](https://mllm2024.github.io/COLING2024)
 - 2022.10: **Python Introduction and Preliminary for Research**, Wuhan University
 - 2020.4: **How to AI Research and Paper Writing for AI Beginner**, Wuhan University, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/AI-research-for-beginer.pdf)
