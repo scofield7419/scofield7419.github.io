@@ -13,8 +13,9 @@ permalink: /outputs
 
 ### Organization of Workshop and Shared Tasks
 
-- Co-organizing the **1<sup>st</sup> Deep Multimodal Learning for Information Retrieval [(MMIR 2023)](https://videorelation.nextcenter.org/MMIR23/)** workshop @ [ACM Multimedia 2023](https://www.acmmm2023.org/) 
-- Co-organizing the **Conversational Aspect-based Sentiment Analysis [(DiaASQ)](https://conasq.pages.dev/)** shared task
+- Co-organizing the **Visual Spatial Description [(VSD)](https://lllogen.github.io/vsd-challenge.github.io/)** Grand Challenge @ [ACM Multimedia 2023](https://www.acmmm2023.org/) 
+- Co-organizing the **1<sup>st</sup> Deep Multimodal Learning for Information Retrieval [(MMIR 2023)](https://videorelation.nextcenter.org/MMIR23/)** Workshop @ [ACM Multimedia 2023](https://www.acmmm2023.org/) 
+- Co-organizing the **Conversational Aspect-based Sentiment Analysis [(DiaASQ)](https://conasq.pages.dev/)** Shared Task @ [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/cfpt.php)
 
 
 
@@ -49,8 +50,10 @@ permalink: /outputs
 
 ### Tutorials
 
-- 2022: **Python Introduction and Preliminary for Research**, Wuhan University
-- 2020: **How to AI Research and Paper Writing for AI Beginner**, Wuhan University, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/AI-research-for-beginer.pdf)
+- 2024.6: **From Multimodal LLM to Human-level AI: Modality, Instruction, Reasoning and Beyond**, [Lrec-Coling 2024, Torino, Italia](https://mllm2024.github.io/CVPR2024)
+- 2024.5: **From Multimodal LLM to Human-level AI: Modality, Instruction, Reasoning, Efficiency and Beyond**, [Lrec-Coling 2024, Torino, Italia](https://mllm2024.github.io/COLING2024)
+- 2022.10: **Python Introduction and Preliminary for Research**, Wuhan University
+- 2020.4: **How to AI Research and Paper Writing for AI Beginner**, Wuhan University, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/AI-research-for-beginer.pdf)
 
  
 
