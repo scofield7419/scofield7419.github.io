@@ -41,6 +41,9 @@ permalink: /services
 - EACL 2024, (AC/ARR-AE)
 - ACM MM 2024, (AC)
 - ICML 2024, (AC)
+- ACL 2024, (AC/ARR-AE)
+- CCL 2024, (AC)
+
 
 
 <div style="margin-top: 30px"></div>
