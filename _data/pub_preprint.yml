@@ -1,12 +1,20 @@
 
-- title: "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning"
+- title: "Momentor: Advancing Video Large Language Model with Fine-Grained Temporal Reasoning"
+  venue:
+    name: arXiv
+  year: 2024
+  authors: Long Qian, Juncheng Li, Yu Wu, Yaobo Ye, <strong>Hao Fei</strong>, Tat-Seng Chua, Yueting Zhuang, Siliang Tang
+  link:
+    paper: https://arxiv.org/pdf/2402.11435
+
+
+- title: "De-fine: Decomposing and Refining Visual Programs with Auto-Feedback"
   venue:
     name: arXiv
   year: 2023
-  authors: Sijin Chen, Xin Chen, Chi Zhang, Mingsheng Li, Gang Yu, <strong>Hao Fei</strong>, Hongyuan Zhu, Jiayuan Fan, Tao Chen
+  authors: Minghe Gao, Juncheng Li, <strong>Hao Fei</strong>, Wei Ji, Guoming Wang, Wenqiao Zhang, Siliang Tang, Yueting Zhuang
   link:
-    paper: https://arxiv.org/pdf/2311.18651
-    code: https://github.com/Open3DA/LL3DA
+    paper: https://arxiv.org/pdf/2311.12890
 
 
 - title: "Towards Complex-query Referring Image Segmentation: A Novel Benchmark"
@@ -39,15 +47,6 @@
     name: 新智元
     link: https://mp.weixin.qq.com/s/rE24QWdOFlYhMk7v3tv-fg
 
-
-- title: Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models
-  venue:
-    name: arXiv
-  year: 2023
-  authors: <strong>Hao Fei</strong>, Shengqiong Wu, Wei Ji, Hanwang Zhang, Tat-Seng Chua
-  link:
-    paper: https://arxiv.org/pdf/2308.13812.pdf
-    code: https://haofei.vip/Dysen-VDM/
 
 - title: Revisiting Conversation Discourse for Dialogue Disentanglement
   venue:
