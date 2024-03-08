@@ -75,6 +75,7 @@ permalink: /services
 
 ### Journal Editorial Board
 
+- Guest Editor, at [ACM Transactions on Multimedia Computing, Communications, and Applications (ToMM)](https://dl.acm.org/journal/tomm), on a special issue of [Deep Multimodal Generation and Retrieval](https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM-SI_ToMM_MMGR-1708635711467.pdf)
 - Associate Editor, [ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)](https://dl.acm.org/journal/tallip)
 - Associate Editor, [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 - Guest Editor, at [Electronics](https://www.mdpi.com/journal/electronics), on a special issue of [Advances in Large Language Model Empowered Machine Learning: Design and Application](https://www.mdpi.com/journal/electronics/special_issues/RC9S717EB3)
