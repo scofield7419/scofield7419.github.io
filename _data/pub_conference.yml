@@ -1,4 +1,31 @@
 
+- title: "Multi-view Counterfactual Contrastive Learning for Fact-checking Fake News Detection"
+  venue:
+    name: ICMR
+  year: 2024
+  authors: Yongcheng Zhang, Lingou Kong, Sheng Tian, <strong>Hao Fei</strong>, Changpeng Xiang, Huan Wang, Xiaomei Wei
+  link:
+    paper: #
+
+
+- title: "Actively Learn from LLMs with Uncertainty Propagation for Generalized Category Discovery"
+  venue:
+    name: NAACL
+  year: 2024
+  authors: Jinggui Liang, Lizi Liao, <strong>Hao Fei</strong>, Bobo Li, Jing Jiang
+  link:
+    paper: #
+
+
+- title: "I3: Intent-Introspective Retrieval Conditioned on Instructions"
+  venue:
+    name: SIGIR
+  year: 2024
+  authors: Kaihang Pan, Juncheng Li, Wenjie Wang, <strong>Hao Fei</strong>, Hongye Song, Wei Ji, Jun Lin, Xiaozhong Liu, Tat-Seng Chua, Siliang Tang
+  link:
+    paper: #
+
+
 - title: "Dysen-VDM: Empowering Dynamics-aware Text-to-Video Diffusion with LLMs"
   venue:
     name: CVPR
