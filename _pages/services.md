@@ -43,6 +43,7 @@ permalink: /services
 - ICML 2024, (AC)
 - ACL 2024, (AC/ARR-AE)
 - CCL 2024, (AC)
+- NLPCC 2024, Sentiment Analysis track, (AC)
 
 
 
@@ -97,6 +98,7 @@ permalink: /services
 - IEEE TASLP
 - IEEE TAFFC
 - ACM TALLIP
+- ACM Computing Surveys
 - Information Processing & Management
 - Neurocomputing
 - Information Sciences
