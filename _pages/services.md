@@ -100,6 +100,7 @@ permalink: /services
 - ACM TALLIP
 - ACM Computing Surveys
 - Information Processing & Management
+- Information Fusion
 - Neurocomputing
 - Information Sciences
 - Knowledge-based System
