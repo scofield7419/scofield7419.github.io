@@ -1,7 +1,8 @@
 
 - title: "TKDP: Threefold Knowledge-enriched Deep Prompt Tuning for Few-shot Named Entity Recognition 	"
   venue:
-    name: TKDE
+    full: Transactions on Knowledge and Data Engineering
+    short: TKDE
   year: 2024
   authors: Jiang Liu, <strong>Hao Fei</strong>, Fei Li, Jingye Li, Bobo Li, Liang Zhao, Chong Teng, Donghong Ji
   link:
