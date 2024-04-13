@@ -65,13 +65,7 @@
   link:
     paper: https://arxiv.org/pdf/2306.03975.pdf
 
-- title: "TKDP: Threefold Knowledge-enriched Deep Prompt Tuning for Few-shot Named Entity Recognition 	"
-  venue:
-    name: arXiv
-  year: 2023
-  authors: Jiang Liu, <strong>Hao Fei</strong>, Fei Li, Jingye Li, Bobo Li, Liang Zhao, Chong Teng, Donghong Ji
-  link:
-    paper: https://arxiv.org/pdf/2306.03974.pdf
+
 
 - title: "ECQED: Emotion-Cause Quadruple Extraction in Dialogs"
   venue:
