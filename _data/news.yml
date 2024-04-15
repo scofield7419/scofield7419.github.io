@@ -1,4 +1,7 @@
 
+- date: 15 April 2023
+  headline: "We are excited to announce the release of **Vitron** ([**Demo**](https://vitron-llm.github.io/), [**Paper**](http://haofei.vip/downloads/papers/Skywork_Vitron_2024.pdf), [**Code**](https://github.com/SkyworkAI/Vitron)), a universal pixel-level vision LLM designed for comprehensive understanding (perceiving and reasoning), generating, segmenting (grounding and tracking), editing (inpainting) of both static image and dynamic video content."
+
 - date: 4 March 2023
   headline: "We are holding the Grand Challenge of [__Visual Spatial Description (VSD)__](https://lllogen.github.io/vsd-challenge.github.io/) at [ACM Multimedia 2023](https://www.acmmm2023.org/). Welcome participant!"
 
