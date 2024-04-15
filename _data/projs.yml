@@ -1,3 +1,16 @@
+- name: VITRON
+  photo:
+    name: vitron.png
+    scale: 80%
+  paper:
+    name: "VITRON: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing"
+    link: http://haofei.vip/downloads/papers/Skywork_Vitron_2024.pdf
+    code: https://github.com/SkyworkAI/Vitron
+  site:
+    link: https://vitron-llm.github.io/
+    note: with demo
+  desc: "Recent developments of vision large language models (LLMs) have seen remarkable progress, yet still encounter challenges towards multimodal generalists, such as coarse-grained instance-level understanding, lack of unified support for both images and videos, and insufficient coverage across various vision tasks. To fill the gaps, we present Vitron, a universal pixel-level vision LLM designed for comprehensive understanding, generating, segmenting, and editing of both static image and dynamic video content. Utilizing an LLM backbone, Vitron incorporates specialized encoders for images, videos, and pixel-level regional visuals within its frontend architecture, while as its backend, employing a text-centric invocation strategy for integrating diverse state-of-the-art off-the-shelf modules tailored for an array of vision-related end tasks. Via this, Vitron supports a spectrum of vision end tasks, spanning visual understanding to visual generation, from low level to high level. Through joint vision-language alignment and fine-grained region-aware instruction tuning, Vitron achieves precise pixel-level perception. We further enhance its capabilities with invocation-oriented instruction tuning, allowing for flexible and precise module invocation for downstream vision tasks. Demonstrated over 12 visual tasks and evaluated across 22 datasets, Vitron showcases its extensive capabilities in the four main vision task clusters, e.g., segmentation, understanding, content generation, and editing. Various demonstrations also illustrate Vitron's fortes in visual manipulation and user interactivity. Overall, this work illuminates the great potential of developing a more unified and interactive visual multimodal generalist, setting new frontiers for the next vision research."
+
 - name: NExT-GPT
   photo:
     name: NExT-GPT.png
