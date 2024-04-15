@@ -1,4 +1,13 @@
 
+- title: "VITRON: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing"
+  venue:
+    name: arXiv
+  year: 2024
+  authors: <strong>Hao Fei</strong>, Shengqiong Wu, Hanwang Zhang, Tat-Seng Chua, Shuicheng Yan
+  link:
+    paper: http://haofei.vip/downloads/papers/Skywork_Vitron_2024.pdf
+
+
 - title: "Modeling Unified Semantic Discourse Structure for High-quality Headline Generation"
   venue:
     name: arXiv
