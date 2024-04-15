@@ -17,6 +17,18 @@
     paper: #
 
 
+- title: "NUS-Emo at SemEval-2024 Task 3: Instruction-Tuning LLM for Multimodal Emotion-Cause Analysis in Conversations"
+  venue:
+    name: SemEval Workshop
+  year: 2024
+  authors: Meng Luo, Han Zhang, Shengqiong Wu, Bobo Li, Hong Han, <strong>Hao Fei<sup>*</sup></strong>
+  highlight: 2nd Place
+  link:
+    paper: http://haofei.vip/downloads/papers/SemEval_2024_Task3_v3.pdf
+    code: https://github.com/zhanghanXD/NUS-Emo-at-SemEval-2024-Task3
+
+
+
 - title: "I3: Intent-Introspective Retrieval Conditioned on Instructions"
   venue:
     name: SIGIR
