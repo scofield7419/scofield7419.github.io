@@ -104,6 +104,7 @@ permalink: /services
 - Neurocomputing
 - Information Sciences
 - Knowledge-based System
+- BMC Bioinformatics
 - Neural Computing and Applications
 - Expert Systems With Applications
 - Engineering Applications of Artificial Intelligence
