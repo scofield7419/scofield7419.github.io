@@ -44,6 +44,8 @@ permalink: /services
 - ACL 2024, (AC/ARR-AE)
 - CCL 2024, (AC)
 - NLPCC 2024, Sentiment Analysis track, (AC)
+- NeurIPS 2024, (AC)
+
 
 
 
