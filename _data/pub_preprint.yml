@@ -7,6 +7,9 @@
   link:
     paper: http://haofei.vip/downloads/papers/Skywork_Vitron_2024.pdf
     code: https://vitron-llm.github.io/
+  promote:
+    name: 新智元
+    link: https://mp.weixin.qq.com/s/ef3GMQavH_K9iarSdwoxog
 
 
 - title: "Modeling Unified Semantic Discourse Structure for High-quality Headline Generation"
