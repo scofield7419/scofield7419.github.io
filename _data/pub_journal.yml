@@ -1,5 +1,15 @@
 
-- title: "TKDP: Threefold Knowledge-enriched Deep Prompt Tuning for Few-shot Named Entity Recognition 	"
+- title: Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment
+  venue:
+    full: IEEE Transactions on Pattern Analysis and Machine Intelligence
+    short: TPAMI
+  year: 2024
+  authors: <strong>Hao Fei</strong>, Shengqiong Wu, Meishan Zhang, Min Zhang, Tat-Seng Chua, Shuicheng Yan
+  link:
+    paper: https://ieeexplore.ieee.org/abstract/document/10508488
+
+
+- title: "TKDP: Threefold Knowledge-enriched Deep Prompt Tuning for Few-shot Named Entity Recognition"
   venue:
     full: Transactions on Knowledge and Data Engineering
     short: TKDE
