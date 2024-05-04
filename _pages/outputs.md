@@ -86,7 +86,7 @@ Those are the students I am (was) collaborating with.
 - Ph.D Students
     - [Ji Qi](https://qijimrc.github.io/), Tsinghua University, Visiting Ph.D @ NUS
     - [Yichong Huang](https://ychuang.netlify.app/), Harbin Institute of Technology, CSC Visiting Ph.D @ NUS
-    - Han Zhang, Xidian University, remote, Co-advising with Prof. Hong Han.
+    - Han Zhang, Xidian University, Remotely co-advising with Prof. Hong Han
     - [Shengqiong Wu](https://chocowu.github.io/), NUS, Co-advising with Prof. [Tat-Seng Chua](https://www.chuatatseng.com/)
     - [Yu Zhao](https://github.com/zhaoyucs), Tianjin University, Visiting Ph.D @ NUS, Co-advising with Prof. [Meishan Zhang](https://zhangmeishan.github.io/)
     - [Bobo Li](https://github.com/unikcc), Wuhan University, Visiting Ph.D @ NUS, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
