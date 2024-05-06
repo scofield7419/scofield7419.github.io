@@ -57,7 +57,7 @@ I was an intern at Baidu Inc. when I was a bachelor.
 ### Research Briefing
 My research direction lies in the intersection of Natural Language Processing (NLP) and Computer Vision (CV), i.e., Vision-Language Learning,
 with broad-covering interests, such as **Large Language Model**, **Information Extraction**, **Affective Computing**, **Syntax/Semantic Parsing**, 
-**Text-Image/Video/Audio/3D Modeling**.
+**Text-Image/Video/Audio/3D Modeling**, **Cross-modal Reasoning**.
 I am apt to construct learning models, with the fundamental goal of building systems capable of human-level understanding of the world. 
 My ongoing research focuses on the particular angle of **`Structure-aware Intelligence Learning` (SAIL)**, 
 which aims at enhancing the semantics understanding of varied modalities with the intrinsic data structure modeling.
@@ -70,12 +70,12 @@ Also, I believe so much that the key to realizing human-level AGI lies in two fu
 
 
 
-My research has been published in top-tier ML/NLP/DM venues, including, ICML, NeurIPS, ACL, AAAI, WWW, SIGIR, IJCAI, EMNLP, COLING, TOIS, TNNLS, TASLP, etc.
+My research has been published in top-tier ML/NLP/DM venues, including, ICML, NeurIPS, ACL, CVPR, AAAI, WWW, SIGIR, IJCAI, EMNLP, ACM MM, TPAMI, TKDE, TOIS, TNNLS, TASLP, etc.
 My Ph.D thesis was awarded the Excellent Doctoral Thesis of Chinese Information Processing Society (CIPS).
 I won more than ten honors and awards when I was in Ph.D stage.
 I've served as (Senior) Area Chair or Senior Program Committee of top-tier conferences, such as ACL, AAAI, IJCAI, EMNLP, NAACL, WSDM, COLING, ARR. 
 I am a persistently-invited reviewer for prestigious journals including TPAMI, TNNLS, TKDE, TOIS, TAFFC and TASLP, etc.
-I am (was) the organization committee of WSDM 2022 (Volunteer Chair), NSSDM 2023 (Program Chair), EMNLP 2023 (Workshop Chair), SSNLP 2023 (Organizing Committee). 
+I am (was) the organization committee of WSDM 2022 (Volunteer Chair), NSSDM 2023 (Program Chair), EMNLP 2023 (Workshop Chair), SSNLP 2023 (Organizing Committee), ACL 2024 (Volunteer Chair). 
 Also I am the Associate Editor of some journals, including TALLIP and Neurocomputing.
 {: .text-justify}
 
