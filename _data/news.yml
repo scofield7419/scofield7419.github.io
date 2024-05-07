@@ -1,4 +1,14 @@
 
+
+- date: 2 May 2024
+  headline: "Three papers are accepted by ICML 2024, 1) [**NExT-GPT**](https://next-gpt.github.io/), 2) [**Video-of-Thought**](http://haofei.vip/VoT/) and 3) [**Video-LLM Momentor**](https://arxiv.org/pdf/2402.11435). Congrats to all my co-authors!"
+
+- date: 25 April 2024
+  headline: "One paper about [**Video-Language Modeling**](https://ieeexplore.ieee.org/abstract/document/10508488) is accepted by TPAMI!"
+
+- date: 16 April 2024
+  headline: "One paper about [**Few-shot Named Entity Recognition**](https://arxiv.org/pdf/2306.03974.pdf) is accepted by TKDE!"
+
 - date: 15 April 2024
   headline: "We are excited to announce the release of **Vitron** ([**Demo**](https://vitron-llm.github.io/), [**Paper**](http://haofei.vip/downloads/papers/Skywork_Vitron_2024.pdf), [**Code**](https://github.com/SkyworkAI/Vitron)), a universal pixel-level vision LLM designed for comprehensive understanding (perceiving and reasoning), generating, segmenting (grounding and tracking), editing (inpainting) of both static image and dynamic video content."
 
