@@ -21,14 +21,6 @@
     paper: https://arxiv.org/pdf/2403.15776
 
 
-- title: "Momentor: Advancing Video Large Language Model with Fine-Grained Temporal Reasoning"
-  venue:
-    name: arXiv
-  year: 2024
-  authors: Long Qian, Juncheng Li, Yu Wu, Yaobo Ye, <strong>Hao Fei</strong>, Tat-Seng Chua, Yueting Zhuang, Siliang Tang
-  link:
-    paper: https://arxiv.org/pdf/2402.11435
-
 
 - title: "De-fine: Decomposing and Refining Visual Programs with Auto-Feedback"
   venue:
@@ -56,18 +48,6 @@
   link:
     paper: https://arxiv.org/pdf/2308.10025
 
-
-- title: "NExT-GPT: Any-to-Any Multimodal LLM"
-  venue:
-    name: arXiv
-  year: 2023
-  authors: Shengqiong Wu, <strong>Hao Fei<sup>*</sup></strong>, Leigang Qu, Wei Ji, Tat-Seng Chua
-  link:
-    paper: https://arxiv.org/pdf/2309.05519
-    code: https://next-gpt.github.io/
-  promote:
-    name: 新智元
-    link: https://mp.weixin.qq.com/s/rE24QWdOFlYhMk7v3tv-fg
 
 
 - title: Revisiting Conversation Discourse for Dialogue Disentanglement
