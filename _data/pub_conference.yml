@@ -1,5 +1,53 @@
 
 
+- title: "Recognizing Everything from All Modalities at Once: Grounded Multimodal Universal Information Extraction"
+  venue:
+    name: ACL
+    note: Findings
+  year: 2024
+  authors: <strong>Hao Fei</strong>, Bin Wang, Shengqiong Wu, Yixin Cao, Fei Li, Meishan Zhang, Min Zhang
+  link:
+    paper: #
+
+
+- title: "Faithful Logical Reasoning via Symbolic Chain-of-Thought"
+  venue:
+    name: ACL
+  year: 2024
+  authors: Jundong Xu, <strong>Hao Fei<sup>*</sup></strong>, Liangming Pan, Qian Liu, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: #
+
+
+- title: "Revisiting Structured Sentiment Analysis as Latent Dependency Graph Parsing"
+  venue:
+    name: ACL
+  year: 2024
+  authors: Chengjie Zhou, Bobo Li, <strong>Hao Fei</strong>, Fei Li, Chong Teng, Donghong Ji
+  link:
+    paper: #
+
+
+- title: "ProtT3: Protein-to-Text Generation for Text-based Protein Understanding"
+  venue:
+    name: ACL
+  year: 2024
+  authors: Zhiyuan Liu, An Zhang, <strong>Hao Fei</strong>, Enzhi Zhang, Xiang Wang, Kenji Kawaguchi, Tat-Seng Chua
+  link:
+    paper: https://arxiv.org/abs/2405.12564
+    code: https://github.com/acharkq/ProtT3
+
+
+- title: "Synergizing Large Language Models and Pre-Trained Smaller Models for Conversational Intent Discovery"
+  venue:
+    name: ACL
+    note: Findings
+  year: 2024
+  authors: Jinggui Liang, Lizi Liao, <strong>Hao Fei</strong>, Jing Jiang
+  link:
+    paper: #
+
+
 - title: "Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition"
   venue:
     name: ICML
