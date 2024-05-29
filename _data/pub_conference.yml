@@ -16,7 +16,8 @@
   year: 2024
   authors: Jundong Xu, <strong>Hao Fei<sup>*</sup></strong>, Liangming Pan, Qian Liu, Mong-Li Lee, Wynne Hsu
   link:
-    paper: #
+    paper: https://arxiv.org/pdf/2405.18357
+    code: https://github.com/Aiden0526/SymbCoT
 
 
 - title: "Revisiting Structured Sentiment Analysis as Latent Dependency Graph Parsing"
