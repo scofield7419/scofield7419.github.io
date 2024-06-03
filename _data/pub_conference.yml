@@ -54,6 +54,7 @@
     name: ICML
   year: 2024
   authors: <strong>Hao Fei</strong>, Shengqiong Wu, Wei Ji, Hanwang Zhang, Meishan Zhang, Mong-Li Lee, Wynne Hsu
+  highlight: Oral
   link:
     paper: http://haofei.vip/downloads/papers/VoT_2024.pdf
     code: http://haofei.vip/VoT/
@@ -64,6 +65,7 @@
     name: ICML
   year: 2024
   authors: Shengqiong Wu, <strong>Hao Fei<sup>*</sup></strong>, Leigang Qu, Wei Ji, Tat-Seng Chua
+  highlight: Oral
   link:
     paper: https://arxiv.org/pdf/2309.05519
     code: https://next-gpt.github.io/
