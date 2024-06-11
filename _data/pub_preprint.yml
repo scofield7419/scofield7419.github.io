@@ -1,4 +1,14 @@
 
+- title: "Towards Semantic Equivalence of Tokenization in Multimodal LLM"
+  venue:
+    name: arXiv
+  year: 2024
+  authors: Shengqiong Wu, <strong>Hao Fei</strong>, Xiangtai Li, Jiayi Ji, Hanwang Zhang, Tat-Seng Chua, Shuicheng Yan
+  link:
+    paper: https://arxiv.org/abs/2406.05127
+    code: https://chocowu.github.io/SeTok-web/
+
+
 - title: "VITRON: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing"
   venue:
     name: arXiv
