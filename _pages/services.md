@@ -45,6 +45,7 @@ permalink: /services
 - CCL 2024, (AC)
 - NLPCC 2024, Fundamentals of NLP, (AC)
 - NeurIPS 2024, (AC)
+- EMNLP 2024, (AC/ARR-AE)
 - WSDM 2025, (SPC)
 - AAAI 2025, (SPC)
 
