@@ -56,8 +56,7 @@ I was an intern at Baidu Inc. when I was a bachelor.
 
 ### Research Briefing
 My research direction lies in the intersection of Natural Language Processing (NLP) and Computer Vision (CV), i.e., Vision-Language Learning,
-with broad-covering interests, such as **Large Language Model**, **Information Extraction**, **Affective Computing**, **Syntax/Semantic Parsing**, 
-**Text-Image/Video/Audio/3D Modeling**, **Cross-modal Reasoning**.
+with broad-covering interests, such as **Large Language Model**, **Text-Image/Video/Audio/3D Modeling**, **Cross-modal Reasoning**, **Information Extraction**, **Affective Computing**, **Structure Modeling**.
 I am apt to construct learning models, with the fundamental goal of building systems capable of human-level understanding of the world. 
 My ongoing research focuses on the particular angle of **`Structure-aware Intelligence Learning` (SAIL)**, 
 which aims at enhancing the semantics understanding of varied modalities with the intrinsic data structure modeling.
