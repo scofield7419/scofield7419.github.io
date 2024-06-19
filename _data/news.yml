@@ -1,8 +1,13 @@
 
 
 
-- date: 22 Feb 2024
+- date: 19 June 2024
+  headline: "Our tutorial video of [**Multimodal LLM**](https://mllm2024.github.io/CVPR2024/) at [**CVPR 2024**](https://cvpr.thecvf.com/Conferences/2024/) is released at [**Youtube**](https://www.youtube.com/watch?v=pHBT3zXxQX8); all slides and materials are available at [**homepage**](https://mllm2024.github.io/CVPR2024/)."
+
+
+- date: 22 May 2024
   headline: "Our tutorial video of [**Multimodal LLM**](https://mllm2024.github.io/COLING2024/) at [**LREC-COLING 2024**](https://lrec-coling-2024.org/) is released at [**Youtube**](https://www.youtube.com/watch?v=-oKpZjaKsAQ); all slides and materials are available at [**homepage**](https://mllm2024.github.io/COLING2024/)."
+
 
 - date: 16 May 2024
   headline: "Five papers are accepted by ACL 2024 (main or finding), 1) [**Grounded Multimodal UIE**](#), 2) [**Symbolic CoT**](https://arxiv.org/pdf/2405.18357), 3) [**Structured Sentiment Analysis**](#), 4) [**ProtT3: Protein-to-Text Generation**](https://arxiv.org/abs/2405.12564) and 5)[**Conversational Intent Discovery**](#). Congrats to all my co-authors!"
