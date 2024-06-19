@@ -68,9 +68,10 @@ permalink: /outputs
 
 ### Teaching Assistant
 
-- C programming and Algorithm, Wuhan University, (Autumn 2019)
-- Natural Language Understanding, Wuhan University, (Autumn 2020)
-- Deep Learning, Wuhan University, (Spring 2021)
+- [Hands-on Learning Large Language Models](https://github.com/Lordog/dive-into-llms), Shanghai Jiao Tong University, May, 2024
+- C programming and Algorithm, Wuhan University, Autumn 2019
+- Natural Language Understanding, Wuhan University, Autumn 2020
+- Deep Learning, Wuhan University, Spring 2021
 
 
 
