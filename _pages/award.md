@@ -14,9 +14,11 @@ permalink: /award
 
 
 
+
 ### Awards
 
-- 2023: **World AI Conference (WAIC'23) Rising Star** (2023世界人工智能大会云帆奖明日之星)
+- 2024: **2024 World Artificial Intelligence Conference Youth Outstanding Paper Award** (2024世界人工智能大会青年优秀论文奖)
+- 2023: **2023 World AI Conference Rising Star** (2023世界人工智能大会云帆奖明日之星)
 - 2022: **Award of Excellent Doctoral Thesis** of Chinese Information Processing Society [(CIPS)](http://www.cipsc.org.cn/chcontent.php?&xuhao=20221122)
 - 2022: SIGIR 2022 **Travel Award**
 
