@@ -1,4 +1,14 @@
 
+- title: "OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding"
+  venue:
+    name: arXiv
+  year: 2024
+  authors: Tao Zhang, Xiangtai Li, <strong>Hao Fei</strong>, Shengqiong Wu, Shunping Ji, Chen Change Loy, Shuicheng Yan
+  link:
+    paper: https://arxiv.org/abs/2406.19389
+    code: https://lxtgh.github.io/project/omg_llava/
+
+
 - title: "Towards Semantic Equivalence of Tokenization in Multimodal LLM"
   venue:
     name: arXiv
