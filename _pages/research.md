@@ -113,15 +113,15 @@ My research is sliced into the following blocks with selected publications [\[Vi
 
 
 - **Structure-based Multimodal Applications** 
-  - Multimodal Sentiment Analysis
-  - Multimodal Information Extraction
-  - Multimodal Machine Translation
-  - Vision Captioning
-  - Cross-modal Retrieval
-  - Vision-Language/Video Event Extraction (Situation Recognition, SRL)
   - Audio/Speech Modeling
   - Image/Video/3D Modeling
   - Text-to-Vision Generation
+  - Multimodal Sentiment Analysis
+  - Multimodal Information Extraction
+  - Multimodal Machine Translation
+  - Vision-Language/Video Event Extraction (Situation Recognition, SRL)
+  - Vision Captioning
+  - Cross-modal Retrieval
 
 
 
@@ -141,6 +141,8 @@ My research is sliced into the following blocks with selected publications [\[Vi
   - In-context Learning
   - Instruction Tuning
   - Reasoning
+  - Multimodal Agent
+  - Embodied Intelligence
 
 
 
