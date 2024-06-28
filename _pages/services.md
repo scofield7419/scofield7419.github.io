@@ -28,26 +28,20 @@ permalink: /services
 
 ### Senior Program Committee Member
 
-- EMNLP 2022, Sentiment Analysis track, (AC)
-- WSDM 2023, Web Mining and Content Analysis track, (SPC)
-- ARR 2023, (Action Editor)
-- IJCAI 2023, Speech & Natural Language Processing track, (SPC)
-- ACL 2023, Sentiment Analysis track, (AC)
-- EMNLP 2023, Information Extraction track, (SAC)
-- AAAI 2024, Speech & Natural Language Processing + Computer Vision tracks, (SPC)
-- LREC-COLING 2024, Lexicon and Semantics track, (SAC)
-- IJCAI 2024, Speech & Natural Language Processing track, (SPC)
-- NAACL 2024, (AC/ARR-AE)
-- EACL 2024, (AC/ARR-AE)
-- ACM MM 2024, (AC)
-- ICML 2024, (AC)
-- ACL 2024, (AC/ARR-AE)
-- CCL 2024, (AC)
-- NLPCC 2024, Fundamentals of NLP, (AC)
-- NeurIPS 2024, (AC)
-- EMNLP 2024, (AC/ARR-AE)
-- WSDM 2025, (SPC)
-- AAAI 2025, (SPC)
+- EMNLP 2022 (AC), 2023 (SAC), 2024 (AC/ARR-AE)
+- WSDM 2023 (SPC), 2025 (SPC),
+- ARR 2023 (Action Editor)
+- IJCAI 2023 (SPC), 2024 (SPC),
+- ACL 2023 (AC), 2024 (AC/ARR-AE)
+- AAAI 2024 (SPC), 2025 (SPC) 
+- COLING 2024 (SAC), 2025 (AC)
+- NAACL 2024 (AC/ARR-AE)
+- EACL 2024 (AC/ARR-AE)
+- ACM MM 2024 (AC)
+- ICML 2024 (AC)
+- CCL 2024 (AC)
+- NLPCC 2024 (AC)
+- NeurIPS 2024 (AC)
 
 
 
