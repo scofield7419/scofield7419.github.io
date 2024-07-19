@@ -102,6 +102,9 @@
   link:
     paper: http://haofei.vip/downloads/papers/VoT_2024.pdf
     code: http://haofei.vip/VoT/
+  promote:
+    name: 机器之心
+    link: https://mp.weixin.qq.com/s/K5qqCj-g7FpXPM3AGewgYg
 
 
 - title: "NExT-GPT: Any-to-Any Multimodal LLM"
@@ -174,6 +177,9 @@
   link:
     paper: https://arxiv.org/pdf/2308.13812.pdf
     code: https://haofei.vip/Dysen-VDM/
+  promote:
+    name: PaperWeekly
+    link: https://mp.weixin.qq.com/s/dmCcSesfsy1UGBy9mHXr9A
 
 
 - title: "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning"
@@ -192,7 +198,7 @@
   year: 2024
   authors: Lei Chen, Bobo Li, Li Zheng, Haining Wang, Zixiang Meng, Runfeng Shi, <strong>Hao Fei</strong>, Jun Zhou, Fei Li, Chong Teng and Donghong Ji
   link:
-    paper: #
+    paper: https://aclanthology.org/2024.lrec-main.1519.pdf
 
 
 - title: "MMLSCU: A Dataset for Multi-modal Multi-domain Live Streaming Comment Understanding"
