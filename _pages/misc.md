@@ -24,12 +24,15 @@ permalink: /misc
 
 
 - About Paper Writing for Beginner
+  - [How to write a good paper|review|rebuttal](https://sites.google.com/view/making-reviews-great-again/) (CVPR 2020 Tutorial)
+  - [How to write a great research paper](https://www.microsoft.com/en-us/research/uploads/prod/2016/07/How-to-write-a-great-research-paper.pdf) (Simon Peyton Jones)
+  - [How to give a great research talk](https://www.microsoft.com/en-us/research/uploads/prod/2016/07/How-to-give-a-great-research-talk.pdf) (Simon Peyton Jones)
+  - [How to Properly Review AI Papers?](https://valser.org/webinar/slide/slides/20200710/howtoproperlyreviewaipapers-200710022751.pdf) (Jiebo Luo)
   - [如何做研究与写论文](https://zhuanlan.zhihu.com/p/98747105) (南大周志华)
   - [机器翻译学术论⽂写作⽅法和技巧](https://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf) (清华刘洋)
   - [如何以初学者角度写好一篇国际学术论文？](https://www.zhuanzhi.ai/document/1d455d256548e478aa12840e6c30ac6b) (人大赵鑫)
   - [How to Write a Good Paper How to Give a Good Talk](https://web.engr.oregonstate.edu/~huanlian/teaching/writing/cuny-gc/how-to-paper-talk-CUNY.pdf) (Liang Huang)
   - [LaTeX Paper Writing Must-be-careful](https://www.latexstudio.net/archives/5851.html)
-  - [How to Properly Review AI Papers?](https://valser.org/webinar/slide/slides/20200710/howtoproperlyreviewaipapers-200710022751.pdf) (Jiebo Luo)
 
 
 - About AI, Cognition and Thought
