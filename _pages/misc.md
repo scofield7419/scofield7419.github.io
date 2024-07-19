@@ -29,6 +29,7 @@ permalink: /misc
   - [如何以初学者角度写好一篇国际学术论文？](https://www.zhuanzhi.ai/document/1d455d256548e478aa12840e6c30ac6b) (人大赵鑫)
   - [How to Write a Good Paper How to Give a Good Talk](https://web.engr.oregonstate.edu/~huanlian/teaching/writing/cuny-gc/how-to-paper-talk-CUNY.pdf) (Liang Huang)
   - [LaTeX Paper Writing Must-be-careful](https://www.latexstudio.net/archives/5851.html)
+  - [How to Properly Review AI Papers?](https://valser.org/webinar/slide/slides/20200710/howtoproperlyreviewaipapers-200710022751.pdf) (Jiebo Luo)
 
 
 - About AI, Cognition and Thought
