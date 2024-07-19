@@ -24,7 +24,7 @@ permalink: /misc
 
 
 - About Paper Writing for Beginner
-  - [How to write a good paper|review|rebuttal](https://sites.google.com/view/making-reviews-great-again/) (CVPR 2020 Tutorial)
+  - [How to write a good paper/review/rebuttal](https://sites.google.com/view/making-reviews-great-again/) (CVPR 2020 Tutorial)
   - [How to write a great research paper](https://www.microsoft.com/en-us/research/uploads/prod/2016/07/How-to-write-a-great-research-paper.pdf) (Simon Peyton Jones)
   - [How to give a great research talk](https://www.microsoft.com/en-us/research/uploads/prod/2016/07/How-to-give-a-great-research-talk.pdf) (Simon Peyton Jones)
   - [How to Properly Review AI Papers?](https://valser.org/webinar/slide/slides/20200710/howtoproperlyreviewaipapers-200710022751.pdf) (Jiebo Luo)
