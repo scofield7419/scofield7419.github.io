@@ -1,5 +1,46 @@
 
 
+
+
+- title: "PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis"
+  venue:
+    name: ACM MM
+  year: 2024
+  authors: Meng Luo, <strong>Hao Fei<sup>*</sup></strong>, Bobo Li, Shengqiong Wu, Qian Liu, Soujanya Poria, Erik Cambria, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: #
+
+
+
+- title: "SpeechEE: A Novel Benchmark for Speech Event Extraction"
+  venue:
+    name: ACM MM
+  year: 2024
+  authors: Bin Wang, Meishan Zhang, <strong>Hao Fei<sup>*</sup></strong>, Yu Zhao, Bobo Li, Shengqiong Wu, Wei Ji, Min Zhang
+  link:
+    paper: #
+
+
+
+- title: "Self-Adaptive Fine-grained Multi-modal Data Augmentation for Semi-supervised Muti-modal Coreference Resolution"
+  venue:
+    name: ACM MM
+  year: 2024
+  authors: Li Zheng, Boyu Chen, <strong>Hao Fei</strong>, Fei Li, Shengqiong Wu, Lizi Liao, Donghong Ji, Chong Teng
+  link:
+    paper: #
+
+
+- title: "De-fine: Decomposing and Refining Visual Programs with Auto-Feedback"
+  venue:
+    name: ACM MM
+  year: 2024
+  authors: Minghe Gao, Juncheng Li, <strong>Hao Fei</strong>, Wei Ji, Guoming Wang, Wenqiao Zhang, Siliang Tang, Yueting Zhuang
+  link:
+    paper: https://arxiv.org/pdf/2311.12890
+
+
+
 - title: "Recognizing Everything from All Modalities at Once: Grounded Multimodal Universal Information Extraction"
   venue:
     name: ACL
