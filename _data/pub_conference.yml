@@ -9,7 +9,7 @@
   highlight: Oral
   authors: Meng Luo, <strong>Hao Fei<sup>*</sup></strong>, Bobo Li, Shengqiong Wu, Qian Liu, Soujanya Poria, Erik Cambria, Mong-Li Lee, Wynne Hsu
   link:
-    paper: #
+    paper: https://openreview.net/forum?id=c045hdQdFX
 
 
 
@@ -19,7 +19,7 @@
   year: 2024
   authors: Bin Wang, Meishan Zhang, <strong>Hao Fei<sup>*</sup></strong>, Yu Zhao, Bobo Li, Shengqiong Wu, Wei Ji, Min Zhang
   link:
-    paper: #
+    paper: https://openreview.net/forum?id=35rgn7rIn3
 
 
 
@@ -29,7 +29,7 @@
   year: 2024
   authors: Li Zheng, Boyu Chen, <strong>Hao Fei</strong>, Fei Li, Shengqiong Wu, Lizi Liao, Donghong Ji, Chong Teng
   link:
-    paper: #
+    paper: https://openreview.net/forum?id=BlttBoaYVu
 
 
 - title: "De-fine: Decomposing and Refining Visual Programs with Auto-Feedback"
