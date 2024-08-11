@@ -6,6 +6,7 @@
   venue:
     name: ACM MM
   year: 2024
+  highlight: Oral
   authors: Meng Luo, <strong>Hao Fei<sup>*</sup></strong>, Bobo Li, Shengqiong Wu, Qian Liu, Soujanya Poria, Erik Cambria, Mong-Li Lee, Wynne Hsu
   link:
     paper: #
@@ -35,6 +36,7 @@
   venue:
     name: ACM MM
   year: 2024
+  highlight: Oral
   authors: Minghe Gao, Juncheng Li, <strong>Hao Fei</strong>, Wei Ji, Guoming Wang, Wenqiao Zhang, Siliang Tang, Yueting Zhuang
   link:
     paper: https://arxiv.org/pdf/2311.12890
