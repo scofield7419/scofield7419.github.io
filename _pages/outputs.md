@@ -13,6 +13,9 @@ permalink: /outputs
 
 ### Organization of Workshop and Shared Tasks
 
+The 2nd 
+
+- Co-organizing the **2<sup>nd</sup> Deep Multimodal Generation and Retrieval [(MMGR 2024)](https://videorelation.nextcenter.org/MMGR24/)** Workshop @ [ACM Multimedia 2024](https://2024.acmmm.org/) 
 - Co-organizing the **Visual Spatial Description [(VSD)](https://lllogen.github.io/vsd-challenge.github.io/)** Grand Challenge @ [ACM Multimedia 2023](https://www.acmmm2023.org/) 
 - Co-organizing the **Nominal Compound Chain Extraction [(NCCE)](https://ncce-site.pages.dev/)** Shared Task @ [NLPCC 2024](http://tcci.ccf.org.cn/conference/2024/cfpt.php)
 - Co-organizing the **Dialogue-level Coreference Resolution and Relation Extraction** Shared Task @ [NLPCC 2024](http://tcci.ccf.org.cn/conference/2024/cfpt.php)
