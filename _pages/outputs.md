@@ -33,6 +33,7 @@ permalink: /outputs
 
 
 
+- 2024.8: **Towards AGI: from Unified MLLM to Multimodal Generalist**, [MLNLP 2024](https://mlnlp.org/mlnlp2024/), [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/MLNLP24-HaoFei.pdf)
 - 2024.1: **From Multimodal LLM to AGI**, [Harbin Institute of Technology, Shenzhen](#)
 - 2023.12: **From Multimodal LLM to AGI**, [CIPS Youth Working Committee in A Star, Singapore](https://mp.weixin.qq.com/s/LeJwkE_sk29twigo1wxkMw)
 - 2023.9: **LLM-Empowered Text-to-Vision Diffusion Models**, [MLNLP 2023](http://mlnlp.world/mlnlp2023/), [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/20230825-WING-feihao.pdf)
