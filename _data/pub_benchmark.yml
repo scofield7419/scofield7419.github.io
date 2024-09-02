@@ -54,6 +54,25 @@
     code: https://diaasq-page.pages.dev/
 
 
+- title: "Towards Complex-query Referring Image Segmentation: A Novel Benchmark"
+  venue:
+    name: Preprint
+  year: 2023
+  authors: Wei Ji, Li Li, <strong>Hao Fei</strong>, Xiangyan Liu, Xun Yang, Juncheng Li, Roger Zimmermann
+  link:
+    paper: https://arxiv.org/pdf/2309.17205
+    code: #
+
+
+- title: "ECQED: Emotion-Cause Quadruple Extraction in Dialogs"
+  venue:
+    name: Preprint
+  year: 2023
+  authors: Li Zheng, Donghong Ji, <strong>Hao Fei</strong>, Shengqiong Wu, Jingye Li, Bobo Li, Chong Teng
+  link:
+    paper: https://arxiv.org/pdf/2306.03969.pdf
+    code: #
+
 
 - title: "DialogRE^C+: An Extension of DialogRE to Investigate How Much Coreference Helps Relation Extraction in Dialogs"
   venue:
