@@ -42,14 +42,6 @@
 
 
 
-- title: "Towards Complex-query Referring Image Segmentation: A Novel Benchmark"
-  venue:
-    name: arXiv
-  year: 2023
-  authors: Wei Ji, Li Li, <strong>Hao Fei</strong>, Xiangyan Liu, Xun Yang, Juncheng Li, Roger Zimmermann
-  link:
-    paper: https://arxiv.org/pdf/2309.17205
-
 
 - title: "ControlRetriever: Harnessing the Power of Instructions for Controllable Retrieval"
   venue:
@@ -60,15 +52,6 @@
     paper: https://arxiv.org/pdf/2308.10025
 
 
-
-
-- title: "ECQED: Emotion-Cause Quadruple Extraction in Dialogs"
-  venue:
-    name: arXiv
-  year: 2023
-  authors: Li Zheng, Donghong Ji, <strong>Hao Fei</strong>, Shengqiong Wu, Jingye Li, Bobo Li, Chong Teng
-  link:
-    paper: https://arxiv.org/pdf/2306.03969.pdf
 
 - title: "Subband-based Generative Adversarial Network for Non-parallel Many-to-many Voice Conversion"
   venue:
