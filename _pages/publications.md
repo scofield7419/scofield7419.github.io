@@ -30,6 +30,24 @@ Jump to [Preprint](#preprint), [Conference](#conference), [Journal](#journal), [
 
 
 
+<div style="margin-top: 30px"></div>
+
+### &#9654; Benchmark<a name="benchmark" />
+
+
+{% for publi in site.data.pub_benchmark %}
+
+  <span style="font-size: 20px;">&#8226;</span> &nbsp; <strong style="font-size: 17px;">{{ publi.title }}</strong> <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>{{ publi.authors }} </em><br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>{{ publi.venue.name }}</strong> {% if publi.venue.note %} ({{publi.venue.note}}){% endif %} &nbsp;&nbsp; {{ publi.year }}&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="{{ publi.link.paper }}">\[paper\]</a>&nbsp;{% if publi.link.code %}<a href="{{ publi.link.code }}">\[data\]</a>{% endif %}
+
+{% endfor %}
+
+
+
+
+
 
 <div style="margin-top: 30px"></div>
 
@@ -66,9 +84,10 @@ Jump to [Preprint](#preprint), [Conference](#conference), [Journal](#journal), [
 
 
 
+
 <div style="margin-top: 30px"></div>
 
-### &#9654; Others<a name="others" />
+### &#9654; Others (Demos, Workshops, Challenges, Tutorials)<a name="others" />
 
 
 {% for publi in site.data.pub_other %}
@@ -79,4 +98,6 @@ Jump to [Preprint](#preprint), [Conference](#conference), [Journal](#journal), [
   <a href="{{ publi.link.paper }}">\[paper\]</a>&nbsp;{% if publi.link.code %}<a href="{{ publi.link.code }}">\[code\]</a>{% endif %}
 
 {% endfor %}
+
+
 
