@@ -1,0 +1,73 @@
+
+
+- title: "PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis"
+  venue:
+    name: ACM MM
+  year: 2024
+  authors: Meng Luo, <strong>Hao Fei<sup>*</sup></strong>, Bobo Li, Shengqiong Wu, Qian Liu, Soujanya Poria, Erik Cambria, Mong-Li Lee, Wynne Hsu
+  link:
+    code: https://panosent.github.io/
+
+
+
+- title: "SpeechEE: A Novel Benchmark for Speech Event Extraction"
+  venue:
+    name: ACM MM
+  year: 2024
+  authors: Bin Wang, Meishan Zhang, <strong>Hao Fei<sup>*</sup></strong>, Yu Zhao, Bobo Li, Shengqiong Wu, Wei Ji, Min Zhang
+  link:
+    code: https://speechee.github.io/
+
+
+- title: "Recognizing Everything from All Modalities at Once: Grounded Multimodal Universal Information Extraction"
+  venue:
+    name: ACL 2024 (Findings)
+  year: 2024
+  authors: Bin Wang, Meishan Zhang, <strong>Hao Fei<sup>*</sup></strong>, Yu Zhao, Bobo Li, Shengqiong Wu, Wei Ji, Min Zhang
+  link:
+    code: https://haofei.vip/MUIE/
+
+
+
+
+- title: "MMLSCU: A Dataset for Multi-modal Multi-domain Live Streaming Comment Understanding"
+  venue:
+    name: TheWebConf (WWW)
+  year: 2024
+  authors: Zixiang Meng, Qiang Gao, Di Guo, Yunlong Li, Bobo Li, <strong>Hao Fei</strong>, Shengqiong Wu, Fei Li, Chong Teng, Donghong Ji
+  link:
+    code: #
+
+
+- title:  "DiaASQ: A Benchmark of Conversational Aspect-based Sentiment Quadruple Analysis"
+  venue:
+    name: ACL
+    note: Findings
+  year: 2023
+  authors: Bobo Li, <strong>Hao Fei</strong>, Yuhan Wu, Jinsong Zhang, Shengqiong Wu, Jingye Li, Yijiang Liu, Lizi Liao, Tat-Seng Chua, Fei Li, Donghong Ji
+  link:
+    code: https://github.com/unikcc/DiaASQ
+
+
+
+- title: "DialogRE^C+: An Extension of DialogRE to Investigate How Much Coreference Helps Relation Extraction in Dialogs"
+  venue:
+    name: NLPCC
+  year: 2023
+  authors: Yiyun Xiong, Mengwei Dai, Fei Li, <strong>Hao Fei</strong>, Bobo Li, Shengqiong Wu, Chong Teng and Donghong Ji
+  link:
+    code: https://github.com/palm2333/DialogRE_coreference
+
+
+
+- title:  "Nominal Compound Chain Extraction: A New Task for Semantic-Enriched Lexical Chain"
+  venue:
+    name: NLPCC
+  year: 2020
+  authors: Bobo Li, <strong>Hao Fei</strong>, Yafeng Ren, Donghong Ji
+  link:
+    code: https://ncce-site.pages.dev/
+
+
+
+
