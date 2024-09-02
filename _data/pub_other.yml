@@ -1,11 +1,49 @@
+
+
+
+- title: "From Multimodal LLM to Human-level AI: Modality, Instruction, Reasoning, Efficiency and Beyond"
+  venue:
+    name: COLING
+    note: Tutorial
+  year: 2024
+  authors: <strong>Hao Fei</strong>, Yuan Yao, Zhuosheng Zhang, Fuxiao Liu, Ao Zhang, Tat-Seng Chua
+  link:
+    paper: https://mllm2024.github.io/CVPR2024/
+
+
+
+- title: "NUS-Emo at SemEval-2024 Task 3: Instruction-Tuning LLM for Multimodal Emotion-Cause Analysis in Conversations"
+  venue:
+    name: SemEval @ ACL
+    note: Challenge, 2nd Place
+  year: 2024
+  authors: Meng Luo, Han Zhang, Shengqiong Wu, Bobo Li, Hong Han, <strong>Hao Fei<sup>*</sup></strong>
+  link:
+    paper: https://aclanthology.org/2024.semeval-1.226.pdf
+
+
+
+
+- title: Deep Multimodal Learning for Generation and Retrieval
+  venue:
+    name: ACM MM
+    note: Workshop
+  year: 2024
+  authors: Wei Ji, <strong>Hao Fei</strong>, Yinwei Wei, Zhedong Zheng, Juncheng Li, Zhiqi Ge, Long Chen, Lizi Liao, Yueting Zhuang, Roger Zimmermann
+  link:
+    paper: https://videorelation.nextcenter.org/MMGR24/
+
+
+
 - title: Deep Multimodal Learning for Information Retrieval
   venue:
     name: ACM MM
-    note: Workshop Proposal
+    note: Workshop
   year: 2023
   authors: Wei Ji, Yinwei Wei, Zhedong Zheng, <strong>Hao Fei</strong>, Tat-seng Chua
   link:
-    paper: https://www.researchgate.net/profile/Wei-Ji-38/publication/369830700_Deep_Multimodal_Learning_for_Information_Retrieval/links/64360b9020f25554da28341b/Deep-Multimodal-Learning-for-Information-Retrieval.pdf
+    paper: https://videorelation.nextcenter.org/MMIR23/
+
 
 
 - title: On the Syntax-oriented Modeling and Optimization of Natural Language
@@ -15,7 +53,3 @@
   authors: <strong>Hao Fei</strong>
   link:
     paper: \#
-
-
-
-
