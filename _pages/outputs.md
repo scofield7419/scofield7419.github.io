@@ -88,15 +88,18 @@ permalink: /outputs
 Those are the students I am (was) collaborating with.
 
 - Ph.D Students
+    - Jingxuan Wei, Chinese Academy of Sciences, Remotely visiting student
+    - [Tianjie Ju](https://scholar.google.com.hk/citations?user=f8PPcnoAAAAJ), Shanghai Jiao Tong University, CSC Visiting Ph.D @ NUS
     - [Ji Qi](https://qijimrc.github.io/), Tsinghua University, Visiting Ph.D @ NUS
-    - [Yichong Huang](https://ychuang.netlify.app/), Harbin Institute of Technology, Visiting Ph.D @ NUS
-    - Han Zhang, Xidian University, Remotely co-advising with Prof. Hong Han
+    - [Yichong Huang](https://ychuang.netlify.app/), Harbin Institute of Technology, CSC Visiting Ph.D @ NUS
+    - Han Zhang, Xidian University, Remotely visiting student
     - [Shengqiong Wu](https://chocowu.github.io/), NUS, Co-advising with Prof. [Tat-Seng Chua](https://www.chuatatseng.com/)
-    - [Yu Zhao](https://github.com/zhaoyucs), Tianjin University, Visiting Ph.D @ NUS, Co-advising with Prof. [Meishan Zhang](https://zhangmeishan.github.io/)
-    - [Bobo Li](https://github.com/unikcc), Wuhan University, Visiting Ph.D @ NUS, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
+    - [Yu Zhao](https://github.com/zhaoyucs), Tianjin University, CSC Visiting Ph.D @ NUS
+    - [Bobo Li](https://github.com/unikcc), Wuhan University, CSC Visiting Ph.D @ NUS
 
 
 - Master Students
+  - Zixiang Meng, Wuhan University, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
   - Jundong Xu, NUS, Co-advising with Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/)
   - Meng Luo, NUS, Co-advising with Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/)
   - Haidong Xu, Harbin Institute of Technology (Shenzhen), Co-advising with Prof. [Meishan Zhang](https://zhangmeishan.github.io/)
