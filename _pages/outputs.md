@@ -88,6 +88,7 @@ permalink: /outputs
 Those are the students I am (was) collaborating with.
 
 - Ph.D Students
+    - [Kai Liu](https://kail8.github.io/), Zhejiang University, CSC Visiting Ph.D @ NUS
     - Jingxuan Wei, Chinese Academy of Sciences, Remotely visiting student
     - [Tianjie Ju](https://scholar.google.com.hk/citations?user=f8PPcnoAAAAJ), Shanghai Jiao Tong University, CSC Visiting Ph.D @ NUS
     - [Ji Qi](https://qijimrc.github.io/), Tsinghua University, Visiting Ph.D @ NUS
