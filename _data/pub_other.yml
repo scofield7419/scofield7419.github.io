@@ -1,5 +1,28 @@
 
 
+- title: "EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot"
+  venue:
+    name: ACL
+    note: Demo
+  year: 2024
+  authors: <strong>Hao Fei</strong>, Han Zhang, Bin Wang, Lizi Liao, Qian Liu, Erik Cambria
+  link:
+    paper: https://arxiv.org/abs/2406.15177
+
+
+
+
+- title: "XNLP: An Interactive Demonstration System for Universal Structured NLP"
+  venue:
+    name: ACL
+    note: Demo
+  year: 2024
+  authors: <strong>Hao Fei</strong>, Meishan Zhang, Min Zhang, Tat-Seng Chua
+  link:
+    paper: https://arxiv.org/abs/2308.01846
+
+
+
 
 - title: "From Multimodal LLM to Human-level AI: Modality, Instruction, Reasoning, Efficiency and Beyond"
   venue:
