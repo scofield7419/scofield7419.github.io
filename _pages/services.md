@@ -70,6 +70,7 @@ permalink: /services
 - CVPR 2024
 - COLM 2024
 - CIKM 2024
+- ICASSP 2025
 
 <div style="margin-top: 30px"></div>
 
