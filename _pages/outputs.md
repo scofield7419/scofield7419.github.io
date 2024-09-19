@@ -55,6 +55,7 @@ permalink: /outputs
 
 ### Tutorials
 
+- 2024.10: [**From Multimodal LLM to Human-level AI: Architecture, Modality, Function, Instruction, Hallucination, Evaluation, Reasoning and Beyond**](https://mllm2024.github.io/ACM-MM2024/), [ACM MM 2024](https://2024.acmmm.org/), Melbourne, Australia
 - 2024.6: [**From Multimodal LLM to Human-level AI: Modality, Instruction, Reasoning and Beyond**](https://mllm2024.github.io/CVPR2024), [CVPR 2024](https://cvpr.thecvf.com/), Seattle WA, USA
 - 2024.5: [**From Multimodal LLM to Human-level AI: Modality, Instruction, Reasoning, Efficiency and Beyond**](https://mllm2024.github.io/COLING2024), [LREC-COLING 2024](https://lrec-coling-2024.org/), Torino, Italia
 - 2022.10: **Python Introduction and Preliminary for Research**, Wuhan University
