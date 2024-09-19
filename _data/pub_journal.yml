@@ -1,5 +1,16 @@
 
 
+- title: Revisiting Conversation Discourse for Dialogue Disentanglement
+  venue:
+    full: ACM Transactions on Information Systems
+    short: TOIS
+  year: 2024
+  authors: Bobo Li, <strong>Hao Fei<sup>*</sup></strong>, Fei Li, Shengqiong Wu, Lizi Liao, Yinwei Wei, Tat-Seng Chua, Donghong Ji
+  link:
+    paper: https://arxiv.org/pdf/2306.03975.pdf
+
+
+
 - title: "Multimodal Emotion-Cause Pair Extraction with Holistic Interaction and Label Constraint"
   venue:
     full: ACM Transactions on Multimedia Computing, Communications and Applications
@@ -20,17 +31,6 @@
     paper: https://dl.acm.org/doi/abs/10.1145/3690642
 
  
-
-- title: Revisiting Conversation Discourse for Dialogue Disentanglement
-  venue:
-    full: ACM Transactions on Information Systems
-    short: TOIS
-  year: 2024
-  authors: Bobo Li, <strong>Hao Fei<sup>*</sup></strong>, Fei Li, Shengqiong Wu, Lizi Liao, Yinwei Wei, Tat-Seng Chua, Donghong Ji
-  link:
-    paper: https://arxiv.org/pdf/2306.03975.pdf
-
-
 
 - title: Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment
   venue:
