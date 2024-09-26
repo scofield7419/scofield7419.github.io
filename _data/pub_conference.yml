@@ -1,5 +1,4 @@
 
-
 - title: "VITRON: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing"
   venue:
     name: NeurIPS
@@ -75,7 +74,6 @@
 
 
 
-
 - title: "Training-Free Visual Prompt Learning for Multimodal Large Language Models"
   venue:
     name: NeurIPS
@@ -87,7 +85,6 @@
 
 
 
-
 - title: "What Factors Affect Multi-modal In-Context Learning? An In-Depth Exploration"
   venue:
     name: NeurIPS
@@ -96,9 +93,6 @@
   link:
     paper: #
     code: #
-
-
-
 
 
 
@@ -134,7 +128,6 @@
   link:
     paper: #
     code: #
-
 
 
 
