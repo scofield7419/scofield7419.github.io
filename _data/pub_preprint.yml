@@ -1,4 +1,15 @@
 
+
+- title: "ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models"
+  venue:
+    name: arXiv
+  year: 2024
+  authors: Mingrui Wu, Xinyue Cai, Jiayi Ji, Jiale Li, Oucheng Huang, Gen Luo, <strong>Hao Fei</strong>, Xiaoshuai Sun, Rongrong Ji
+  link:
+    paper: https://arxiv.org/abs/2407.21534
+    code: https://github.com/mrwu-mac/ControlMLLM
+
+
 - title: "Towards Semantic Equivalence of Tokenization in Multimodal LLM"
   venue:
     name: arXiv
