@@ -1,5 +1,144 @@
 
 
+- title: "VITRON: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing"
+  venue:
+    name: NeurIPS
+  year: 2024
+  authors: <strong>Hao Fei</strong>, Shengqiong Wu, Hanwang Zhang, Tat-Seng Chua, Shuicheng Yan
+  link:
+    paper: #
+    code: https://vitron-llm.github.io/
+  promote:
+    name: 新智元
+    link: https://mp.weixin.qq.com/s/ef3GMQavH_K9iarSdwoxog
+
+
+
+- title: "Synergistic Dual Spatial-aware Generation of Image-to-text and Text-to-image"
+  venue:
+    name: NeurIPS
+  year: 2024
+  authors: Yu Zhao, <strong>Hao Fei<sup>*</sup></strong>, Xiangtai Li, Libo Qin, Jiayi Ji, Hongyuan Zhu, Meishan Zhang, Min Zhang
+  link:
+    paper: #
+    code: #
+
+
+
+- title: "OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding"
+  venue:
+    name: NeurIPS
+  year: 2024
+  authors: Tao Zhang, Xiangtai Li, <strong>Hao Fei</strong>, Shengqiong Wu, Shunping Ji, Chen Change Loy, Shuicheng Yan
+  link:
+    paper: https://arxiv.org/abs/2406.19389
+    code: https://lxtgh.github.io/project/omg_llava/
+
+
+
+- title: "RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation"
+  venue:
+    name: NeurIPS
+  year: 2024
+  authors: Changli Wu, Qi Chen, Haowei Wang, Yiwei Ma, You Huang, Gen Luo, <strong>Hao Fei</strong>, Jiayi Ji, Xiaoshuai Sun, Rongrong Ji
+  highlight: Oral
+  link:
+    paper: #
+    code: #
+
+
+
+
+- title: "Towards Unified Multimodal Editing with Enhanced Knowledge Collaboration"
+  venue:
+    name: NeurIPS
+  year: 2024
+  authors: Kaihang Pan, Zhaoyu Fan, Juncheng Li, Qifan Yu, <strong>Hao Fei</strong>, Siliang Tang, Richang Hong, Hanwang Zhang, Qianru Sun
+  highlight: Spotlight
+  link:
+    paper: #
+    code: #
+
+
+
+
+
+- title: "Unified Generative and Discriminative Training for Multi-modal Large Language Models"
+  venue:
+    name: NeurIPS
+  year: 2024
+  authors: Wei Chow, Juncheng Li, Kaihang Pan, Qifan Yu, <strong>Hao Fei</strong>, Zhiqi Ge, Shuaiyang, Siliang Tang, Hanwang Zhang, Qianru Sun
+  link:
+    paper: #
+    code: #
+
+
+
+
+
+- title: "Training-Free Visual Prompt Learning for Multimodal Large Language Models"
+  venue:
+    name: NeurIPS
+  year: 2024
+  authors: Mingrui Wu, Xinyue Cai, Jiayi Ji, Jiale Li, Oucheng Huang, Gen Luo, <strong>Hao Fei</strong>, Guannan Jiang, Xiaoshuai Sun, Rongrong Ji
+  link:
+    paper: #
+    code: #
+
+
+
+
+- title: "What Factors Affect Multi-modal In-Context Learning? An In-Depth Exploration"
+  venue:
+    name: NeurIPS
+  year: 2024
+  authors: Libo Qin, Qiguang Chen, <strong>Hao Fei</strong>, Zhi Chen, Min Li, Wanxiang Che
+  link:
+    paper: #
+    code: #
+
+
+
+
+
+
+
+- title: "Guided Knowledge Generation with Language Models for Commonsense Reasoning"
+  venue:
+    name: EMNLP
+    note: Findings
+  year: 2024
+  authors: Xiao Wei, Haoran Chen, Hang Yu, <strong>Hao Fei</strong>, Qian Liu
+  link:
+    paper: #
+    code: #
+
+
+- title: "Divide and Conquer: Legal Concept-guided Criminal Court View Generation"
+  venue:
+    name: EMNLP
+    note: Findings
+  year: 2024
+  authors: Qi Xu, Xiao Wei, Hang Yu, Qian Liu, <strong>Hao Fei</strong>
+  link:
+    paper: #
+    code: #
+
+
+
+- title: "A Survey of Ontology Expansion for Conversational Understanding"
+  venue:
+    name: EMNLP
+  year: 2024
+  authors: Jinggui Liang, Yuxia Wu, Yuan Fang, <strong>Hao Fei</strong>, Lizi Liao
+  link:
+    paper: #
+    code: #
+
+
+
+
+
 - title: "PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis"
   venue:
     name: ACM MM
