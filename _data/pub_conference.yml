@@ -73,15 +73,14 @@
 
 
 
-
-- title: "Training-Free Visual Prompt Learning for Multimodal Large Language Models"
+- title: "ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models"
   venue:
     name: NeurIPS
   year: 2024
   authors: Mingrui Wu, Xinyue Cai, Jiayi Ji, Jiale Li, Oucheng Huang, Gen Luo, <strong>Hao Fei</strong>, Guannan Jiang, Xiaoshuai Sun, Rongrong Ji
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/abs/2407.21534
+    code: https://github.com/mrwu-mac/ControlMLLM
 
 
 
