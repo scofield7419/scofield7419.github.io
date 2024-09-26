@@ -1,14 +1,4 @@
 
-- title: "OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding"
-  venue:
-    name: arXiv
-  year: 2024
-  authors: Tao Zhang, Xiangtai Li, <strong>Hao Fei</strong>, Shengqiong Wu, Shunping Ji, Chen Change Loy, Shuicheng Yan
-  link:
-    paper: https://arxiv.org/abs/2406.19389
-    code: https://lxtgh.github.io/project/omg_llava/
-
-
 - title: "Towards Semantic Equivalence of Tokenization in Multimodal LLM"
   venue:
     name: arXiv
@@ -19,19 +9,6 @@
     code: https://chocowu.github.io/SeTok-web/
 
 
-- title: "VITRON: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing"
-  venue:
-    name: arXiv
-  year: 2024
-  authors: <strong>Hao Fei</strong>, Shengqiong Wu, Hanwang Zhang, Tat-Seng Chua, Shuicheng Yan
-  link:
-    paper: http://haofei.vip/downloads/papers/Skywork_Vitron_2024.pdf
-    code: https://vitron-llm.github.io/
-  promote:
-    name: 新智元
-    link: https://mp.weixin.qq.com/s/ef3GMQavH_K9iarSdwoxog
-
-
 - title: "Modeling Unified Semantic Discourse Structure for High-quality Headline Generation"
   venue:
     name: arXiv
@@ -39,7 +16,6 @@
   authors: Minghui Xu, <strong>Hao Fei</strong>, Fei Li, Shengqiong Wu, Rui Sun, Chong Teng, Donghong Ji
   link:
     paper: https://arxiv.org/pdf/2403.15776
-
 
 
 
