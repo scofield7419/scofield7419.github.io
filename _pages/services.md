@@ -21,6 +21,7 @@ permalink: /services
 - [ACL 2023](https://ijcai-22.org/) Session Chair (Summarization track)
 - [SSNLP 2023](https://wing-nus.github.io/ssnlp-2023/) Organizing Committee
 - [ACL 2024](https://2024.aclweb.org/) Student Volunteer Co-Chair
+- [SSNLP 2024](https://wing-nus.github.io/ssnlp-2024/) Publicity Chair
 
 
 
