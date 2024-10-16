@@ -1,5 +1,18 @@
 
 
+
+- title: "Towards Complex-query Referring Image Segmentation: A Novel Benchmark"
+  venue:
+    full: ACM Transactions on Multimedia Computing, Communications and Applications
+    short: TOMM
+  year: 2024
+  authors: Wei Ji, Li Li, <strong>Hao Fei<sup>*</sup></strong>, Xiangyan Liu, Xun Yang, Juncheng Li, Roger Zimmermann
+  link:
+    paper: https://arxiv.org/pdf/2309.17205
+    code: https://github.com/lili0415/DuMoGa
+
+
+
 - title: Revisiting Conversation Discourse for Dialogue Disentanglement
   venue:
     full: ACM Transactions on Information Systems
