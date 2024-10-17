@@ -56,8 +56,7 @@
 
 - title: "Towards Complex-query Referring Image Segmentation: A Novel Benchmark"
   venue:
-    full: ACM Transactions on Multimedia Computing, Communications and Applications
-    short: TOMM
+    name: TOMM
   year: 2024
   authors: Wei Ji, Li Li, <strong>Hao Fei<sup>*</sup></strong>, Xiangyan Liu, Xun Yang, Juncheng Li, Roger Zimmermann
   link:
