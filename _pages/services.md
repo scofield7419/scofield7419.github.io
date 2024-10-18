@@ -101,6 +101,7 @@ permalink: /services
 - IEEE TAFFC
 - ACM TALLIP
 - ACM Computing Surveys
+- Neural Networks
 - Information Processing & Management
 - Information Fusion
 - Neurocomputing
