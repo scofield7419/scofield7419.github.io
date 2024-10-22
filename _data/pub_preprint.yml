@@ -1,5 +1,24 @@
 
 
+- title: "A Survey on Benchmarks of Multimodal Large Language Models"
+  venue:
+    name: arXiv
+  year: 2024
+  authors: Jian Li, Weiheng Lu, <strong>Hao Fei</strong>, Meng Luo, Ming Dai, Min Xia, Yizhang Jin, Zhenye Gan, Ding Qi, Chaoyou Fu, Ying Tai, Wankou Yang, Yabiao Wang, Chengjie Wang
+  link:
+    paper: https://arxiv.org/abs/2408.08632
+    code: https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey
+
+
+- title: "Grammar Induction from Visual, Speech and Text"
+  venue:
+    name: arXiv
+  year: 2024
+  authors: Yu Zhao, <strong>Hao Fei</strong>, Shengqiong Wu, Meishan Zhang, Min Zhang, Tat-Seng Chua
+  link:
+    paper: https://arxiv.org/abs/2410.03739
+
+
 - title: "Towards Semantic Equivalence of Tokenization in Multimodal LLM"
   venue:
     name: arXiv
