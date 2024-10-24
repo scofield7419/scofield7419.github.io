@@ -1,4 +1,12 @@
 
+- title: "Grounding is All You Need? Dual Temporal Grounding for Video Dialog"
+  venue:
+    name: arXiv
+  year: 2024
+  authors: You Qin, Wei Ji, Xinze Lan, <strong>Hao Fei</strong>, Xun Yang, Dan Guo, Roger Zimmermann, Lizi Liao
+  link:
+    paper: https://arxiv.org/abs/2410.05767
+
 
 - title: "A Survey on Benchmarks of Multimodal Large Language Models"
   venue:
