@@ -19,7 +19,7 @@
   year: 2024
   authors: Yu Zhao, <strong>Hao Fei<sup>*</sup></strong>, Xiangtai Li, Libo Qin, Jiayi Ji, Hongyuan Zhu, Meishan Zhang, Min Zhang
   link:
-    paper: #
+    paper: https://arxiv.org/abs/2410.15312
     code: #
 
 
@@ -55,8 +55,8 @@
   authors: Kaihang Pan, Zhaoyu Fan, Juncheng Li, Qifan Yu, <strong>Hao Fei</strong>, Siliang Tang, Richang Hong, Hanwang Zhang, Qianru Sun
   highlight: Spotlight
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/abs/2409.19872
+    code: https://github.com/beepkh/UniKE
 
 
 
@@ -125,8 +125,8 @@
   year: 2024
   authors: Jinggui Liang, Yuxia Wu, Yuan Fang, <strong>Hao Fei</strong>, Lizi Liao
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/abs/2410.15019
+    code: https://github.com/liangjinggui/Ontology-Expansion
 
 
 
@@ -245,7 +245,7 @@
     name: ICML
   year: 2024
   authors: Shengqiong Wu, <strong>Hao Fei<sup>*</sup></strong>, Leigang Qu, Wei Ji, Tat-Seng Chua
-  highlight: Oral
+  highlight: Oral, Most Influential Papers by Paper Digest (ICML 2024),  2024 WAIC Youth Outstanding Paper Award
   link:
     paper: https://arxiv.org/pdf/2309.05519
     code: https://next-gpt.github.io/
@@ -576,6 +576,7 @@
     name: AAAI
   year: 2022
   authors: Jingye Li<sup>#</sup>, <strong>Hao Fei<sup>#</sup></strong>, Jiang Liu, Shengqiong Wu, Meishan Zhang, Donghong Ji, Fei Li
+  highlight: Most Influential Papers by Paper Digest (AAAI 2022)
   link:
     paper: https://arxiv.org/pdf/2112.10070.pdf
     code: https://github.com/ljynlp/W2NER
