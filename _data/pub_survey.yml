@@ -1,0 +1,23 @@
+
+
+- title: "A Survey on Benchmarks of Multimodal Large Language Models"
+  venue:
+    name: arXiv
+  year: 2024
+  authors: Jian Li, Weiheng Lu, <strong>Hao Fei</strong>, Meng Luo, Ming Dai, Min Xia, Yizhang Jin, Zhenye Gan, Ding Qi, Chaoyou Fu, Ying Tai, Wankou Yang, Yabiao Wang, Chengjie Wang
+  link:
+    paper: https://arxiv.org/abs/2408.08632
+    code: https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey
+
+
+
+- title: "A Survey of Ontology Expansion for Conversational Understanding"
+  venue:
+    name: EMNLP
+  year: 2024
+  authors: Jinggui Liang, Yuxia Wu, Yuan Fang, <strong>Hao Fei</strong>, Lizi Liao
+  link:
+    paper: https://arxiv.org/abs/2410.15019
+    code: https://github.com/liangjinggui/Ontology-Expansion
+
+
