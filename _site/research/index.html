@@ -12,6 +12,7 @@
 <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/favicon.ico">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 
 
@@ -37,7 +38,7 @@
 		<li><a href="http://localhost:4000/">Home</a></li>
 		<li><a href="http://localhost:4000/research">Research</a></li>
 		<li><a href="http://localhost:4000/publications">Publication</a></li>
-		<li><a href="http://localhost:4000/projects">Project</a></li>
+<!--		<li><a href="http://localhost:4000/projects">Project</a></li>-->
 		<li><a href="http://localhost:4000/outputs">Output</a></li>
 		<li><a href="http://localhost:4000/services">Service</a></li>
 		<li><a href="http://localhost:4000/award">Award</a></li>
@@ -55,120 +56,153 @@
   <h1 id="research-statement">Research Statement</h1>
 <div style="margin-top: 35px"></div>
 
-<h3 id="foundation-of-structure-aware-semantics-understanding">Foundation of Structure-aware Semantics Understanding</h3>
+<h3 id="on-multimodal-generalist-towards-human-level-capacity-and-cognition"><strong><code class="language-plaintext highlighter-rouge">On Multimodal Generalist towards Human-level Capacity and Cognition</code></strong></h3>
 
-<p class="text-justify">The semantics of the world can be essentially in structured formats, and different data of modalities comes with structural representations.
-For example, languages have various syntactic structure definitions, e.g., dependency tree, constituency grammar and discourse structure;
-and also visions can be depicted by the scene graph structures.
-Besides, the world knowledge should be represented with structured format, i.e., knowledge graph; 
-and also the human-level reasoning largely follows the structural manner.</p>
+<p class="text-justify">The emergence of large language models (LLMs) has bestowed unprecedented levels of intelligence upon human society. 
+We human beings live in a world where vairous sensory modalities of signals coexist, which means that integrating multimodal capabilities—Multimodal might largely be the most promising path toward the ultimate goal of AGI. 
+The human-level AI we envision should be a multimodal generalist, embodying human-like behavioral patterns: not only perceive the semantic content of various modalities and scenarios but also generate and output signals across different modalities to interact with the external world. 
+This implies possessing universal modalities and universal task capacities with strong synergistic generalizability. 
+To achieve true human-level AI, in addition to perception, it should also encompass complex-reasoning, knowledge-applying, and empathy capabilities, akin to human beings. 
+With these beliefs in mind, my research topic is: studying and building unified multimodal generalist towards human-level capacity (<em>Modality</em>, <em>Task</em>, <em>Knowledge</em>) and cognition (<em>Reasoning</em>, <em>Affection</em>).</p>
 
-<p><img src="http://localhost:4000/images/respic/structure-examples.png" alt="" style="width: 92%; float: center; margin: 0px; margin-left: 30px" /></p>
+<div style="margin-top: 10px"></div>
 
-<p class="text-justify">Thus, the essence of semantics understanding of languages, visions, etc., lies in the understanding of the intrinsic semantic structures, which motivates my research angle.
-My research has been revolving around the perspective of structure awareness modeling, which specifies the idea of <strong><code class="language-plaintext highlighter-rouge">Structure-aware Intelligence Learning</code> (SAIL)</strong>, 
-that enhances the semantics understanding of varied modalities with the intrinsic data structure modeling.</p>
+<p>My research can be sliced into multiple blocks, with the following image illustrating the overall logical architecture.</p>
+
+<p align="center">
+  <img src="http://localhost:4000/images/respic/research-state2.png" width="65%" />
+</p>
 
 <div style="margin-top: 20px"></div>
 
-<h3 id="high-level-research-envision">High-level Research Envision</h3>
-
-<p class="text-justify">My research scope covers the Natural Language Processing (NLP) and the intersection of NLP and Computer Vision (CV), i.e., Vision-Language Learning or Multimodal Machine Learning.
-Starting with deep learning based semantics understanding, where I engage in structure-aware NLP and structure-aware MM,
-I proactively integrate the SAIL idea into the language model (LM) for semantics understanding, i.e., structure-aware LM.
-The recent rise and great triumph of LLM have reveal the great potential of leading to AGI via this path.
-And the ultimate goal is thus to realize human-level AGI for universal modalities by modeling the semantic structures of the world.
-To achieve the AGI goal via SAIL that aligns the most with human society, these targets also should and will be achieved, including 
-efficacy, interpretability, robustness (generalizability), efficiency (scalability) and trustworthiness.</p>
-
-<p><img src="http://localhost:4000/images/respic/research-sum2.png" alt="" style="width: 100%; float: center; margin: 0px" /></p>
+<p>Below each research topic is shown, with representative publications <a href="http://localhost:4000/publications">[View complete publications]</a>:</p>
 
 <div style="margin-top: 40px"></div>
 
-<h3 id="research-specification">Research Specification</h3>
+<h4 id="-foundation-level-multimodal-llms-and-generalists"><strong><code class="language-plaintext highlighter-rouge">▶ Foundation-level: Multimodal LLMs and Generalists</code></strong></h4>
 
-<p>My research is sliced into the following blocks with selected publications <a href="http://localhost:4000/publications">[View complete publications]</a>:</p>
+<div style="border-radius: 0.7em;background-color: rgba(0,0,0,3%);padding-bottom: 1.0pt;padding-left: 4.0pt;padding-right: 4.0pt;padding-top: 4.0pt;line-height: 19px;">
 
-<h4 id="-a-structure-aware-nlp">▶ A. Structure-aware NLP</h4>
+  <p><span style="font-size: 20px;">•</span>   <strong>Unified Multimodal LLMs</strong> with universal capability of comprehension and generation</p>
+  <ul>
+    <li><a href="https://next-gpt.github.io/"><strong>NExT-GPT</strong></a>:    <em style="font-size: 15px;color:#C7254E;">The 1st unified any-to-any multimodal LLM</em></li>
+    <li><a href="https://vitron-llm.github.io/"><strong>Vitron</strong></a>:    <em style="font-size: 15px;color:#C7254E;">The 1st unified pixel-level vision LLM for understanding, generating, segmenting, editing of image and video</em></li>
+    <li><a href="https://lxtgh.github.io/project/omg_llava/"><strong>LLaVA-OMG</strong></a>:    <em style="font-size: 15px;color:#C7254E;">A pioneering vision LLM for pixel-level, object-level, and image-level understanding and reasoning</em></li>
+  </ul>
+
+  <p><span style="font-size: 20px;">•</span>    <strong>MLLMs</strong> for Image/Video/3D/etc</p>
+  <ul>
+    <li><a href="https://chocowu.github.io/SeTok-web/"><strong>Setok</strong></a>:    <em style="font-size: 15px;color:#C7254E;">Enhance Vision LLMs with a dynamic semantic-equivalent vision tokenizer</em></li>
+    <li><a href="https://vpgtrans.github.io/"><strong>VPGTrans</strong></a>:    <em style="font-size: 15px;color:#C7254E;">For the first time investigate the vision encoder transferability across LLMs</em></li>
+    <li><a href="https://ll3da.github.io/"><strong>LL3DA</strong></a>:    <em style="font-size: 15px;color:#C7254E;">A pioneering 3D-LLM (3D point cloud)</em></li>
+    <li><a href="https://github.com/DCDmllm/Momentor"><strong>Momentor</strong></a>:    <em style="font-size: 15px;color:#C7254E;">A pioneering Video-LLM for fine-grained comprehension and localization in videos</em></li>
+    <li><a href="https://acharkq.github.io/MolCA/"><strong>Molca</strong></a>:    <em style="font-size: 15px;color:#C7254E;">A pioneering Protein LLM</em></li>
+  </ul>
+
+  <p><span style="font-size: 20px;">•</span>   <strong>Multimodal Agent</strong> for addressing wide range of downstream applications, with embodied intelligence</p>
+
+  <p><span style="font-size: 20px;">•</span>   <strong>MLLM Evaluation</strong>:</p>
+
+  <ul>
+    <li><a href="https://path2generalist.github.io/"><strong>General-Level</strong></a>:    <em style="font-size: 15px;color:#C7254E;">Pioneer the path of MLLM evaluations towards multimodal generalists</em></li>
+  </ul>
+
+</div>
+
+<div style="margin-top: 40px"></div>
+
+<h4 id="-capacity-level-cross-modal-information-comprehension-generation-and-acquisition"><strong><code class="language-plaintext highlighter-rouge">▶ Capacity-level: Cross-modal Information Comprehension, Generation and Acquisition</code></strong></h4>
+
+<div style="border-radius: 0.7em;background-color: rgba(0,0,0,3%);padding-bottom: 1.0pt;padding-left: 4.0pt;padding-right: 4.0pt;padding-top: 4.0pt;line-height: 19px;">
+
+  <p><span style="font-size: 20px;">•</span>   <strong>Multimodal Perception</strong>: audio/speech/image/video/3D modeling, vision captioning, cross-modal retrieval, text/visual/video scene graph parsing</p>
+  <ul>
+    <li><a href="https://arxiv.org/abs/2406.19255"><strong>Finsta</strong></a>:    <em style="font-size: 15px;color:#C7254E;">Enhance video-language models with a fine-grained structural spatio-temporal alignment learning</em></li>
+    <li><a href="https://arxiv.org/abs/2309.17205"><strong>RIS-CQ</strong></a>:    <em style="font-size: 15px;color:#C7254E;">Present a novel referring image understanding benchmark with complex queries</em></li>
+    <li><a href="https://arxiv.org/abs/2305.11768"><strong>GO3D-SG</strong></a>:    <em style="font-size: 15px;color:#C7254E;">Enhance visual spatial understanding with holistic 3D spatial scene graph</em></li>
+    <li><a href="https://arxiv.org/abs/2308.05081"><strong>HostSG</strong></a>:    <em style="font-size: 15px;color:#C7254E;">Explore a novel holistic spatio-temporal scene graph for video event analysis</em></li>
+    <li><a href="https://arxiv.org/abs/2305.12260"><strong>Cross2StrA</strong></a>:    <em style="font-size: 15px;color:#C7254E;">Explore the visual scene graph and linguistic structural representation for cross-lingual image captioning</em></li>
+  </ul>
+
+  <p><span style="font-size: 20px;">•</span>   <strong>Multimodal Generation</strong>: vision synthesis, text-to-vision generation, joint multimodal generation</p>
+  <ul>
+    <li><a href="https://haofei.vip/Dysen-VDM/"><strong>Dysen-VDM</strong></a>:    <em style="font-size: 15px;color:#C7254E;">Enhance temporal dynamics of text-to-video diffusion from LLMs</em></li>
+    <li><a href="https://layoutllm-t2i.github.io/"><strong>LayoutLLM-T2I</strong></a>:    <em style="font-size: 15px;color:#C7254E;">Enhance fidelity of text-to-image diffusion with layout from LLMs</em></li>
+    <li><a href="https://is.gd/BrQaIH"><strong>Salad</strong></a>:    <em style="font-size: 15px;color:#C7254E;">Improve text-to-image synthesis under abstract-to-intricate setting with scene graph representation</em></li>
+  </ul>
+
+  <p><span style="font-size: 20px;">•</span>   <strong>Knowledge Acquisition</strong>: cross-modal information extraction, translation</p>
+  <ul>
+    <li><a href="https://haofei.vip/MUIE/"><strong>MUIE</strong></a>:    <em style="font-size: 15px;color:#C7254E;">The 1st benchmark for grounded multimodal universal information extraction</em></li>
+    <li><a href="https://speechee.github.io/"><strong>SpeechEE</strong></a>:    <em style="font-size: 15px;color:#C7254E;">The 1st benchmark for extracting events from speech</em></li>
+    <li><a href="https://haofei.vip/W2NER-page/"><strong>W2NER</strong></a>:    <em style="font-size: 15px;color:#C7254E;">Unify flat, overlapped and discontinuous NER as word-word relation classification</em></li>
+    <li><a href="https://haofei.vip/LasUIE-page"><strong>LasUIE</strong></a>:    <em style="font-size: 15px;color:#C7254E;">Pioneer universal information extraction with a latent adaptive structure-aware generative LM</em></li>
+    <li><a href="https://chocowu.github.io/mmre-page/"><strong>MMRE</strong></a>:    <em style="font-size: 15px;color:#C7254E;">Enhance multimodal relation extraction via internal-information screening and external-information exploiting</em></li>
+    <li><a href="https://arxiv.org/abs/2305.12256"><strong>UMMT</strong></a>:    <em style="font-size: 15px;color:#C7254E;">Pioneer the inference-time image-free unsupervised multimodal machine translation with visual scene hallucination mechanism</em></li>
+  </ul>
+</div>
+
+<div style="margin-top: 40px"></div>
+
+<h4 id="-cognition-level-multimodal-human-centric-reasoning-and-affection"><strong><code class="language-plaintext highlighter-rouge">▶ Cognition-level: Multimodal Human-centric Reasoning and Affection</code></strong></h4>
+
+<div style="border-radius: 0.7em;background-color: rgba(0,0,0,3%);padding-bottom: 1.0pt;padding-left: 4.0pt;padding-right: 4.0pt;padding-top: 4.0pt;line-height: 19px;">
+
+  <p><span style="font-size: 20px;">•</span>   <strong>Reasoning</strong>: <em>complex reasoning, neuro/symbolic reasoning, cross-modal reasoning</em></p>
+  <ul>
+    <li><a href="https://haofei.vip/VoT/"><strong>Video-of-Thought</strong></a>:    <em style="font-size: 15px;color:#C7254E;">The 1st video chain-of-thought reasoning framework</em></li>
+    <li><a href="https://github.com/Aiden0526/SymbCoT"><strong>SymbCoT</strong></a>:    <em style="font-size: 15px;color:#C7254E;">The 1st fully LLM-based logical reasoning framework based on chain-of-thought</em></li>
+  </ul>
+
+  <p><span style="font-size: 20px;">•</span>   <strong>Affective Computing</strong>: <em>cross-modal, fine-grained affection and opinion analysis in social media.</em></p>
+
+  <ul>
+    <li><a href="https://panosent.github.io/"><strong>PanoSent</strong></a>:    <em style="font-size: 15px;color:#C7254E;">The 1st cognitive-level benchmark for multimodal conversational aspect-based sentiment analysis</em></li>
+    <li><a href="https://haofei.vip/THOR/"><strong>THOR-ISA</strong></a>:    <em style="font-size: 15px;color:#C7254E;">For the first time address implicit sentiment reasoning with chain-of-thought framework</em></li>
+    <li><a href="https://diaasq-page.pages.dev/"><strong>DiaASQ</strong></a>:    <em style="font-size: 15px;color:#C7254E;">The 1st benchmark for conversational aspect-based sentiment analysis</em></li>
+    <li><a href="https://haofei.vip/UABSA"><strong>UABSA</strong></a>:    <em style="font-size: 15px;color:#C7254E;">A multiplex cascade framework for unified aspect-based sentiment analysis</em></li>
+    <li><a href="https://haofei.vip/UABSA"><strong>RobustABSA</strong></a>:    <em style="font-size: 15px;color:#C7254E;">Comprehensively rethinking the robustness of model, data, and training in aspect-based sentiment analysis</em></li>
+  </ul>
+</div>
+
+<div style="margin-top: 30px"></div>
+
+<hr />
+
+<p>Previously I paid my particular focus on <a href="http://localhost:4000/sail">Structure-aware Intelligence Learning (SAIL)</a>, and worked on the following topics:</p>
 
 <ul>
-  <li><strong>Sentence-level Structural Modeling</strong>
+  <li><strong>NLP</strong>
     <ul>
-      <li>Syntax Parsing, Grammar Induction, Semantic Parsing</li>
-      <li>Syntax-aided Semantic Role Labeling (SRL)</li>
-      <li>Structured Information Extraction (IE), e.g., Named Entity Recognition (NER), Relation Extraction and Event Extraction</li>
-      <li>Syntax-aided Cross-lingual IE</li>
-      <li>Structured Sentiment Analysis, Syntax-aided Sentiment Analysis</li>
-      <li>Structure-guided Text Generation (Conditioned Text Generation, Machine Translation, Summarization)</li>
+      <li>Text Generation (<a href="https://arxiv.org/pdf/2403.15776"><strong>paper</strong></a>)</li>
+      <li>Dialogue/Document Analysis (<a href="https://arxiv.org/abs/2306.03975"><strong>paper</strong></a>)</li>
+      <li>Semantic Parsing (<a href="https://haofei.vip/XSRL"><strong>XSRL</strong></a>)</li>
+      <li>Syntax Parsing and Grammar Induction</li>
     </ul>
   </li>
-  <li><strong>Dialogue-level Structural Modeling</strong>
+  <li><strong>Multimodal Learning</strong>
     <ul>
-      <li>Conversation Discourse Structure Parsing</li>
-      <li>Conversational IE</li>
-      <li>Conversational SRL</li>
-      <li>Conversation Sentiment Analysis</li>
+      <li>Image/Video Captioning</li>
+      <li>Multimodal Grammar Induction (<a href="https://arxiv.org/abs/2410.03739"><strong>VAT-GI</strong></a>)</li>
     </ul>
   </li>
-  <li><strong>Document-level Structural Modeling</strong>
-    <ul>
-      <li>Documental Discourse Structure Parsing</li>
-      <li>Documental IE</li>
-      <li>Documental Sentiment Analysis</li>
-    </ul>
-  </li>
-</ul>
-
-<h4 id="-b-structure-aware-mm">▶ B. Structure-aware MM</h4>
-
-<ul>
-  <li><strong>Structure Parsing</strong>
-    <ul>
-      <li>Multimodal Grammar Induction</li>
-      <li>Text/Visual/Video Scene Graph (SG) parsing</li>
-    </ul>
-  </li>
-  <li><strong>Structure-based Multimodal Learning</strong>
-    <ul>
-      <li>Multimodal Sentiment Analysis</li>
-      <li>SG-aided Multimodal IE</li>
-      <li>SG-pivoted Multimodal Machine Translation</li>
-      <li>Image/Video Captioning, Cross-lingual Captioning</li>
-      <li>Vision-Language/Video Event Extraction (Situation Recognition, SRL)</li>
-      <li>Structured Dual Learning</li>
-      <li>Text-to-Image/Video Generation</li>
-      <li>Image/Video Synthesis</li>
-    </ul>
-  </li>
-</ul>
-
-<h4 id="-c-structure-aware-lm">▶ C. Structure-aware LM</h4>
-
-<ul>
   <li><strong>Langauge Modeling</strong>
     <ul>
-      <li>Structure-aided Langauge Modeling</li>
-      <li>KG-enriched Langauge Modeling</li>
-      <li>Text-based Langauge Modeling</li>
-      <li>Multimodal Langauge Modeling</li>
-      <li>Universal Langauge Modeling</li>
+      <li>Structure-aware Langauge Modeling (<a href="https://arxiv.org/abs/2009.07408"><strong>StructLM</strong></a>)</li>
+      <li>KG-empowered Langauge Modeling (<a href="https://academic.oup.com/bib/article-pdf/22/3/bbaa110/37963251/bbaa110.pdf"><strong>BioLM</strong></a>)</li>
     </ul>
   </li>
-  <li><strong>LM-empowered Efficacy Learning</strong>
+  <li><strong>Machine Learning</strong>
     <ul>
-      <li>Prompt Learning, Prompt Tuning</li>
-      <li>In-context Learning, Instruction Tuning</li>
-      <li>Commonsense Reasoning, Chain-of-thought Reasoning</li>
-    </ul>
-  </li>
-  <li><strong>LM Efficiency and Trustworthiness</strong>
-    <ul>
-      <li>LLM Evaluation, Boundary Probing</li>
-      <li>LLM Transfer Learning</li>
-      <li>LLM for Social Good</li>
+      <li>Prompt Learning/Tuning (<a href="https://arxiv.org/pdf/2306.03974.pdf"><strong>TKDP</strong></a>)</li>
+      <li>In-context Learning (<a href="https://arxiv.org/pdf/2402.01182"><strong>Paper</strong></a>)</li>
+      <li>Dual Learning (<a href="https://haofei.vip/SMDL/"><strong>StructDual</strong></a>)</li>
+      <li>Reinforcement Learning (<a href="https://ieeexplore.ieee.org/document/9352534"><strong>Paper</strong></a>)</li>
     </ul>
   </li>
 </ul>
+
+<div style="margin-top: 50px"></div>
 
 
 </div>
@@ -180,26 +214,32 @@ efficacy, interpretability, robustness (generalizability), efficiency (scalabili
   <div class="panel-footer">
 	<div class="container-fluid">
 
-	  <div class="row">
-		<div class="col-sm-4">
+	  <div class="row" style="width: 100%;text-align: center">
+		<div class="col-sm-3">
 <!--		  <p>&copy2023 Hao Fei. Powered by <a href="http://jekyllrb.com/">Jekyll</a></p>-->
 <!--			<p>Powered by <a href="http://jekyllrb.com/">Jekyll</a> </p>-->
-		   <p>  </p><p>
+<!--		   <p>&copy2023 <a href="http://localhost:4000/"> Hao Fei</a>.</p>-->
 
 		</div>
-
-		<div class="col-sm-4">
-			  <p>&copy2023 <a href="http://localhost:4000/"> Hao Fei</a>. &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-				  Powered by <a href="http://jekyllrb.com/">Jekyll</a>.</p>
+<!--		<center>-->
+		<div class="col-sm-6" >
+			  <p style="text-align: center">&copy2024 <a href="http://localhost:4000/"> Hao Fei</a>. &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+				Powered by <a href="http://jekyllrb.com/">Jekyll</a>.&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+			  <span id="busuanzi_container_site_pv"><a href=""><span id="busuanzi_value_site_uv"></span></a> visits.</span></p>
 
 <!--			<p>Contact me via email: <a href="mailto:haofei37@nus.edu.sg" target="_blank">haofei37@nus.edu.sg</a></p>-->
 		</div>
-
-<!--		<div class="col-sm-4">-->
+<!--		</center>-->
+		<div class="col-sm-4">
+<!--			<span id="busuanzi_container_site_pv">-->
+<!--				The site has been visited <span id="busuanzi_value_site_pv"></span> times.-->
+<!--				The site visited <a href=""><span id="busuanzi_value_site_pv"></span></a> times.-->
+<!--				Visiting <a href=""><span id="busuanzi_value_site_uv"></span></a> times.-->
+<!--			</span>-->
 <!--			  Coordinates: <br/>-->
 <!--				  5 Prince George's Park, Singapore 118404<br/>-->
 <!--				  National University of Singapore<br/>-->
-<!--		</div>-->
+		</div>
 	  </div>
 	</div>
   </div>
