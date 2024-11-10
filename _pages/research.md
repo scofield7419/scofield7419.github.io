@@ -128,14 +128,14 @@ Below each research topic is shown, with representative publications [\[View com
 
 <div style="border-radius: 0.7em;background-color: rgba(0,0,0,3%);padding-bottom: 1.0pt;padding-left: 4.0pt;padding-right: 4.0pt;padding-top: 4.0pt;line-height: 19px;">
 
-<span style="font-size: 20px;">&#8226;</span> &nbsp; **Reasoning**: _complex reasoning, neuro/symbolic reasoning, cross-modal reasoning_
+<span style="font-size: 20px;">&#8226;</span> &nbsp; **Reasoning**: complex reasoning, neuro/symbolic reasoning, cross-modal reasoning
 - [**Video-of-Thought**](https://haofei.vip/VoT/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st video chain-of-thought reasoning framework</em> 
 - [**SymbCoT**](https://github.com/Aiden0526/SymbCoT): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st fully LLM-based logical reasoning framework based on chain-of-thought</em> 
 
 
 
 
-<span style="font-size: 20px;">&#8226;</span> &nbsp; **Affective Computing**: _cross-modal, fine-grained affection and opinion analysis in social media._
+<span style="font-size: 20px;">&#8226;</span> &nbsp; **Affective Computing**: cross-modal, fine-grained affection and opinion analysis in social media
 
 - [**PanoSent**](https://panosent.github.io/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st cognitive-level benchmark for multimodal conversational aspect-based sentiment analysis</em> 
 - [**THOR-ISA**](https://haofei.vip/THOR/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">For the first time address implicit sentiment reasoning with chain-of-thought framework</em>
