@@ -34,7 +34,7 @@ My research can be sliced into multiple blocks, with the following image illustr
 
 
 <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/research-state2.png" width="65%"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/research-state3.png" width="97%"/>
 </p>
 
 
