@@ -59,7 +59,7 @@ Below each research topic is shown, with representative publications [\[View com
 <span style="font-size: 20px;">&#8226;</span> &nbsp; **Unified Multimodal LLMs** with universal capability of comprehension and generation, with synergistic ability
 - [**NExT-GPT**](https://next-gpt.github.io/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st unified any-to-any multimodal LLM</em> 
 - [**Vitron**](https://vitron-llm.github.io/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st unified pixel-level vision LLM for understanding, generating, segmenting, editing of image and video</em> 
-- [**LLaVA-OMG**](https://lxtgh.github.io/project/omg_llava/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A pioneering vision LLM for pixel-level, object-level, and image-level understanding and reasoning</em> 
+- [**OMG-LLaVA**](https://lxtgh.github.io/project/omg_llava/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A pioneering vision LLM for pixel-level, object-level, and image-level understanding and reasoning</em> 
 - [**General-Level**](https://path2generalist.github.io/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Pioneer the path of MLLM evaluations towards multimodal generalists</em> 
 
 
