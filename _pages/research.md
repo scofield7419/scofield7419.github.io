@@ -85,17 +85,17 @@ Below each research topic is shown, with representative publications [\[View com
 
 <div style="border-radius: 0.7em;background-color: rgba(0,0,0,3%);padding-bottom: 1.0pt;padding-left: 4.0pt;padding-right: 4.0pt;padding-top: 4.0pt;line-height: 19px;">
 
-<span style="font-size: 20px;">&#8226;</span> &nbsp; **Multimodal Perception**: audio/speech/image/video/3D modeling, vision captioning, cross-modal retrieval, text/visual/video scene graph parsing
+<span style="font-size: 20px;">&#8226;</span> &nbsp; **Multimodal Perception**: low-/high-level audio/speech/image/video/3D modeling, cross-modal captioning/retrieval, scene graph parsing
 - [**Finsta**](https://arxiv.org/abs/2406.19255): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Enhance video-language models with a fine-grained structural spatio-temporal alignment learning</em>
-- [**RIS-CQ**](https://arxiv.org/abs/2309.17205): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Present a novel referring image understanding benchmark with complex queries</em> 
 - [**GO3D-SG**](https://arxiv.org/abs/2305.11768): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Enhance visual spatial understanding with holistic 3D spatial scene graph</em> 
 - [**HostSG**](https://arxiv.org/abs/2308.05081): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Explore a novel holistic spatio-temporal scene graph for video event analysis</em> 
 - [**Cross2StrA**](https://arxiv.org/abs/2305.12260): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Explore the visual scene graph and linguistic structural representation for cross-lingual image captioning</em> 
+- [**RIS-CQ**](https://arxiv.org/abs/2309.17205): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Present a novel referring image understanding benchmark with complex queries</em> 
 
 
 
 
-<span style="font-size: 20px;">&#8226;</span> &nbsp; **Multimodal Generation**: vision synthesis, text-to-vision generation, joint multimodal generation
+<span style="font-size: 20px;">&#8226;</span> &nbsp; **Multimodal Generation**: text/vision/audio synthesis, text-to-vision generation, joint multimodal generation
 - [**Dysen-VDM**](https://haofei.vip/Dysen-VDM/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Enhance temporal dynamics of text-to-video diffusion from LLMs</em> 
 - [**LayoutLLM-T2I**](https://layoutllm-t2i.github.io/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Enhance fidelity of text-to-image diffusion with layout from LLMs</em> 
 - [**Salad**](https://is.gd/BrQaIH): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Improve text-to-image synthesis under abstract-to-intricate setting with scene graph representation</em> 
