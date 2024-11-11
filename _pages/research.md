@@ -141,7 +141,7 @@ Below each research topic is shown, with representative publications [\[View com
 - [**THOR-ISA**](https://haofei.vip/THOR/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">For the first time address implicit sentiment reasoning with chain-of-thought framework</em>
 - [**DiaASQ**](https://diaasq-page.pages.dev/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st benchmark for conversational aspect-based sentiment analysis</em> 
 - [**UABSA**](https://haofei.vip/UABSA): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A multiplex cascade framework for unified aspect-based sentiment analysis</em> 
-- [**RobustABSA**](https://haofei.vip/UABSA): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Comprehensively rethinking the robustness of model, data, and training in aspect-based sentiment analysis</em> 
+- [**RobustABSA**](https://arxiv.org/abs/2304.09563): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Comprehensively rethinking the robustness of model, data, and training in aspect-based sentiment analysis</em> 
 </div>
 
 
