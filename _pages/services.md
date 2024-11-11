@@ -136,4 +136,5 @@ permalink: /services
 - Youth Working Committee Member of CIPS
 - Technical Committee Member on Affect Computing of CIPS
 - Technical Committee Member on SMP of CIPS
+- Technical Committee Member on LMG of CIPS
 
