@@ -164,7 +164,7 @@ Previously I paid my particular focus on [Structure-aware Intelligence Learning 
   - Text Generation ([**paper**](https://arxiv.org/pdf/2403.15776))
   - Dialogue/Document Analysis ([**paper**](https://arxiv.org/abs/2306.03975))
   - Semantic Parsing ([**XSRL**](https://haofei.vip/XSRL))
-  - Syntax Parsing and Grammar Induction
+  - Syntax Parsing and Grammar Induction ([**XNLP**](https://arxiv.org/abs/2308.01846))
 
 
 - **Multimodal Learning** 
