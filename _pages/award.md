@@ -6,8 +6,7 @@ sitemap: false
 permalink: /award
 ---
 
-# Honors and Awards
-
+# Achievements
 
 
 <div style="margin-top: 35px"></div>
@@ -15,14 +14,21 @@ permalink: /award
 
 
 
-### Awards
+### Honors and Awards
 
+- 2024: Top 2% Scientists Worldwide 2024 (Single Year) by Stanford University.
+- 2024: ACM MM 2024 Workshop Best Paper Award
 - 2024: **2024 World Artificial Intelligence Conference Youth Outstanding Paper Award** (2024世界人工智能大会青年优秀论文奖)
 - 2023: **2023 World AI Conference Rising Star** (2023世界人工智能大会云帆奖明日之星)
+- 2023: ACL 2023 Best Paper Award Nomination
 - 2022: **Award of Excellent Doctoral Thesis** of Chinese Information Processing Society [(CIPS)](http://www.cipsc.org.cn/chcontent.php?&xuhao=20221122)
-- 2022: SIGIR 2022 **Travel Award**
 
 
+<div style="margin-top: 30px"></div>
+
+### Grants
+- 2024: CCF-Kuaishou Large Model Explorer Fund
+- 2023: CCF-Baidu Pinecone Open Fund
 
 
 <div style="margin-top: 30px"></div>
@@ -30,7 +36,7 @@ permalink: /award
 
 ### Challenges and Shared Tasks
 
-
+- 2024: **1<sup>st</sup>** place of ACM MM24 Grand Challenge
 - 2024: **2<sup>nd</sup>** place of SemEval-2024 Task 3: The Competition of Multimodal Emotion Cause Analysis in Conversations
 - 2019: **1<sup>st</sup>** place of Jing Dong Dialogue Challenge (JDDC) of preliminary competition
 - 2018: **1<sup>st</sup>** place of Text Matching Challenge of China Conference on Health Information Processing (CHIP) 
