@@ -1,4 +1,14 @@
 
+- title: "Towards Rich Emotions in 3D Avatars: A Text-to-3D Avatar Generation Benchmark"
+  venue:
+    name: arXiv
+  year: 2024
+  authors: Haidong Xu, Meishan Zhang, Hao Ju, Zhedong Zheng, Hongyuan Zhu, Erik Cambria, Min Zhang, <strong>Hao Fei</strong>
+  link:
+    paper: https://arxiv.org/abs/2412.02508
+    code: https://github.com/WalkerMitty/EmoAva
+
+
 - title: "Grounding is All You Need? Dual Temporal Grounding for Video Dialog"
   venue:
     name: arXiv
