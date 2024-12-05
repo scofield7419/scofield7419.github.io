@@ -131,6 +131,7 @@ permalink: /services
 - ACM Member
 - IEEE Member
 - IEEE Signal Processing Society Member
+- IEEE Young Professionals
 - CCF Member
 - CAAI Member (中国人工智能学会)
 - CIPS Member (中国中文信息学会)
