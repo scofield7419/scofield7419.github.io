@@ -1,4 +1,56 @@
 
+
+
+- title: "Combating Multimodal LLM Hallucination via Bottom-up Holistic Reasoning"
+  venue:
+    name: AAAI
+  year: 2025
+  authors: Shengqiong Wu, <strong>Hao Fei<sup>*</sup></strong>, Liangming Pan, William Yang Wang, Shuicheng Yan, Tat-Seng Chua
+  link:
+    paper: #
+    code: #
+
+
+- title: "VEGAS: Towards Visually Explainable and Grounded Artificial Social Intelligence"
+  venue:
+    name: AAAI
+  year: 2025
+  authors: Hao Li, <strong>Hao Fei</strong>, Zechao Hu, Zhengwei Yang, Zheng Wang
+  link:
+    paper: #
+    code: #
+
+
+- title: "Multi-Granular Multimodal Clue Fusion for Meme Understanding"
+  venue:
+    name: AAAI
+  year: 2025
+  authors: Li Zheng, <strong>Hao Fei</strong>, Ting Dai, Zuquan Peng, Fei Li, Huisheng Ma, Chong Teng, Donghong Ji
+  link:
+    paper: #
+    code: #
+
+
+- title: "CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models"
+  venue:
+    name: AAAI
+  year: 2025
+  authors: Zihui Cheng, Qiguang Chen, Jin Zhang, <strong>Hao Fei</strong>, Xiaocheng Feng, Wanxiang Che, Min Li, Libo Qin
+  link:
+    paper: #
+    code: #
+
+
+- title: "Divide-Solve-Combine: An Interpretable and Accurate Prompting Framework for Zero-shot Multi-Intent Detection"
+  venue:
+    name: AAAI
+  year: 2025
+  authors: Libo Qin, Qiguang Chen, Jingxuan Zhou, Jin Wang, <strong>Hao Fei</strong>, Wanxiang Che, Min Li
+  link:
+    paper: #
+    code: #
+
+
 - title: "VITRON: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing"
   venue:
     name: NeurIPS
