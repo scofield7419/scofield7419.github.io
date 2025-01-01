@@ -1,5 +1,14 @@
 
 
+- title: "Complex Open Information Extraction with Heterogeneous Syntax Forests"
+  venue:
+    name: ICASSP
+  year: 2025
+  authors: Meishan Zhang, Peiming Guo, <strong>Hao Fei</strong>, Min Zhang
+  link:
+    paper: #
+
+
 
 - title: "Combating Multimodal LLM Hallucination via Bottom-up Holistic Reasoning"
   venue:
@@ -57,7 +66,7 @@
   year: 2024
   authors: <strong>Hao Fei</strong>, Shengqiong Wu, Hanwang Zhang, Tat-Seng Chua, Shuicheng Yan
   link:
-    paper: http://haofei.vip/downloads/papers/Skywork_Vitron_2024.pdf
+    paper: https://arxiv.org/abs/2412.19806
     code: https://vitron-llm.github.io/
   promote:
     name: 新智元
