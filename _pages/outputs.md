@@ -14,14 +14,13 @@ permalink: /outputs
 ### Organization of Workshop and Shared Tasks
 
 
+- Co-organizing the **1<sup>st</sup> Large Language Models and Structure Modeling [(XLLM 2025)](https://xllms.github.io/)** Workshop @ [ACL 2025](https://2025.aclweb.org/) 
 - Co-organizing the **2<sup>nd</sup> Deep Multimodal Generation and Retrieval [(MMGR 2024)](https://videorelation.nextcenter.org/MMGR24/)** Workshop @ [ACM Multimedia 2024](https://2024.acmmm.org/) 
 - Co-organizing the **Visual Spatial Description [(VSD)](https://lllogen.github.io/vsd-challenge.github.io/)** Grand Challenge @ [ACM Multimedia 2024](https://2024.acmmm.org/) 
 - Co-organizing the **Nominal Compound Chain Extraction [(NCCE)](https://ncce-site.pages.dev/)** Shared Task @ [NLPCC 2024](http://tcci.ccf.org.cn/conference/2024/cfpt.php)
 - Co-organizing the **Dialogue-level Coreference Resolution and Relation Extraction** Shared Task @ [NLPCC 2024](http://tcci.ccf.org.cn/conference/2024/cfpt.php)
 - Co-organizing the **1<sup>st</sup> Deep Multimodal Learning for Information Retrieval [(MMIR 2023)](https://videorelation.nextcenter.org/MMIR23/)** Workshop @ [ACM Multimedia 2023](https://www.acmmm2023.org/) 
 - Co-organizing the **Conversational Aspect-based Sentiment Analysis [(DiaASQ)](https://conasq.pages.dev/)** Shared Task @ [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/cfpt.php)
-
-
 
 
 
