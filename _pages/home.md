@@ -45,7 +45,7 @@ permalink: /
 
 
 ### Profile
-I am a research fellow at National University of Singapore, working with Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) at [IDS](https://ids.nus.edu.sg/), also with Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) at [NExT++](https://www.nextcenter.org).
+I am a senior research fellow at National University of Singapore, working with Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) at [IDS](https://ids.nus.edu.sg/), also with Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) at [NExT++](https://www.nextcenter.org).
 Previously, I was an associate researcher at Skywork AI Singapore, working with Prof. [Shuicheng Yan](https://yanshuicheng.info/) (more previously an associate researcher at SEA AI lab).
 I graduated as Ph.D from Wuhan University.
 {: .text-justify}
