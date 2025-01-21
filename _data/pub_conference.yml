@@ -1,4 +1,23 @@
 
+- title: "Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark"
+  venue:
+    name: TheWebConf (WWW)
+  year: 2025
+  authors: Han Zhang, Zixiang Meng, Meng Luo, Hong Han, Lizi Liao, Erik Cambria, <strong>Hao Fei<sup>*</sup></strong>
+  link:
+    paper: #
+    code: #
+
+
+- title: "From Data Deluge to Data Curation: A Filtering-WoRA Paradigm for Efficient Text-based Person Search"
+  venue:
+    name: TheWebConf (WWW)
+  year: 2025
+  authors: Jintao Sun, Hao Fei, Gangyi Ding, Zhedong Zheng
+  link:
+    paper: #
+    code: #
+
 
 - title: "Complex Open Information Extraction with Heterogeneous Syntax Forests"
   venue:
