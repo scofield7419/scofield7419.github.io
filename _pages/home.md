@@ -56,11 +56,11 @@ I was awarded the World AI Conference Rising Star in 2023.
 My papers were selected as Most Influential Papers by Paper Digest, and ESI Highly Influential Papers and 2024 WAIC Outstanding Paper Award.
 I was also the recipient of the 2023 WAIC Rising Star award, and ranked as Top 2% Scientists Worldwide 2024 (Single Year) by Stanford University.
 I've regularly served as (Senior) Area Chair or Senior Program Committee of top-tier conferences.
-I was the organization committee of WSDM 2022, EMNLP 2023, ACL 2024. 
+I was the organization committee of WSDM 2022, EMNLP 2023, ACL 2024, ACM MM 2025. 
 I serve as the Associate Editor of some journals, including TALLIP and Neurocomputing.
 And I am a persistently-invited reviewer for many journals including TPAMI, IJCV, TNNLS, TKDE, TOIS, etc. 
 My Ph.D thesis was awarded the Excellent Doctoral Thesis of Chinese Information Processing Society (CIPS). 
-I won more than ten honors and awards when I was in Ph.D stage. 
+I won more than ten honors and awards during Ph.D stage. 
 {: .text-justify}
 
 
