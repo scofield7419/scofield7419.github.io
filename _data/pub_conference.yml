@@ -1,4 +1,25 @@
 
+
+- title: "Towards Semantic Equivalence of Tokenization in Multimodal LLM"
+  venue:
+    name: ICLR
+  year: 2025
+  authors: Shengqiong Wu, <strong>Hao Fei<sup>*</sup></strong>, Xiangtai Li, Jiayi Ji, Hanwang Zhang, Tat-Seng Chua, Shuicheng YAN
+  link:
+    paper: https://arxiv.org/abs/2406.05127
+    code: https://sqwu.top/SeTok-web/
+
+
+- title: "CHiP: Cross-modal Hierarchical Direct Preference Optimization for Multimodal LLMs"
+  venue:
+    name: TheWebConf (WWW)
+  year: 2025
+  authors: Jinlan Fu, huangfushenzhen, <strong>Hao Fei</strong>, Xiaoyu Shen, Bryan Hooi, Xipeng Qiu, See-Kiong Ng 
+  link:
+    paper: #
+    code: #
+
+
 - title: "Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark"
   venue:
     name: TheWebConf (WWW)
