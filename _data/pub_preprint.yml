@@ -38,24 +38,6 @@
     code: https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey
 
 
-- title: "Grammar Induction from Visual, Speech and Text"
-  venue:
-    name: arXiv
-  year: 2024
-  authors: Yu Zhao, <strong>Hao Fei</strong>, Shengqiong Wu, Meishan Zhang, Min Zhang, Tat-Seng Chua
-  link:
-    paper: https://arxiv.org/abs/2410.03739
-
-
-- title: "Towards Semantic Equivalence of Tokenization in Multimodal LLM"
-  venue:
-    name: arXiv
-  year: 2024
-  authors: Shengqiong Wu, <strong>Hao Fei</strong>, Xiangtai Li, Jiayi Ji, Hanwang Zhang, Tat-Seng Chua, Shuicheng Yan
-  link:
-    paper: https://arxiv.org/abs/2406.05127
-    code: https://chocowu.github.io/SeTok-web/
-
 
 - title: "Modeling Unified Semantic Discourse Structure for High-quality Headline Generation"
   venue:
