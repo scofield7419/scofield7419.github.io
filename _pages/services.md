@@ -22,7 +22,7 @@ permalink: /services
 - [SSNLP 2023](https://wing-nus.github.io/ssnlp-2023/) Organizing Committee
 - [ACL 2024](https://2024.aclweb.org/) Student Volunteer Co-Chair
 - [SSNLP 2024](https://wing-nus.github.io/ssnlp-2024/) Publicity Chair
-- [iGYRO SMD 2025](#) Program Chair
+- [iGYRO SMD 2025](https://igyro-nus.github.io/) Program Chair
 - [ACM MM 2025](https://acmmm2025.org/) Publication Co-Chair
 
 
@@ -74,6 +74,7 @@ permalink: /services
 - COLM 2024
 - CIKM 2024
 - ICASSP 2025
+- ...
 
 
 
