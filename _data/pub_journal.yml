@@ -1,5 +1,14 @@
 
 
+- title: "Grammar Induction from Visual, Speech and Text"
+  venue:
+    full: Artificial Intelligence
+    short: AIJ
+  year: 2024
+  authors: Yu Zhao, <strong>Hao Fei<sup>*</sup></strong>, Shengqiong Wu, Meishan Zhang, Min Zhang, Tat-Seng Chua
+  link:
+    paper: https://arxiv.org/abs/2410.03739
+
 
 - title: "Towards Complex-query Referring Image Segmentation: A Novel Benchmark"
   venue:
