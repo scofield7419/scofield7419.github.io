@@ -13,7 +13,7 @@
   venue:
     name: Preprint
   year: 2024
-  authors: Haidong Xu, Meishan Zhang, Hao Ju, Zhedong Zheng, Hongyuan Zhu, Erik Cambria, Min Zhang, <strong>Hao Fei</strong>
+  authors: Haidong Xu, Meishan Zhang, Hao Ju, Zhedong Zheng, Hongyuan Zhu, Erik Cambria, Min Zhang, <strong>Hao Fei<sup>*</sup></strong>
   link:
     paper: https://arxiv.org/abs/2412.02508
     code: https://github.com/WalkerMitty/EmoAva
