@@ -1,5 +1,16 @@
 
 
+- title: "Semantic Role Labeling: A Systematical Survey"
+  venue:
+    name: arXiv
+  year: 2025
+  authors: Huiyao Chen, Meishan Zhang, Jing Li, Min Zhang, Lilja Øvrelid, Jan Hajič, <strong>Hao Fei<sup>*</sup></strong>
+  link:
+    paper: https://arxiv.org/abs/2502.08660
+    code: https://github.com/DreamH1gh/Awesome-SRL
+
+
+
 - title: "A Survey on Benchmarks of Multimodal Large Language Models"
   venue:
     name: arXiv
