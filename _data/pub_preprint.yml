@@ -9,15 +9,6 @@
     code: https://github.com/Aiden0526/Aristotle
 
 
-- title: "Towards Rich Emotions in 3D Avatars: A Text-to-3D Avatar Generation Benchmark"
-  venue:
-    name: arXiv
-  year: 2024
-  authors: Haidong Xu, Meishan Zhang, Hao Ju, Zhedong Zheng, Hongyuan Zhu, Erik Cambria, Min Zhang, <strong>Hao Fei</strong>
-  link:
-    paper: https://arxiv.org/abs/2412.02508
-    code: https://github.com/WalkerMitty/EmoAva
-
 
 - title: "Grounding is All You Need? Dual Temporal Grounding for Video Dialog"
   venue:
@@ -26,16 +17,6 @@
   authors: You Qin, Wei Ji, Xinze Lan, <strong>Hao Fei</strong>, Xun Yang, Dan Guo, Roger Zimmermann, Lizi Liao
   link:
     paper: https://arxiv.org/abs/2410.05767
-
-
-- title: "A Survey on Benchmarks of Multimodal Large Language Models"
-  venue:
-    name: arXiv
-  year: 2024
-  authors: Jian Li, Weiheng Lu, <strong>Hao Fei</strong>, Meng Luo, Ming Dai, Min Xia, Yizhang Jin, Zhenye Gan, Ding Qi, Chaoyou Fu, Ying Tai, Wankou Yang, Yabiao Wang, Chengjie Wang
-  link:
-    paper: https://arxiv.org/abs/2408.08632
-    code: https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey
 
 
 
