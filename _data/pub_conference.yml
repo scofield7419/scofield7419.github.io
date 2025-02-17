@@ -16,8 +16,8 @@
   year: 2025
   authors: Jinlan Fu, Huangfu Shenzhen, <strong>Hao Fei</strong>, Xiaoyu Shen, Bryan Hooi, Xipeng Qiu, See-Kiong Ng 
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/abs/2501.16629
+    code: https://github.com/LVUGAI/CHiP
 
 
 - title: "Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark"
@@ -26,8 +26,8 @@
   year: 2025
   authors: Han Zhang, Zixiang Meng, Meng Luo, Hong Han, Lizi Liao, Erik Cambria, <strong>Hao Fei<sup>*</sup></strong>
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/abs/2502.04976
+    code: https://avamerg.github.io/
 
 
 - title: "From Data Deluge to Data Curation: A Filtering-WoRA Paradigm for Efficient Text-based Person Search"
@@ -36,7 +36,7 @@
   year: 2025
   authors: Jintao Sun, Hao Fei, Gangyi Ding, Zhedong Zheng
   link:
-    paper: #
+    paper: https://arxiv.org/abs/2404.10292
     code: #
 
 
