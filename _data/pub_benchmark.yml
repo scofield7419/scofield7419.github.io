@@ -1,11 +1,22 @@
 
+
+- title: "Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark"
+  venue:
+    name: TheWebConf (WWW)
+  year: 2025
+  authors: Han Zhang, Zixiang Meng, Meng Luo, Hong Han, Lizi Liao, Erik Cambria, <strong>Hao Fei<sup>*</sup></strong>
+  link:
+    paper: https://arxiv.org/abs/2502.04976
+    code: https://avamerg.github.io/
+
+
 - title: "CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models"
   venue:
     name: AAAI
   year: 2025
   authors: Zihui Cheng, Qiguang Chen, Jin Zhang, <strong>Hao Fei</strong>, Xiaocheng Feng, Wanxiang Che, Min Li, Libo Qin
   link:
-    paper: #
+    paper: https://arxiv.org/abs/2412.12932
     code: #
 
 
