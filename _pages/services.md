@@ -44,7 +44,7 @@ permalink: /services
 - ICML 2024 (AC), 2025 (AC)
 - CCL 2024 (AC)
 - NLPCC 2024 (AC)
-- NeurIPS 2024 (AC)
+- NeurIPS 2024 (AC), 2025 (AC)
 
 
 
