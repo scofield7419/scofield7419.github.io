@@ -32,8 +32,8 @@ permalink: /services
 ### Senior Program Committee Member
 
 - EMNLP 2022 (AC), 2023 (SAC), 2024 (AC/ARR-AE)
-- WSDM 2023 (SPC), 2025 (SPC),
-- ARR (ACL/EMNLP/NAACL) 2023 (AE), 2024 (AE), 2025 (AE),
+- WSDM 2023 (SPC), 2025 (SPC)
+- ARR (ACL/EMNLP/NAACL) 2023 (AE), 2024 (AE), 2025 (AE)
 - IJCAI 2023 (SPC), 2024 (SPC), 2025 (AC)
 - ACL 2023 (AC), 2024 (AC)
 - AAAI 2024 (SPC), 2025 (SPC) 
@@ -45,6 +45,7 @@ permalink: /services
 - CCL 2024 (AC)
 - NLPCC 2024 (AC)
 - NeurIPS 2024 (AC), 2025 (AC)
+- CIKM 2025 (SPC)
 
 
 
