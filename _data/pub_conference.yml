@@ -1,10 +1,29 @@
 
+- title: "Universal Scene Graph Generation"
+  venue:
+    name: CVPR
+  year: 2025
+  authors: Shengqiong Wu, <strong>Hao Fei<sup>*</sup></strong>, Tat-Seng Chua
+  link:
+    paper: https://arxiv.org/abs/2503.15005
+    code: https://sqwu.top/USG/
+
+
+- title: "Learning 4D Panoptic Scene Graph Generation from Rich 2D Visual Scene"
+  venue:
+    name: CVPR
+  year: 2025
+  authors: Shengqiong Wu, <strong>Hao Fei<sup>*</sup></strong>, Jingkang Yang, Xiangtai Li, Juncheng Li, Hanwang Zhang, Tat-seng Chua
+  link:
+    paper: https://arxiv.org/abs/2503.15019
+    code: https://sqwu.top/PSG-4D-LLM/
+
 
 - title: "Towards Semantic Equivalence of Tokenization in Multimodal LLM"
   venue:
     name: ICLR
   year: 2025
-  authors: Shengqiong Wu, <strong>Hao Fei<sup>*</sup></strong>, Xiangtai Li, Jiayi Ji, Hanwang Zhang, Tat-Seng Chua, Shuicheng YAN
+  authors: Shengqiong Wu, <strong>Hao Fei<sup>*</sup></strong>, Xiangtai Li, Jiayi Ji, Hanwang Zhang, Tat-Seng Chua, Shuicheng Yan
   link:
     paper: https://arxiv.org/abs/2406.05127
     code: https://sqwu.top/SeTok-web/
