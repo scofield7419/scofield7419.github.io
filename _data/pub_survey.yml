@@ -1,5 +1,15 @@
 
 
+- title: "Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey"
+  venue:
+    name: arXiv
+  year: 2025
+  authors: Yaoting Wang, Shengqiong Wu, Yuecheng Zhang, Shuicheng Yan, Ziwei Liu, Jiebo Luo, <strong>Hao Fei<sup>*</sup></strong>
+  link:
+    paper: https://arxiv.org/abs/2503.12605
+    code: https://github.com/yaotingwangofficial/Awesome-MCoT
+
+
 - title: "Semantic Role Labeling: A Systematical Survey"
   venue:
     name: arXiv
