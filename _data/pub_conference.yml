@@ -4,6 +4,7 @@
     name: CVPR
   year: 2025
   authors: Shengqiong Wu, <strong>Hao Fei<sup>*</sup></strong>, Tat-Seng Chua
+  highlight: Highlight
   link:
     paper: https://arxiv.org/abs/2503.15005
     code: https://sqwu.top/USG/
@@ -14,6 +15,7 @@
     name: CVPR
   year: 2025
   authors: Shengqiong Wu, <strong>Hao Fei<sup>*</sup></strong>, Jingkang Yang, Xiangtai Li, Juncheng Li, Hanwang Zhang, Tat-seng Chua
+  highlight: Highlight
   link:
     paper: https://arxiv.org/abs/2503.15019
     code: https://sqwu.top/PSG-4D-LLM/
