@@ -89,7 +89,7 @@ Below each research topic is shown, with representative publications [\[View com
 - [**Finsta**](https://arxiv.org/abs/2406.19255): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Enhance video-language models with a fine-grained structural spatio-temporal alignment learning</em>
 - [**GO3D-SG**](https://arxiv.org/abs/2305.11768): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Enhance visual spatial understanding with holistic 3D spatial scene graph</em> 
 - [**HostSG**](https://arxiv.org/abs/2308.05081): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Explore a novel holistic spatio-temporal scene graph for video event analysis</em> 
-- [**USG**](https://github.com/ChocoWu/SeTok): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Propose a Universal Scene Graph representation across any modalities including images, text, videos, and 3D</em> 
+- [**USG**](https://github.com/ChocoWu/SeTok): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A Universal Scene Graph representation across any modalities including images, text, videos, and 3D</em> 
 
 
 
@@ -110,7 +110,6 @@ Below each research topic is shown, with representative publications [\[View com
 - [**SpeechEE**](https://speechee.github.io/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st benchmark for extracting events from speech</em> 
 - [**W2NER**](https://haofei.vip/W2NER-page/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Unify flat, overlapped and discontinuous NER as word-word relation classification</em> 
 - [**LasUIE**](https://haofei.vip/LasUIE-page): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Pioneer universal information extraction with a latent adaptive structure-aware generative LM</em> 
-- [**MMRE**](https://chocowu.github.io/mmre-page/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Enhance multimodal relation extraction via internal-information screening and external-information exploiting</em> 
 - [**UMMT**](https://arxiv.org/abs/2305.12256): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Pioneer the inference-time image-free unsupervised multimodal machine translation with visual scene hallucination mechanism</em> 
 </div>
 
@@ -139,11 +138,11 @@ Below each research topic is shown, with representative publications [\[View com
 
 <span style="font-size: 20px;">&#8226;</span> &nbsp; **Affective Computing**: cross-modal, fine-grained affection and opinion analysis in social media
 
+- [**AvaMERG**](https://github.com/ChocoWu/SeTok): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st Avatar-based Multimodal Empathetic Conversation Benchmark</em> 
 - [**PanoSent**](https://panosent.github.io/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st cognitive-level benchmark for multimodal conversational aspect-based sentiment analysis</em> 
 - [**THOR-ISA**](https://haofei.vip/THOR/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">For the first time address implicit sentiment reasoning with chain-of-thought framework</em>
 - [**DiaASQ**](https://diaasq-page.pages.dev/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st benchmark for conversational aspect-based sentiment analysis</em> 
 - [**UABSA**](https://haofei.vip/UABSA): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A multiplex cascade framework for unified aspect-based sentiment analysis</em> 
-- [**RobustABSA**](https://arxiv.org/abs/2304.09563): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Comprehensively rethinking the robustness of model, data, and training in aspect-based sentiment analysis</em> 
 </div>
 
 
