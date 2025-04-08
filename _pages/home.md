@@ -90,7 +90,7 @@ While previously I worked a lot on the topic of [Structural Modeling of Language
 
 <div style="border-radius: 0.7em;background-color: rgba(0,0,0,3%);padding-bottom: 0.0pt;padding-left: 4.0pt;padding-right: 4.0pt;padding-top: 4.0pt;">
 
-&#9654;&nbsp; **`Capacity`**: _Perception/generation of modalities/tasks, knowledge acquisition/information extraction._
+&#9654;&nbsp; **`Capacity`**: _Comprehension/generation of modalities/tasks, knowledge acquisition._
 - [**JavisDiT**](https://javisdit.github.io/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A novel Diffusion Transformer for synchronized audio-video generation</em> 
 - [**Any2Caption**](https://sqwu.top/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A SoTA video generation framework from any input conditions</em>
 - [**Dysen-VDM**](https://haofei.vip/Dysen-VDM/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Enhance temporal dynamics of text-to-video diffusion from LLMs</em> 
