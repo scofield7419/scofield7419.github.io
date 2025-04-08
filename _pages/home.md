@@ -104,7 +104,7 @@ While previously I worked a lot on the topic of [Structural Modeling of Language
 
 <div style="border-radius: 0.7em;background-color: rgba(0,0,0,3%);padding-bottom: 0.0pt;padding-left: 4.0pt;padding-right: 4.0pt;padding-top: 4.0pt;">
 
-&#9654;&nbsp; **`Cognition`**: _Cross-modal neuro-symbolic reasoning and human-centric affective computing._
+&#9654;&nbsp; **`Cognition`**: _Cross-modal neuro-symbolic reasoning, human-centric affective computing._
 - [**MCoT-Survey**](https://github.com/yaotingwangofficial/Awesome-MCoT): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st systematic survey of MCoT reasoning</em> 
 - [**Video-of-Thought**](https://haofei.vip/VoT/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st video chain-of-thought reasoning framework</em> 
 - [**SymbCoT**](https://github.com/Aiden0526/SymbCoT): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st fully LLM-based logical reasoning framework based on chain-of-thought</em> 
