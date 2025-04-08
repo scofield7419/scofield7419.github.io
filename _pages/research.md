@@ -90,7 +90,6 @@ Below each research topic is shown, with representative publications [\[View com
 - [**GO3D-SG**](https://arxiv.org/abs/2305.11768): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Enhance visual spatial understanding with holistic 3D spatial scene graph</em> 
 - [**HostSG**](https://arxiv.org/abs/2308.05081): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Explore a novel holistic spatio-temporal scene graph for video event analysis</em> 
 - [**USG**](https://github.com/ChocoWu/SeTok): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Propose a Universal Scene Graph representation across any modalities including images, text, videos, and 3D</em> 
-- [**MCoT-Survey**](https://github.com/yaotingwangofficial/Awesome-MCoT): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The first systematic survey of MCoT reasoning</em> 
 
 
 
@@ -133,6 +132,7 @@ Below each research topic is shown, with representative publications [\[View com
 <span style="font-size: 20px;">&#8226;</span> &nbsp; **Reasoning**: complex reasoning, neuro/symbolic reasoning, cross-modal reasoning
 - [**Video-of-Thought**](https://haofei.vip/VoT/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st video chain-of-thought reasoning framework</em> 
 - [**SymbCoT**](https://github.com/Aiden0526/SymbCoT): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st fully LLM-based logical reasoning framework based on chain-of-thought</em> 
+- [**MCoT-Survey**](https://github.com/yaotingwangofficial/Awesome-MCoT): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The first systematic survey of MCoT reasoning</em> 
 
 
 
