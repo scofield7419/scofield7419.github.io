@@ -10,16 +10,28 @@ permalink: /outputs
 
 <div style="margin-top: 35px"></div>
 
+### Workshop Organization
 
-### Organization of Workshop and Shared Tasks
-
-
+- Co-organizing the **1<sup>st</sup> Workshop on Cognition-oriented Multimodal Affective and Empathetic Computing [(CogMAEC 2025)](https://cogmaec.github.io/MM2025/)** Workshop @ [ACM Multimedia 2025](https://acmmm2025.org/) 
+- Co-organizing the **1<sup>st</sup> Workshop on MLLM for Unified Comprehension and Generation [(MUCG 2025)](https://mllm-mucg.github.io/MM2025/)** Workshop @ [ACM Multimedia 2025](https://acmmm2025.org/) 
+- Co-organizing the **1<sup>st</sup> Workshop on Multimodal Knowledge and Language Modeling [(MKLM 2025)](https://sites.google.com/view/ijcai-mklm/home)** Workshop @ [IJCAI 2025](https://2025.ijcai.org/) 
 - Co-organizing the **1<sup>st</sup> Large Language Models and Structure Modeling [(XLLM 2025)](https://xllms.github.io/)** Workshop @ [ACL 2025](https://2025.aclweb.org/) 
 - Co-organizing the **2<sup>nd</sup> Deep Multimodal Generation and Retrieval [(MMGR 2024)](https://videorelation.nextcenter.org/MMGR24/)** Workshop @ [ACM Multimedia 2024](https://2024.acmmm.org/) 
+- Co-organizing the **1<sup>st</sup> Deep Multimodal Learning for Information Retrieval [(MMIR 2023)](https://videorelation.nextcenter.org/MMIR23/)** Workshop @ [ACM Multimedia 2023](https://www.acmmm2023.org/) 
+
+
+
+<div style="margin-top: 35px"></div>
+
+### Open Challenge Organization
+
+- Co-organizing the **Multimodal Conversational Aspect-based Sentiment Analysis [(PanoSent)](https://panosent.github.io/MM25-challenge/)** Grand Challenge @ [ACM Multimedia 2025](https://acmmm2025.org/) 
+- Co-organizing the **Avatar-based Multimodal Empathetic Conversation [(AvaMERG)](https://avamerg.github.io/MM25-challenge/)** Grand Challenge @ [ACM Multimedia 2024](https://acmmm2025.org/) 
+- Co-organizing the **Speech Event Extraction [(SpeechEE)](https://xllms.github.io/SpeechEE/)** Shared Task @ [ACL-XLLM 2025](https://xllms.github.io/) 
+- Co-organizing the **Chinese Dialogue-Level Dependency Parsing [(DiaDP)](https://xllms.github.io/DiaDP/)** Shared Task @ [ACL-XLLM 2025](https://xllms.github.io/) 
 - Co-organizing the **Visual Spatial Description [(VSD)](https://lllogen.github.io/vsd-challenge.github.io/)** Grand Challenge @ [ACM Multimedia 2024](https://2024.acmmm.org/) 
 - Co-organizing the **Nominal Compound Chain Extraction [(NCCE)](https://ncce-site.pages.dev/)** Shared Task @ [NLPCC 2024](http://tcci.ccf.org.cn/conference/2024/cfpt.php)
 - Co-organizing the **Dialogue-level Coreference Resolution and Relation Extraction** Shared Task @ [NLPCC 2024](http://tcci.ccf.org.cn/conference/2024/cfpt.php)
-- Co-organizing the **1<sup>st</sup> Deep Multimodal Learning for Information Retrieval [(MMIR 2023)](https://videorelation.nextcenter.org/MMIR23/)** Workshop @ [ACM Multimedia 2023](https://www.acmmm2023.org/) 
 - Co-organizing the **Conversational Aspect-based Sentiment Analysis [(DiaASQ)](https://conasq.pages.dev/)** Shared Task @ [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/cfpt.php)
 
 
@@ -27,9 +39,7 @@ permalink: /outputs
 
 <div style="margin-top: 30px"></div>
 
-
 ### Invited Talks 
-
 
 
 - 2024.8: **Towards AGI: from Unified MLLM to Multimodal Generalist**, [MLNLP 2024](https://mlnlp.org/mlnlp2024/), [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/MLNLP24-HaoFei.pdf)
@@ -50,10 +60,13 @@ permalink: /outputs
 
 
 
+
 <div style="margin-top: 30px"></div>
 
 ### Tutorials
 
+
+- 2025.6: [**Evaluations and Benchmarks in the Context of Multimodal LLM**](https://mllm2024.github.io/CVPR2025), [CVPR 2025](https://cvpr.thecvf.com/), Nashville TN, USA
 - 2024.10: [**From Multimodal LLM to Human-level AI: Architecture, Modality, Function, Instruction, Hallucination, Evaluation, Reasoning and Beyond**](https://mllm2024.github.io/ACM-MM2024/), [ACM MM 2024](https://2024.acmmm.org/), Melbourne, Australia
 - 2024.6: [**From Multimodal LLM to Human-level AI: Modality, Instruction, Reasoning and Beyond**](https://mllm2024.github.io/CVPR2024), [CVPR 2024](https://cvpr.thecvf.com/), Seattle WA, USA
 - 2024.5: [**From Multimodal LLM to Human-level AI: Modality, Instruction, Reasoning, Efficiency and Beyond**](https://mllm2024.github.io/COLING2024), [LREC-COLING 2024](https://lrec-coling-2024.org/), Torino, Italia
@@ -61,8 +74,6 @@ permalink: /outputs
 - 2020.4: **How to AI Research and Paper Writing for AI Beginner**, Wuhan University, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/AI-research-for-beginer.pdf)
 
  
-
-
 
 
 
