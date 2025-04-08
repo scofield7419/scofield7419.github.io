@@ -91,9 +91,10 @@ While previously I worked a lot on the topic of [Structural Modeling of Language
 <div style="border-radius: 0.7em;background-color: rgba(0,0,0,3%);padding-bottom: 0.0pt;padding-left: 4.0pt;padding-right: 4.0pt;padding-top: 4.0pt;">
 
 &#9654;&nbsp; **`Capacity`**: _Perception/generation of modalities/tasks, knowledge acquisition/information extraction._
+- [**JavisDiT**](https://javisdit.github.io/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A novel Joint Audio-Video Diffusion Transformer for synchronized audio-video generation</em> 
+- [**Any2Caption**](https://sqwu.top/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A any-condition video generation by leveraging MLLMs to interpret diverse inputs into dense, structured captions</em>
 - [**Dysen-VDM**](https://haofei.vip/Dysen-VDM/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Enhance temporal dynamics of text-to-video diffusion from LLMs</em> 
 - [**LayoutLLM-T2I**](https://layoutllm-t2i.github.io/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Enhance fidelity of text-to-image diffusion with layout from LLMs</em> 
-- [**Finsta**](https://arxiv.org/abs/2406.19255): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Enhance VLMs with a fine-grained structural spatio-temporal alignment learning</em> 
 - [**MUIE**](https://haofei.vip/MUIE/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st benchmark for grounded multimodal universal information extraction</em> 
 </div>
 
@@ -104,10 +105,12 @@ While previously I worked a lot on the topic of [Structural Modeling of Language
 <div style="border-radius: 0.7em;background-color: rgba(0,0,0,3%);padding-bottom: 0.0pt;padding-left: 4.0pt;padding-right: 4.0pt;padding-top: 4.0pt;">
 
 &#9654;&nbsp; **`Cognition`**: _Cross-modal complex neuro/symbolic reasoning and human-centric affective computing._
+- [**MCoT-Survey**](https://github.com/yaotingwangofficial/Awesome-MCoT): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st systematic survey of MCoT reasoning</em> 
 - [**Video-of-Thought**](https://haofei.vip/VoT/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st video chain-of-thought reasoning framework</em> 
 - [**SymbCoT**](https://github.com/Aiden0526/SymbCoT): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st fully LLM-based logical reasoning framework based on chain-of-thought</em> 
 - [**THOR-ISA**](https://haofei.vip/THOR/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st chain-of-thought reasoning framework for implicit sentiment analysis</em> 
 - [**PanoSent**](https://panosent.github.io/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st cognitive-level benchmark for multimodal conversational aspect-based sentiment analysis</em> 
+- [**AvaMERG**](https://github.com/ChocoWu/SeTok): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st Avatar-based Multimodal Empathetic Conversation Benchmark</em> 
 </div>
 
 
