@@ -82,7 +82,7 @@ While previously I worked a lot on the topic of [Structural Modeling of Language
 &#9654;&nbsp; **`Multimodal Foundation Models`**: _Unified multimodal LLMs and generalists._
 - [**NExT-GPT**](https://next-gpt.github.io/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st unified any-to-any multimodal LLM</em> 
 - [**Vitron**](https://vitron-llm.github.io/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st unified pixel-level vision LLM for understanding, generating, segmenting, editing of image and video</em> 
-- [**General-Level**](https://path2generalist.github.io/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Pioneer the path of MLLM evaluations towards multimodal generalists</em> 
+- [**General-Level**](https://generalist.top/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Pioneer the path of MLLM evaluations towards multimodal generalists</em> 
 - [**MLLM tutorial**](https://mllm2024.github.io/ACM-MM2024/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A pioneering & comprehensive tutorial series for MLLM techniques</em> 
 </div>
 
