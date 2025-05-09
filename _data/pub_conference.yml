@@ -1,4 +1,48 @@
 
+- title: "On Path to Multimodal Generalist: General-Level and General-Bench"
+  venue:
+    name: ICML
+  year: 2025
+  authors: <strong>Hao Fei</strong>, Yuan Zhou, Juncheng Li, Xiangtai Li, Qingshan Xu, Bobo Li, Shengqiong Wu, Yaoting Wang, Junbao Zhou, Jiahao Meng, Qingyu Shi, Zhiyuan Zhou, Liangtao Shi, Minghe Gao, Daoan Zhang, Zhiqi Ge, Siliang Tang, Kaihang Pan, Yaobo Ye, Haobo Yuan, Tao Zhang, Weiming Wu, Tianjie Ju, Zixiang Meng, Shilin Xu, Liyu Jia, Wentao Hu, Meng Luo, Jiebo Luo, Tat-Seng Chua, Shuicheng Yan, Hanwang Zhang
+  highlight: Spotlight
+  link:
+    paper: https://arxiv.org/abs/2505.04620
+    code: https://generalist.top/
+
+
+
+- title: "VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models"
+  venue:
+    name: ICML
+  year: 2025
+  authors: Haojian Huang, Haodong Chen, Shengqiong Wu, Meng Luo, Jinlan Fu, Xinya Du, Hanwang Zhang, <strong>Hao Fei<sup>*</sup></strong>
+  link:
+    paper: https://arxiv.org/abs/2504.13122
+    code: https://github.com/HaroldChen19/VistaDPO
+
+
+
+- title: "Watch Out Your Album! On Unintentional Privacy Memorization in Multi-Modal Large Language Models"
+  venue:
+    name: ICML
+  year: 2025
+  authors: Tianjie Ju, Yi Hua, <strong>Hao Fei</strong>, Zhenyu Shao, Yubin Zheng, Haodong Zhao, Mong-Li Lee, Wynne Hsu, Zhuosheng Zhang, Gongshen Liu
+  link:
+    paper: https://arxiv.org/abs/2503.01208
+    code: https://github.com/illusionhi/ProbingPrivacy
+
+
+
+- title: "Improving Consistency Identification in Task-oriented Dialogue through Multi-Agent Collaboration"
+  venue:
+    name: IJCAI
+  year: 2025
+  authors: Peng Wang, Shuo Li, Ruoxi Zhou, Qiguang Chen, Xiao Xu, <strong>Hao Fei</strong>, Dagang Li, Wanxiang Che, Libo Qin
+  link:
+    paper: #
+    code: #
+
+
 - title: "Universal Scene Graph Generation"
   venue:
     name: CVPR
@@ -87,8 +131,8 @@
   year: 2025
   authors: Hao Li, <strong>Hao Fei</strong>, Zechao Hu, Zhengwei Yang, Zheng Wang
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/abs/2504.02227v1
+    code: https://github.com/lihao921/VEGAS
 
 
 - title: "Multi-Granular Multimodal Clue Fusion for Meme Understanding"
@@ -117,7 +161,7 @@
   year: 2025
   authors: Libo Qin, Qiguang Chen, Jingxuan Zhou, Jin Wang, <strong>Hao Fei</strong>, Wanxiang Che, Min Li
   link:
-    paper: #
+    paper: https://ojs.aaai.org/index.php/AAAI/article/view/34688
     code: #
 
 
