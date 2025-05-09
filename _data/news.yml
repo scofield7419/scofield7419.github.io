@@ -1,4 +1,10 @@
 
+- date: 9 May 2025
+  headline: "We are excited to release the project [**On Path to Multimodal Generalist: Levels and Benchmarks**](https://generalist.top/), where we present 1) 🚀 **General-Level**, a novel 5-level evaluation framework for multimodal generalists (multimodal LLMs/agents) by assessing the level of synergy; 2) 🍕 **General-Bench**, a companion super massive (325K) multimodal benchmark encompasses a broader spectrum of skills, modalities, formats, and capabilities. Welcome submissions to our Leaderboards!"
+
+- date: 1 May 2025
+  headline: "Three papers are accepted by ICML 2025, 1) [**Path to Multimodal Generalist (Spotlight!)**](https://arxiv.org/abs/2505.04620), 2) [**VistaDPO: Video-DPO**](https://arxiv.org/abs/2504.13122) and 3) [**Privacy Memorization in MLLM**](https://arxiv.org/abs/2503.01208). Congrats to all my co-authors!"
+  
 - date: 10 Apr 2025
   headline: "We are holding the grand challenge of [**Multimodal Conversational Aspect-based Sentiment Analysis (PanoSent)**](https://panosent.github.io/MM25-challenge/) and [**Avatar-based Multimodal Empathetic Conversation (AvaMERG)**](https://avamerg.github.io/MM25-challenge/) at ACM Multimedia 2025, **Call for Participation**!"
 
