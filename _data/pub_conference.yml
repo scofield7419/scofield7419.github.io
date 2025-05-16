@@ -1,4 +1,35 @@
 
+
+- title: "Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework"
+  venue:
+    name: ACL
+  year: 2025
+  authors: Jundong Xu, <strong>Hao Fei<sup>*</sup></strong>, Meng Luo, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: https://arxiv.org/abs/2412.16953
+    code: https://github.com/Aiden0526/Aristotle
+
+
+- title: "CCHall: A Novel Benchmark for Joint Cross-Lingual and Cross-Modal Hallucinations Detection in Large Language Models"
+  venue:
+    name: ACL
+  year: 2025
+  authors: Yongheng Zhang, Xu Liu, Ruoxi Zhou, Qiguang Chen, <strong>Hao Fei</strong>, Wenpeng Lu, Libo Qin
+  link:
+    paper: #
+    code: #
+
+
+- title: "Enhancing Hyperbole and Metaphor Detection with Their Bidirectional Dynamic Interaction and Emotion Knowledge"
+  venue:
+    name: ACL
+  year: 2025
+  authors: Li Zheng, Sihang Wang, Hao Fei, Zuquan Peng, <strong>Hao Fei</strong>, Jianming Fu, Chong Teng, Donghong Ji
+  link:
+    paper: #
+    code: #
+
+
 - title: "On Path to Multimodal Generalist: General-Level and General-Bench"
   venue:
     name: ICML
