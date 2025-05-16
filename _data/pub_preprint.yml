@@ -29,16 +29,6 @@
     paper: https://arxiv.org/abs/2503.04258
 
 
-- title: "Watch Out Your Album! On the Inadvertent Privacy Memorization in Multi-Modal Large Language Models"
-  venue:
-    name: arXiv
-  year: 2024
-  authors: Tianjie Ju, Yi Hua, <strong>Hao Fei</strong>, Zhenyu Shao, Yubin Zheng, Haodong Zhao, Mong-Li Lee, Wynne Hsu, Zhuosheng Zhang, Gongshen Liu
-  link:
-    paper: https://arxiv.org/abs/2503.01208
-    code: https://github.com/illusionhi/ProbingPrivacy
-
-
 - title: "Investigating the Adaptive Robustness with Knowledge Conflicts in LLM-based Multi-Agent Systems"
   venue:
     name: arXiv
@@ -47,17 +37,6 @@
   link:
     paper: https://arxiv.org/abs/2502.15153
     code: https://github.com/wbw625/MultiAgentRobustness
-
-
-- title: "Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework"
-  venue:
-    name: arXiv
-  year: 2024
-  authors: Jundong Xu, <strong>Hao Fei</strong>, Meng Luo, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu
-  link:
-    paper: https://arxiv.org/abs/2412.16953
-    code: https://github.com/Aiden0526/Aristotle
-
 
 
 - title: "Grounding is All You Need? Dual Temporal Grounding for Video Dialog"
