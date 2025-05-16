@@ -1,4 +1,7 @@
 
+- date: 16 May 2025
+  headline: "Three papers are accepted by ACL (Main) 2025, 1) [**Aristotle: Logical Reasoning**](https://arxiv.org/abs/2412.16953), 2) [**Metaphor Detection**](#) and 3) [**Cross-Lingual and Cross-Modal Hallucination Benchmark**](#). Congrats to all my co-authors!"
+  
 - date: 9 May 2025
   headline: "We are excited to release the project [**On Path to Multimodal Generalist: General-Level and General-Bench**](https://generalist.top/), where we present 1) 🚀 **General-Level**, a novel 5-level evaluation framework for multimodal generalists (multimodal LLMs/agents) by assessing the level of synergy; 2) 🍕 **General-Bench**, a companion super massive (325K) multimodal benchmark encompasses a broader spectrum of skills, modalities, formats, and capabilities. Welcome submissions to our [**Leaderboards**](https://generalist.top/leaderboard)!"
 
