@@ -1,4 +1,13 @@
 
+- title: "CCHall: A Novel Benchmark for Joint Cross-Lingual and Cross-Modal Hallucinations Detection in Large Language Models"
+  venue:
+    name: ACL
+  year: 2025
+  authors: Yongheng Zhang, Xu Liu, Ruoxi Zhou, Qiguang Chen, <strong>Hao Fei</strong>, Wenpeng Lu, Libo Qin
+  link:
+    paper: #
+    code: #
+
 
 - title: "Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark"
   venue:
