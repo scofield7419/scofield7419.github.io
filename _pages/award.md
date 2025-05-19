@@ -16,12 +16,13 @@ permalink: /award
 
 ### Honors and Awards
 
+- 2025: ICLR Notable Reivewer
 - 2024: Top 2% Scientists Worldwide 2024 (Single Year) by Stanford University
 - 2024: ACM MM 2024 Workshop Best Paper Award
-- 2024: **2024 World Artificial Intelligence Conference Youth Outstanding Paper Award** (2024世界人工智能大会青年优秀论文奖)
-- 2023: **2023 World AI Conference Rising Star** (2023世界人工智能大会云帆奖明日之星)
+- 2024: 2024 WAIC Youth Outstanding Paper Award (2024世界人工智能大会青年优秀论文奖)
+- 2023: 2023 WAIC Rising Star (2023世界人工智能大会云帆奖明日之星)
 - 2023: ACL 2023 Best Paper Award Nomination
-- 2022: **Award of Excellent Doctoral Thesis** of Chinese Information Processing Society (CIPS)
+- 2022: Award of Excellent Doctoral Thesis of Chinese Information Processing Society (CIPS)
 
 
 <div style="margin-top: 30px"></div>
