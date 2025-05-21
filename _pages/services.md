@@ -47,6 +47,7 @@ permalink: /services
 - NeurIPS 2024 (AC), 2025 (AC)
 - NeurIPS (Data and Benchmark Track) 2025 (AC)
 - CIKM 2025 (SPC)
+- AACL 2025 (SAC)
 
 
 
