@@ -20,8 +20,8 @@ The human-level AI we envision should be a multimodal generalist, embodying huma
 This implies possessing universal modalities and universal task capacities with strong synergistic generalizability. 
 To achieve true human-level AI, in addition to perception, it should also encompass complex-reasoning, knowledge-applying, and empathy capabilities, akin to human beings. 
 With these beliefs in mind, my research topic is: studying and building unified multimodal generalists towards human-level capacity (_Modality_, _Task_, _Knowledge_) and cognition (_Reasoning_, _Affection_).
-{: .text-justify}
 I also extensively explore the AI for vertical domains such as medicine, healthcare, clinical psychology, and social studies, by integrating these advanced general-purpose LLM/agent methodologies.
+{: .text-justify}
 
 
 
