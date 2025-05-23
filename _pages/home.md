@@ -116,6 +116,7 @@ While previously I worked a lot on the topic of [Structural Modeling of Language
 </div>
 
 
+I also extensively explore the AI for medicine, healthcare, clinical psychology, and social studies, by integrating the advanced LLM/agent methodologies.
 
 
 <div style="margin-top: 20px"></div>
