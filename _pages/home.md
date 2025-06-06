@@ -85,7 +85,7 @@ While previously I worked a lot on the topic of [Structural Modeling of Language
 - [**NExT-GPT**](https://next-gpt.github.io/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st unified any-to-any multimodal LLM</em> 
 - [**Vitron**](https://vitron-llm.github.io/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st unified pixel-level vision LLM for understanding, generating, segmenting, editing of image and video</em> 
 - [**General-Level**](https://generalist.top/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Pioneer the path of MLLM evaluations towards multimodal generalists</em> 
-- [**MLLM tutorial**](https://mllm2024.github.io/ACM-MM2024/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A pioneering & comprehensive tutorial series for MLLM techniques</em> 
+- [**MLLM tutorial**](https://mllm2024.github.io/CVPR2024/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A pioneering & comprehensive tutorial series for MLLM techniques</em> 
 </div>
 
 
@@ -94,7 +94,7 @@ While previously I worked a lot on the topic of [Structural Modeling of Language
 
 &#9654;&nbsp; **`Capacity`**: _Comprehension/generation of modalities/tasks, knowledge acquisition._
 - [**JavisDiT**](https://javisdit.github.io/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A novel Diffusion Transformer for synchronized audio-video generation</em> 
-- [**Any2Caption**](https://sqwu.top/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A SoTA video generation framework from any input conditions</em>
+- [**Any2Caption**](https://sqwu.top/Any2Cap/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A SoTA video generation framework from any input conditions</em>
 - [**Dysen-VDM**](https://haofei.vip/Dysen-VDM/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Enhance temporal dynamics of text-to-video diffusion from LLMs</em> 
 - [**LayoutLLM-T2I**](https://layoutllm-t2i.github.io/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Enhance fidelity of text-to-image diffusion with layout from LLMs</em> 
 - [**MUIE**](https://haofei.vip/MUIE/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st benchmark for grounded multimodal universal information extraction</em> 
