@@ -12,9 +12,9 @@ permalink: /outputs
 
 ### Workshop Organization
 
-- Co-organizing the **1<sup>st</sup> Workshop on Cognition-oriented Multimodal Affective and Empathetic Computing [(CogMAEC 2025)](https://cogmaec.github.io/MM2025/)** Workshop @ [ACM Multimedia 2025](https://acmmm2025.org/) 
-- Co-organizing the **1<sup>st</sup> Workshop on MLLM for Unified Comprehension and Generation [(MUCG 2025)](https://mllm-mucg.github.io/MM2025/)** Workshop @ [ACM Multimedia 2025](https://acmmm2025.org/) 
-- Co-organizing the **1<sup>st</sup> Workshop on Multimodal Knowledge and Language Modeling [(MKLM 2025)](https://sites.google.com/view/ijcai-mklm/home)** Workshop @ [IJCAI 2025](https://2025.ijcai.org/) 
+- Co-organizing the **1<sup>st</sup> Cognition-oriented Multimodal Affective and Empathetic Computing [(CogMAEC 2025)](https://cogmaec.github.io/MM2025/)** Workshop @ [ACM Multimedia 2025](https://acmmm2025.org/) 
+- Co-organizing the **1<sup>st</sup> MLLM for Unified Comprehension and Generation [(MUCG 2025)](https://mllm-mucg.github.io/MM2025/)** Workshop @ [ACM Multimedia 2025](https://acmmm2025.org/) 
+- Co-organizing the **1<sup>st</sup> Multimodal Knowledge and Language Modeling [(MKLM 2025)](https://sites.google.com/view/ijcai-mklm/home)** Workshop @ [IJCAI 2025](https://2025.ijcai.org/) 
 - Co-organizing the **1<sup>st</sup> Large Language Models and Structure Modeling [(XLLM 2025)](https://xllms.github.io/)** Workshop @ [ACL 2025](https://2025.aclweb.org/) 
 - Co-organizing the **2<sup>nd</sup> Deep Multimodal Generation and Retrieval [(MMGR 2024)](https://videorelation.nextcenter.org/MMGR24/)** Workshop @ [ACM Multimedia 2024](https://2024.acmmm.org/) 
 - Co-organizing the **1<sup>st</sup> Deep Multimodal Learning for Information Retrieval [(MMIR 2023)](https://videorelation.nextcenter.org/MMIR23/)** Workshop @ [ACM Multimedia 2023](https://www.acmmm2023.org/) 
