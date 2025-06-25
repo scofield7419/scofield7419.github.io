@@ -5,6 +5,7 @@
     name: ACL
   year: 2025
   authors: Jundong Xu, <strong>Hao Fei<sup>*</sup></strong>, Meng Luo, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu
+  highlight: Oral
   link:
     paper: https://arxiv.org/abs/2412.16953
     code: https://github.com/Aiden0526/Aristotle
