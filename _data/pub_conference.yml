@@ -2,7 +2,7 @@
 
 - title: "LEAF: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection"
   venue:
-    name: ICCV
+    name: ACM MM
   year: 2025
   authors: Lanhu Wu, Zilin Gao, <strong>Hao Fei<sup>*</sup></strong>, Mong-Li Lee, Wynne Hsu
   link:
@@ -14,7 +14,7 @@
 
 - title: "ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models"
   venue:
-    name: ICCV
+    name: ACM MM
   year: 2025
   authors: Yongheng Zhang, Xu Liu, Ruihan Tao, Qiguang Chen, <strong>Hao Fei</strong>, Wanxiang Che, Libo Qin
   link:
@@ -26,7 +26,7 @@
 
 - title: "MCM-DPO: Multifaceted Cross-Modal Direct Preference Optimization for Alter-text Generation"
   venue:
-    name: ICCV
+    name: ACM MM
   year: 2025
   authors: Jinlan Fu, Shenzhen Huangfu, <strong>Hao Fei</strong>, Yichong Huang, Xiaoyu Shen, Xipeng Qiu, See-Kiong Ng
   link:
@@ -77,7 +77,7 @@
   year: 2025
   authors: Zhiqi Ge, Juncheng Li, Xinglei Pang, Minghe Gao, Kaihang Pan, Wang Lin, <strong>Hao Fei</strong>, Wenqiao Zhang, Siliang Tang, Yueting Zhuang
   link:
-    paper: #
+    paper: https://arxiv.org/abs/2412.10342
     code: #
 
 
