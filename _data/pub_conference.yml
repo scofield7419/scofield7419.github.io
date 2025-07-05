@@ -1,5 +1,87 @@
 
 
+- title: "LEAF: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection"
+  venue:
+    name: ICCV
+  year: 2025
+  authors: Lanhu Wu, Zilin Gao, <strong>Hao Fei<sup>*</sup></strong>, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: #
+    code: #
+
+
+
+
+- title: "ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models"
+  venue:
+    name: ICCV
+  year: 2025
+  authors: Yongheng Zhang, Xu Liu, Ruihan Tao, Qiguang Chen, <strong>Hao Fei</strong>, Wanxiang Che, Libo Qin
+  link:
+    paper: #
+    code: #
+
+
+
+
+- title: "MCM-DPO: Multifaceted Cross-Modal Direct Preference Optimization for Alter-text Generation"
+  venue:
+    name: ICCV
+  year: 2025
+  authors: Jinlan Fu, Shenzhen Huangfu, <strong>Hao Fei</strong>, Yichong Huang, Xiaoyu Shen, Xipeng Qiu, See-Kiong Ng
+  link:
+    paper: #
+    code: #
+
+
+
+- title: "PhysSplat: Efficient Physics Simulation for 3D Scenes via MLLM-Guided Gaussian Splatting"
+  venue:
+    name: ICCV
+  year: 2025
+  authors: Haoyu Zhao, Hao Wang, Xingyue Zhao, <strong>Hao Fei</strong>, Hongqiu Wang, Chengjiang Long, Hua Zou
+  link:
+    paper: #
+    code: #
+
+
+
+
+- title: "Where, What, Why: Towards Explainable Driver Attention Prediction"
+  venue:
+    name: ICCV
+  year: 2025
+  authors: Yuchen Zhou, Jiayu Tang, Xiaoyan Xiao, Yueyao Lin, Linkai Liu, Zipeng Guo, <strong>Hao Fei</strong>, Xiaobo Xia, Chao Gou
+  link:
+    paper: #
+    code: #
+
+
+
+
+- title: "Derm1M: A Million-scale Vision-Language Dataset Aligned with Clinical Ontology Knowledge for Dermatology"
+  venue:
+    name: ICCV
+  year: 2025
+  authors: Siyuan Yan, Ming Hu, Yiwen Jiang, Xieji Li, <strong>Hao Fei</strong>, Philipp Tschandl, Harald Kittler, Zongyuan Ge
+  link:
+    paper: #
+    code: #
+
+
+
+
+- title: "Iris: Breaking GUI Complexity with Adaptive Focus and Self-Refining"
+  venue:
+    name: ICCV
+  year: 2025
+  authors: Zhiqi Ge, Juncheng Li, Xinglei Pang, Minghe Gao, Kaihang Pan, Wang Lin, <strong>Hao Fei</strong>, Wenqiao Zhang, Siliang Tang, Yueting Zhuang
+  link:
+    paper: #
+    code: #
+
+
+
 - title: "Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework"
   venue:
     name: ACL
