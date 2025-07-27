@@ -20,14 +20,6 @@
 
 
 
-- title: "TAIL: Text-Audio Incremental Learning"
-  venue:
-    name: arXiv
-  year: 2024
-  authors: Yingfei Sun, Xu Gu, Wei Ji, Hanbin Zhao, <strong>Hao Fei</strong>, Yifang Yin, Roger Zimmermann
-  link:
-    paper: https://arxiv.org/abs/2503.04258
-
 
 - title: "Investigating the Adaptive Robustness with Knowledge Conflicts in LLM-based Multi-Agent Systems"
   venue:
