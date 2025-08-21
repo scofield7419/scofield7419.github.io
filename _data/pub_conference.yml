@@ -40,7 +40,8 @@
 
 - title: "FormFactory: An Interactive Benchmarking Suite for Multimodal Form-Filling Agents"
   venue:
-    name: ACM MM (Dataset Track)
+    name: ACM MM
+    note: Dataset Track
   year: 2025
   authors: Bobo Li, Yuheng Wang, <strong>Hao Fei<sup>*</sup></strong>, Juncheng Li, Wei Ji, Mong-Li Lee, Wynne Hsu
   link:
