@@ -1,5 +1,55 @@
 
 
+
+- title: "When Words Smile: Generating Diverse Emotional Facial Expressions from Text"
+  venue:
+    name: EMNLP
+  year: 2025
+  authors: Haidong Xu, Meishan Zhang, Hao Ju, Zhedong Zheng, Erik Cambria, Min Zhang, <strong>Hao Fei<sup>*</sup></strong>
+  link:
+    paper: https://arxiv.org/abs/2412.02508
+    code: https://github.com/WalkerMitty/EmoAva
+
+
+
+
+- title: "David vs. Goliath: Cost-Efficient Financial QA via Cascaded Multi-Agent Reasoning"
+  venue:
+    name: EMNLP
+    note: Findings
+  year: 2025
+  authors: Chenghao Liu, Qian Liu, Ziqin Zhu, <strong>Hao Fei</strong>, Aniket Mahanti
+  link:
+    paper: #
+    code: #
+
+
+
+- title: "CLEAR: A Framework Enabling Large Language Models to Discern Confusing Legal Paragraphs"
+  venue:
+    name: EMNLP
+    note: Findings
+  year: 2025
+  authors: Qi Xu, Qian Liu, <strong>Hao Fei</strong>, Hang Yu, Shuhao Guan, Xiao Wei
+  link:
+    paper: #
+    code: #
+
+
+
+
+- title: "FormFactory: An Interactive Benchmarking Suite for Multimodal Form-Filling Agents"
+  venue:
+    name: ACM MM (Dataset Track)
+  year: 2025
+  authors: Bobo Li, Yuheng Wang, <strong>Hao Fei<sup>*</sup></strong>, Juncheng Li, Wei Ji, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: https://arxiv.org/abs/2506.01520
+    code: https://formfactory-ai.github.io/
+
+
+
+
 - title: "LEAF: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection"
   venue:
     name: ACM MM
