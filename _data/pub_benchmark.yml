@@ -29,15 +29,6 @@
     code: #
 
 
-- title: "Towards Rich Emotions in 3D Avatars: A Text-to-3D Avatar Generation Benchmark"
-  venue:
-    name: Preprint
-  year: 2024
-  authors: Haidong Xu, Meishan Zhang, Hao Ju, Zhedong Zheng, Hongyuan Zhu, Erik Cambria, Min Zhang, <strong>Hao Fei<sup>*</sup></strong>
-  link:
-    paper: https://arxiv.org/abs/2412.02508
-    code: https://github.com/WalkerMitty/EmoAva
-
 
 
 - title: "PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis"
@@ -104,14 +95,6 @@
     code: https://github.com/lili0415/DuMoGa
 
 
-- title: "ECQED: Emotion-Cause Quadruple Extraction in Dialogs"
-  venue:
-    name: Preprint
-  year: 2023
-  authors: Li Zheng, Donghong Ji, <strong>Hao Fei</strong>, Shengqiong Wu, Jingye Li, Bobo Li, Chong Teng
-  link:
-    paper: https://arxiv.org/pdf/2306.03969.pdf
-    code: #
 
 
 - title: "DialogRE^C+: An Extension of DialogRE to Investigate How Much Coreference Helps Relation Extraction in Dialogs"
@@ -133,6 +116,7 @@
   link:
     paper: https://arxiv.org/abs/2009.09173
     code: https://ncce-site.pages.dev/
+
 
 
 
