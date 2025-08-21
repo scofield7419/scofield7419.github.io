@@ -1,4 +1,13 @@
 
+- title: "ECQED: Emotion-Cause Quadruple Extraction in Dialogs"
+  venue:
+    full: IEEE/ACM Transactions on Audio, Speech and Language Processing
+    short: TASLP
+  year: 2025
+  authors: Li Zheng, Donghong Ji, <strong>Hao Fei</strong>, Shengqiong Wu, Jingye Li, Bobo Li, Chong Teng
+  link:
+    paper: https://arxiv.org/pdf/2306.03969.pdf
+
 
 - title: "Grammar Induction from Visual, Speech and Text"
   venue:
