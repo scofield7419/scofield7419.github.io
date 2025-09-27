@@ -138,7 +138,6 @@ Those are the students I am currently collaborating with.
 
 
 - Former Students
-
   - [Shengqiong Wu](https://chocowu.github.io/), NUS
   - [Bobo Li](https://github.com/unikcc), Wuhan University
   - [Yu Zhao](https://github.com/zhaoyucs), Tianjin University
