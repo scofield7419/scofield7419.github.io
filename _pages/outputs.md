@@ -109,7 +109,6 @@ Those are the students I am currently collaborating with.
   - [Kai Liu](https://kail8.github.io/), Zhejiang University, Visiting @ NUS
   - [Tianjie Ju](https://scholar.google.com.hk/citations?user=f8PPcnoAAAAJ), SJTU, Visiting @ NUS
   - [Li Zheng](https://scholar.google.com/citations?user=ItveFKsAAAAJ), Wuhan University, Remote
-  - [Kai Wang](https://scholar.google.com/citations?user=dBVSZWAAAAAJ), University of Toronto, Remote
   - [Yuhan Cui](https://www.grm.cuhk.edu.hk/en/profile/cui-yuhan/), CUHK, Remote
   - [Hao Li](), WHU, Visiting @ NUS
   - [Zongru Wu](https://zrw00.github.io/), SJTU, Visiting @ NUS
