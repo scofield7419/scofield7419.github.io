@@ -41,7 +41,12 @@ permalink: /outputs
 
 ### Invited Talks 
 
-
+- 2025.9: **Toward Unified and Advanced Multimodal Generalist**, [Australian National University](#)
+- 2025.6: **On Path to Multimodal Generalist General-Level and General-Bench**, [AI Time 2025](https://mp.weixin.qq.com/s/XY2ZVJX3VSxdy9_-FPsg1A), [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/Generalist-Talk-HaoFei2025.pdf)
+- 2025.6: **Toward Unified and Advanced Large Multimodal Foundation Model
+**, [MSRA](#)
+- 2025.6: **On Path to Multimodal Generalist General-Level and General-Bench**, [NICE 2025](https://www.bilibili.com/video/BV1H5Mcz3ETP/?spm_id_from=333.1387.upload.video_card.click), [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/Generalist-Talk-HaoFei2025.pdf)
+- 2025.5: **Toward Next-generation Large Multimodal Foundation Model**, [Central South University](#)
 - 2024.8: **Towards AGI: from Unified MLLM to Multimodal Generalist**, [MLNLP 2024](https://mlnlp.org/mlnlp2024/), [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/MLNLP24-HaoFei.pdf)
 - 2024.1: **From Multimodal LLM to AGI**, [Harbin Institute of Technology, Shenzhen](#)
 - 2023.12: **From Multimodal LLM to AGI**, [CIPS Youth Working Committee in A Star, Singapore](https://mp.weixin.qq.com/s/LeJwkE_sk29twigo1wxkMw)
@@ -65,7 +70,7 @@ permalink: /outputs
 
 ### Tutorials
 
-
+- 2025.9: **A Beginner's Guide to AI Research--Insights from a Multimodal AI Perspective**, National University of Singapore, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/AI-lecture-Hao-publish.pdf)
 - 2025.6: [**Evaluations and Benchmarks in the Context of Multimodal LLM**](https://mllm2024.github.io/CVPR2025), [CVPR 2025](https://cvpr.thecvf.com/), Nashville TN, USA
 - 2024.10: [**From Multimodal LLM to Human-level AI: Architecture, Modality, Function, Instruction, Hallucination, Evaluation, Reasoning and Beyond**](https://mllm2024.github.io/ACM-MM2024/), [ACM MM 2024](https://2024.acmmm.org/), Melbourne, Australia
 - 2024.6: [**From Multimodal LLM to Human-level AI: Modality, Instruction, Reasoning and Beyond**](https://mllm2024.github.io/CVPR2024), [CVPR 2024](https://cvpr.thecvf.com/), Seattle WA, USA
