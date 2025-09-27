@@ -100,34 +100,58 @@ permalink: /outputs
 
 ### Mentoring
 
-Those are the students I am (was) collaborating with.
+Those are the students I am currently collaborating with.
 
 - Ph.D Students
-  - Jundong Xu, NUS, Co-advising with Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/)
-  - Meng Luo, NUS, Co-advising with Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/)
-  - [Kai Liu](https://kail8.github.io/), Zhejiang University, CSC Visiting Ph.D @ NUS
-  - [Tianjie Ju](https://scholar.google.com.hk/citations?user=f8PPcnoAAAAJ), Shanghai Jiao Tong University, CSC Visiting Ph.D @ NUS
-  - [Ji Qi](https://qijimrc.github.io/), Tsinghua University, Visiting Ph.D @ NUS
-  - [Yichong Huang](https://ychuang.netlify.app/), Harbin Institute of Technology, CSC Visiting Ph.D @ NUS
-  - [Jiang Liu](https://scholar.google.com/citations?user=LXLsXZUAAAAJ), Wuhan University, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
-  - [Li Zheng](https://scholar.google.com/citations?user=ItveFKsAAAAJ), Wuhan University, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
-  - Han Zhang, Xidian University, Remotely visiting student
-  - [Shengqiong Wu](https://chocowu.github.io/), NUS, Co-advising with Prof. [Tat-Seng Chua](https://www.chuatatseng.com/)
-  - [Yu Zhao](https://github.com/zhaoyucs), Tianjin University, CSC Visiting Ph.D @ NUS
-  - [Bobo Li](https://github.com/unikcc), Wuhan University, CSC Visiting Ph.D @ NUS
+  - [Jundong Xu](https://aiden0526.github.io/), NUS
+  - [Meng Luo](https://eurekaleo.github.io/), NUS
+  - [Pengxin Xu](), HITSZ
+  - [Kai Liu](https://kail8.github.io/), Zhejiang University, Visiting @ NUS
+  - [Tianjie Ju](https://scholar.google.com.hk/citations?user=f8PPcnoAAAAJ), SJTU, Visiting @ NUS
+  - [Li Zheng](https://scholar.google.com/citations?user=ItveFKsAAAAJ), Wuhan University, Remote
+  - [Kai Wang](https://scholar.google.com/citations?user=dBVSZWAAAAAJ), University of Toronto, Remote
+  - [Han Zhang](), Xidian University, Remote
+  - [Yuhan Cui](https://www.grm.cuhk.edu.hk/en/profile/cui-yuhan/), CUHK, Remote
+  - [Hao Li](), WHU, Visiting @ NUS
+  - [Zongru Wu](https://zrw00.github.io/), SJTU, Visiting @ NUS
+  - [You Qin](https://scholar.google.com/citations?user=qC39v8kAAAAJ), NUS
+  - [Daoan Zhang](https://dwan.ch/), University of Rochester, Remote
+  - [Zhengyang Liang](), SMU
+  - [Wangcheng Tao](), NUS, Remote
+  - [Jiachen Tu](), UIUC, Remote
+  - [Yiwen Jiang](), Monash University, Remote
+  - ...
 
 
 - Master Students
-  - Yanlin Li, NUS, Co-advising with Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/)
-  - Zixiang Meng, Wuhan University, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
-  - Haidong Xu, Harbin Institute of Technology (Shenzhen), Co-advising with Prof. [Meishan Zhang](https://zhangmeishan.github.io/)
-  - Bin Wang, Harbin Institute of Technology (Shenzhen), Co-advising with Prof. [Meishan Zhang](https://zhangmeishan.github.io/)
-  - Minghui Xu, Wuhan University, Co-advising with Prof. [Fei Li](https://scholar.google.com/citations?user=AoMmysMAAAAJ)
-  - Ling Zhuang, Central China Normal University, Co-advising with Prof. Po Hu
-  - Yuyang Chai, Wuhan University, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
-  - [Jingye Li](https://ljynlp.github.io/), Wuhan University, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
-  - Peng Tao, Wuhan University, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
-  - Jun Gao, Wuhan University, Co-advising with Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ)
+  - [Yanlin Li](), NUS
+  - [Yanguang Zhao](), NUS
+  - [Lanhu Wu](), NUS
+  - [Minghui Guo](), NUS
+  - [Wenhao Xu](), NUS
+  - [Pengcheng Zhou](), NUS
+  - [Kaiming Jin](), NUS
+  - [Shize Zhang](), NUS
+  - [Kaiwen Zhang](), NUS
+  - [Mingyang Bao](), NUS
+  - ...
 
 
+
+- Former Students
+
+  - [Shengqiong Wu](https://chocowu.github.io/), NUS
+  - [Bobo Li](https://github.com/unikcc), Wuhan University
+  - [Yu Zhao](https://github.com/zhaoyucs), Tianjin University
+  - [Yaoting Yang](), NUS
+  - [Ji Qi](https://qijimrc.github.io/), Tsinghua University
+  - [Yichong Huang](https://ychuang.netlify.app/), HIT
+  - [Jiang Liu](https://scholar.google.com/citations?user=LXLsXZUAAAAJ), Wuhan University
+  - [Haidong Xu](), HITSZ
+  - [Bin Wang](), HITSZ
+  - [Minghui Xu](), Wuhan University
+  - [Ling Zhuang](), Central China Normal University
+  - [Jingye Li](https://ljynlp.github.io/), Wuhan University
+  - [Peng Tao](), Wuhan University
+  - [Jun Gao](), Wuhan University
 
