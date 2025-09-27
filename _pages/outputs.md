@@ -43,8 +43,7 @@ permalink: /outputs
 
 - 2025.9: **Toward Unified and Advanced Multimodal Generalist**, [Australian National University](#)
 - 2025.6: **On Path to Multimodal Generalist General-Level and General-Bench**, [AI Time 2025](https://mp.weixin.qq.com/s/XY2ZVJX3VSxdy9_-FPsg1A), [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/Generalist-Talk-HaoFei2025.pdf)
-- 2025.6: **Toward Unified and Advanced Large Multimodal Foundation Model
-**, [MSRA](#)
+- 2025.6: **Toward Unified and Advanced Large Multimodal Foundation Model**, [MSRA](#)
 - 2025.6: **On Path to Multimodal Generalist General-Level and General-Bench**, [NICE 2025](https://www.bilibili.com/video/BV1H5Mcz3ETP/?spm_id_from=333.1387.upload.video_card.click), [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/Generalist-Talk-HaoFei2025.pdf)
 - 2025.5: **Toward Next-generation Large Multimodal Foundation Model**, [Central South University](#)
 - 2024.8: **Towards AGI: from Unified MLLM to Multimodal Generalist**, [MLNLP 2024](https://mlnlp.org/mlnlp2024/), [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/MLNLP24-HaoFei.pdf)
