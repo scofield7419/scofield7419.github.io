@@ -122,7 +122,7 @@ Those are the students I am currently collaborating with.
   - ...
 
 
-- Master Students
+- Master Students (incl. RA)
   - [Yanlin Li](), NUS
   - [Yanguang Zhao](), NUS
   - [Lanhu Wu](), NUS
