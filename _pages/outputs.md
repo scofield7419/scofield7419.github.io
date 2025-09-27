@@ -110,7 +110,6 @@ Those are the students I am currently collaborating with.
   - [Tianjie Ju](https://scholar.google.com.hk/citations?user=f8PPcnoAAAAJ), SJTU, Visiting @ NUS
   - [Li Zheng](https://scholar.google.com/citations?user=ItveFKsAAAAJ), Wuhan University, Remote
   - [Kai Wang](https://scholar.google.com/citations?user=dBVSZWAAAAAJ), University of Toronto, Remote
-  - [Han Zhang](), Xidian University, Remote
   - [Yuhan Cui](https://www.grm.cuhk.edu.hk/en/profile/cui-yuhan/), CUHK, Remote
   - [Hao Li](), WHU, Visiting @ NUS
   - [Zongru Wu](https://zrw00.github.io/), SJTU, Visiting @ NUS
@@ -144,6 +143,7 @@ Those are the students I am currently collaborating with.
   - [Bobo Li](https://github.com/unikcc), Wuhan University
   - [Yu Zhao](https://github.com/zhaoyucs), Tianjin University
   - [Yaoting Yang](), NUS
+  - [Han Zhang](), Xidian University, Remote
   - [Ji Qi](https://qijimrc.github.io/), Tsinghua University
   - [Yichong Huang](https://ychuang.netlify.app/), HIT
   - [Jiang Liu](https://scholar.google.com/citations?user=LXLsXZUAAAAJ), Wuhan University
