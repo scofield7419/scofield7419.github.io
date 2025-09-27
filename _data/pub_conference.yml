@@ -1,11 +1,59 @@
 
 
+- title: "JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation"
+  venue:
+    name: NeurIPS
+  year: 2025
+  authors: Kai Liu, Jungang Li, Yuchong Sun, Shengqiong Wu, jianzhang gao, Daoan Zhang, Wei Zhang, Sheng Jin, Sicheng Yu, Geng Zhan, Jiayi Ji, Fan Zhou, Liang Zheng, Shuicheng Yan, <strong>Hao Fei<sup>*</sup></strong>, Tat-Seng Chua
+  highlight: Spotlight
+  link:
+    paper: #
+    code: https://javisdit.github.io/JavisGPT
+
+
+
+- title: "LogiCAM: Multimodal Symbolic Logical Reasoning"
+  venue:
+    name: NeurIPS
+  year: 2025
+  authors: Jundong Xu, <strong>Hao Fei<sup>*</sup></strong>, Yuhui Zhang, Liangming Pan, Qijun Huang, Qian Liu, Preslav Nakov, Min-Yen Kan, William Yang Wang, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: #
+    code: #
+
+
+
+
+- title: "VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models"
+  venue:
+    name: NeurIPS
+  year: 2025
+  authors: Haidong Xu, Guangwei Xu, Zhedong Zheng, Xiatian Zhu, Wei Ji, Xiangtai Li, Ruijie Guo, Meishan Zhang, Min zhang, <strong>Hao Fei<sup>*</sup></strong>
+  link:
+    paper: https://arxiv.org/abs/2508.12081
+    code: #
+
+
+
+- title: "Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought"
+  venue:
+    name: NeurIPS
+  year: 2025
+  authors: Zihui Cheng, Qiguang Chen, Xiao Xu, Jiaqi Wang, Weiyun Wang, <strong>Hao Fei</strong>, Yidong Wang, Alex Jinpeng Wang, Zhi Chen, Wanxiang Che, Libo Qin
+  link:
+    paper: https://arxiv.org/abs/2505.15510
+    code: #
+
+
+
+
 
 - title: "When Words Smile: Generating Diverse Emotional Facial Expressions from Text"
   venue:
     name: EMNLP
   year: 2025
   authors: Haidong Xu, Meishan Zhang, Hao Ju, Zhedong Zheng, Erik Cambria, Min Zhang, <strong>Hao Fei<sup>*</sup></strong>
+  highlight: Oral
   link:
     paper: https://arxiv.org/abs/2412.02508
     code: https://github.com/WalkerMitty/EmoAva
