@@ -1,4 +1,26 @@
 
+
+- title: "M3D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction"
+  venue:
+    full: IEEE Transactions on Pattern Analysis and Machine Intelligence
+    short: TPAMI
+  year: 2025
+  authors: Jiang Liu, Bobo Li, Xinran Yang, Na Yang, <strong>Hao Fei</strong>, Mingyao Zhang, Fei Li, Donghong Ji
+  link:
+    paper: https://ieeexplore.ieee.org/abstract/document/#
+
+
+
+- title: "STPar: A Structure-Aware Triaffine Parser for Screenplay Character Coreference Resolution"
+  venue:
+    full: Transactions of the Association for Computational Linguistics (TACL)
+    short: TACL
+  year: 2025
+  authors: Li Zheng, <strong>Hao Fei</strong>, Lei Chen, Bobo Li, Fei Li, Chong Teng, Liang Zhao, Donghong Ji
+  link:
+    paper: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.28/132116/STPar-A-Structure-Aware-Triaffine-Parser-for
+
+
 - title: "ECQED: Emotion-Cause Quadruple Extraction in Dialogs"
   venue:
     full: IEEE/ACM Transactions on Audio, Speech and Language Processing
