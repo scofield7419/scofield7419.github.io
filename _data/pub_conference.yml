@@ -99,13 +99,13 @@
 
 
 
-- title: "LEAF: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection"
+- title: "LEAF-Mamba: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection"
   venue:
     name: ACM MM
   year: 2025
   authors: Lanhu Wu, Zilin Gao, <strong>Hao Fei<sup>*</sup></strong>, Mong-Li Lee, Wynne Hsu
   link:
-    paper: #
+    paper: https://arxiv.org/abs/2509.18683
     code: #
 
 
