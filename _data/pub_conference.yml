@@ -12,15 +12,14 @@
 
 
 
-- title: "LogiCAM: Multimodal Symbolic Logical Reasoning"
+- title: "Multimodal Symbolic Logical Reasoning"
   venue:
     name: NeurIPS
   year: 2025
   authors: Jundong Xu, <strong>Hao Fei<sup>*</sup></strong>, Yuhui Zhang, Liangming Pan, Qijun Huang, Qian Liu, Preslav Nakov, Min-Yen Kan, William Yang Wang, Mong-Li Lee, Wynne Hsu
   link:
     paper: #
-    code: #
-
+    code: https://llm-symbol.github.io/MuSLR
 
 
 
