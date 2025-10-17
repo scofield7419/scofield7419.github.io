@@ -125,24 +125,3 @@ permalink: /services
 
 
 
-
-<div style="margin-top: 30px"></div>
-
-
-### Organization Member
-
-- ACL Member
-- AAAI Member
-- ACM Member
-- IEEE Member
-- IEEE Signal Processing Society Member
-- IEEE Young Professionals
-- CCF Member
-- CAAI Member (中国人工智能学会)
-- CIPS Member (中国中文信息学会)
-- Youth Working Committee Member of CAAI
-- Youth Working Committee Member of CIPS
-- Technical Committee Member on Affect Computing of CIPS
-- Technical Committee Member on SMP of CIPS
-- Technical Committee Member on LMG of CIPS
-
