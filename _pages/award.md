@@ -27,16 +27,6 @@ permalink: /award
 - 2022: Award of Excellent Doctoral Thesis of Chinese Information Processing Society (CIPS)
 
 
-<div style="margin-top: 30px"></div>
-
-
-### Grants
-- 2025: Kuaishou Kling Research Fund (**PI**)
-- 2025: Tencent AI Lab Rhino-Bird Focused Research Program (**PI**)
-- 2024: CCF-Kuaishou Large Model Explorer Fund (**PI**)
-- 2023: CCF-Baidu Pinecone Open Fund (**PI**)
-
-
 
 <div style="margin-top: 30px"></div>
 
