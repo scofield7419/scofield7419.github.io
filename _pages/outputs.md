@@ -115,7 +115,6 @@ Those are the students I am currently collaborating with.
   - [You Qin](https://scholar.google.com/citations?user=qC39v8kAAAAJ), NUS
   - [Daoan Zhang](https://dwan.ch/), University of Rochester, Remote
   - [Zhengyang Liang](), SMU
-  - [Wangcheng Tao](), NUS, Remote
   - [Jiachen Tu](), UIUC, Remote
   - [Yiwen Jiang](), Monash University, Remote
   - ...
