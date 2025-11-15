@@ -19,7 +19,6 @@
     code: #
 
 
-
 - title: "JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation"
   venue:
     name: NeurIPS
@@ -31,7 +30,6 @@
     code: https://JavisVerse.github.io/JavisGPT-page
 
 
-
 - title: "MuSLR: Multimodal Symbolic Logical Reasoning"
   venue:
     name: NeurIPS
@@ -40,7 +38,6 @@
   link:
     paper: https://arxiv.org/abs/2509.25851
     code: https://llm-symbol.github.io/MuSLR/
-
 
 
 - title: "VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models"
