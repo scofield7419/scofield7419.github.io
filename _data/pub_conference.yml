@@ -28,18 +28,18 @@
   highlight: Spotlight
   link:
     paper: #
-    code: https://javisdit.github.io/JavisGPT
+    code: https://JavisVerse.github.io/JavisGPT-page
 
 
 
-- title: "Multimodal Symbolic Logical Reasoning"
+- title: "MuSLR: Multimodal Symbolic Logical Reasoning"
   venue:
     name: NeurIPS
   year: 2025
   authors: Jundong Xu, <strong>Hao Fei<sup>*</sup></strong>, Yuhui Zhang, Liangming Pan, Qijun Huang, Qian Liu, Preslav Nakov, Min-Yen Kan, William Yang Wang, Mong-Li Lee, Wynne Hsu
   link:
-    paper: #
-    code: https://llm-symbol.github.io/MuSLR
+    paper: https://arxiv.org/abs/2509.25851
+    code: https://llm-symbol.github.io/MuSLR/
 
 
 
@@ -50,7 +50,7 @@
   authors: Haidong Xu, Guangwei Xu, Zhedong Zheng, Xiatian Zhu, Wei Ji, Xiangtai Li, Ruijie Guo, Meishan Zhang, Min zhang, <strong>Hao Fei<sup>*</sup></strong>
   link:
     paper: https://arxiv.org/abs/2508.12081
-    code: #
+    code: https://walkermitty.github.io/VimoRAG
 
 
 
@@ -87,8 +87,8 @@
   year: 2025
   authors: Chenghao Liu, Qian Liu, Ziqin Zhu, <strong>Hao Fei</strong>, Aniket Mahanti
   link:
-    paper: #
-    code: #
+    paper: https://aclanthology.org/2025.findings-emnlp.225/
+    code: https://github.com/coenliu/MultiAgentFin
 
 
 
@@ -100,7 +100,7 @@
   authors: Qi Xu, Qian Liu, <strong>Hao Fei</strong>, Hang Yu, Shuhao Guan, Xiao Wei
   link:
     paper: #
-    code: #
+    code: https://aclanthology.org/2025.findings-emnlp.475/
 
 
 
@@ -125,7 +125,7 @@
   authors: Lanhu Wu, Zilin Gao, <strong>Hao Fei<sup>*</sup></strong>, Mong-Li Lee, Wynne Hsu
   link:
     paper: https://arxiv.org/abs/2509.18683
-    code: #
+    code: https://github.com/xuqi220/CLEAR
 
 
 
@@ -136,8 +136,8 @@
   year: 2025
   authors: Yongheng Zhang, Xu Liu, Ruihan Tao, Qiguang Chen, <strong>Hao Fei</strong>, Wanxiang Che, Libo Qin
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/abs/2507.09876
+    code: https://github.com/BRZ911/ViTCoT
 
 
 
@@ -148,8 +148,8 @@
   year: 2025
   authors: Jinlan Fu, Shenzhen Huangfu, <strong>Hao Fei</strong>, Yichong Huang, Xiaoyu Shen, Xipeng Qiu, See-Kiong Ng
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/abs/2510.00647
+    code: https://github.com/LVUGAI/MCM-DPO
 
 
 
@@ -159,8 +159,8 @@
   year: 2025
   authors: Haoyu Zhao, Hao Wang, Xingyue Zhao, <strong>Hao Fei</strong>, Hongqiu Wang, Chengjiang Long, Hua Zou
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/abs/2411.12789v3
+    code: https://sim-gs.github.io/
 
 
 
@@ -171,7 +171,7 @@
   year: 2025
   authors: Yuchen Zhou, Jiayu Tang, Xiaoyan Xiao, Yueyao Lin, Linkai Liu, Zipeng Guo, <strong>Hao Fei</strong>, Xiaobo Xia, Chao Gou
   link:
-    paper: #
+    paper: https://arxiv.org/abs/2506.23088
     code: #
 
 
@@ -183,8 +183,8 @@
   year: 2025
   authors: Siyuan Yan, Ming Hu, Yiwen Jiang, Xieji Li, <strong>Hao Fei</strong>, Philipp Tschandl, Harald Kittler, Zongyuan Ge
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/abs/2503.14911
+    code: https://github.com/SiyuanYan1/Derm1M
 
 
 
@@ -217,8 +217,8 @@
   year: 2025
   authors: Yongheng Zhang, Xu Liu, Ruoxi Zhou, Qiguang Chen, <strong>Hao Fei</strong>, Wenpeng Lu, Libo Qin
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/abs/2505.19108
+    code: https://github.com/BRZ911/CCHall
 
 
 - title: "Enhancing Hyperbole and Metaphor Detection with Their Bidirectional Dynamic Interaction and Emotion Knowledge"
@@ -227,8 +227,8 @@
   year: 2025
   authors: Li Zheng, Sihang Wang, Hao Fei, Zuquan Peng, <strong>Hao Fei</strong>, Jianming Fu, Chong Teng, Donghong Ji
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/abs/2506.15504
+    code: https://github.com/ZhengL00/EmoBi
 
 
 - title: "On Path to Multimodal Generalist: General-Level and General-Bench"
@@ -271,7 +271,7 @@
   year: 2025
   authors: Peng Wang, Shuo Li, Ruoxi Zhou, Qiguang Chen, Xiao Xu, <strong>Hao Fei</strong>, Dagang Li, Wanxiang Che, Libo Qin
   link:
-    paper: #
+    paper: https://www.ijcai.org/proceedings/2025/918
     code: #
 
 
@@ -343,7 +343,8 @@
   year: 2025
   authors: Meishan Zhang, Peiming Guo, <strong>Hao Fei</strong>, Min Zhang
   link:
-    paper: #
+    paper: https://ieeexplore.ieee.org/abstract/document/10888121/
+    code: #
 
 
 
@@ -373,7 +374,7 @@
   year: 2025
   authors: Li Zheng, <strong>Hao Fei</strong>, Ting Dai, Zuquan Peng, Fei Li, Huisheng Ma, Chong Teng, Donghong Ji
   link:
-    paper: #
+    paper: https://arxiv.org/abs/2503.12560
     code: #
 
 
