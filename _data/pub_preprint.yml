@@ -1,5 +1,16 @@
 
 
+- title: "UniVA: Universal Video Agent towards Open-Source Next-Generation Video Generalist"
+  venue:
+    name: arXiv
+  year: 2026
+  authors: Zhengyang Liang, Daoan Zhang, Huichi Zhou, Rui Huang, Bobo Li, Yuechen Zhang, Shengqiong Wu, Xiaohan Wang, Jiebo Luo, Lizi Liao, <strong>Hao Fei</strong>
+  link:
+    paper: https://arxiv.org/abs/2511.08521
+    code: https://univa.online/
+
+
+
 - title: "Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding"
   venue:
     name: arXiv
