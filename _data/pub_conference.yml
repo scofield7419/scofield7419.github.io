@@ -1,4 +1,24 @@
 
+- title: "Orthogonal Spatial-temporal Distributional Transfer for 4D Generation"
+  venue:
+    name: AAAI
+  year: 2026
+  authors: Wei Liu, Shengqiong Wu, Bobo Li, Haoyu Zhao, <strong>Hao Fei</strong>, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: #
+    code: #
+
+
+- title: "DragNeXt: Rethinking Drag-Based Image Editing"
+  venue:
+    name: AAAI
+  year: 2026
+  authors: Yuan Zhou, Junbao Zhou, Qingshan Xu, Kesen Zhao, Yuxuan Wang, <strong>Hao Fei</strong>, Richang Hong, Hanwang Zhang
+  link:
+    paper: #
+    code: #
+
+
 
 - title: "JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation"
   venue:
