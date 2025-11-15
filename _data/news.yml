@@ -1,5 +1,16 @@
 
 
+- date: 14 Nov 2025
+  headline: "We are thrilled to release [**UniVA: Universal Video Agent**](https://univa.online/) — an open-source next-generation video generalist! UniVA features: 
+  **1) 🤖 Unified Agentic System:** highly automated, interactive, proactive video creation — multi-round co-creation, deep memory, proactive, interactive, and planner–executor synergy.  
+  **2) 🎬 Industrial-grade Creation:** an omnipotent, MCP-native modular system covering understanding, editing, tracking, and any-conditioned video generation with cinematic consistency.  
+  Try the [online demo](https://univa.online/) now! ｜ (Paper)[https://arxiv.org/abs/2511.08521]"
+
+
+- date: 8 Nov 2025
+  headline: "Two papers are accepted by AAAI 2025, 1) [**4D Generation**](#) and 2) [**DragNeXt**](#). Congrats to all my co-authors!"
+
+
 - date: 25 Sep 2025
   headline: "Four papers are accepted by NeurIPS 2025, 1) [**JavisGPT**](#), 2) [**LogiCAM**](https://llm-symbol.github.io/), 3) [**VimoRAG**](https://arxiv.org/abs/2508.12081) and 4) [**Visual Thoughts**](https://arxiv.org/abs/2505.15510). Congrats to all my co-authors!"
 
