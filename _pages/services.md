@@ -41,7 +41,7 @@ permalink: /services
 - NAACL 2024 (AC/ARR-AE)
 - EACL 2024 (AC/ARR-AE)
 - ACM MM 2024 (AC)
-- ICML 2024 (AC), 2025 (AC)
+- ICML 2024 (AC), 2025 (AC), 2026 (AC)
 - CCL 2024 (AC)
 - NLPCC 2024 (AC)
 - NeurIPS 2024 (AC), 2025 (AC)
