@@ -1,12 +1,67 @@
 
+
+
+- title: "MuSLR: Multimodal Symbolic Logical Reasoning"
+  venue:
+    name: NeurIPS
+  year: 2025
+  authors: Jundong Xu, <strong>Hao Fei<sup>*</sup></strong>, Yuhui Zhang, Liangming Pan, Qijun Huang, Qian Liu, Preslav Nakov, Min-Yen Kan, William Yang Wang, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: https://arxiv.org/abs/2509.25851
+    code: https://llm-symbol.github.io/MuSLR/
+
+
+- title: "When Words Smile: Generating Diverse Emotional Facial Expressions from Text"
+  venue:
+    name: EMNLP
+  year: 2025
+  authors: Haidong Xu, Meishan Zhang, Hao Ju, Zhedong Zheng, Erik Cambria, Min Zhang, <strong>Hao Fei<sup>*</sup></strong>
+  highlight: Oral
+  link:
+    paper: https://arxiv.org/abs/2412.02508
+    code: https://github.com/WalkerMitty/EmoAva
+
+
+
+
+- title: "M3D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction"
+  venue:
+    full: IEEE Transactions on Pattern Analysis and Machine Intelligence
+    short: TPAMI
+  year: 2025
+  authors: Jiang Liu, Bobo Li, Xinran Yang, Na Yang, <strong>Hao Fei</strong>, Mingyao Zhang, Fei Li, Donghong Ji
+  link:
+    paper: https://ieeexplore.ieee.org/abstract/document/#
+
+
+- title: "Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding"
+  venue:
+    name: arXiv
+  year: 2025
+  authors: Meng Luo, Shengqiong Wu, Liqiang Jing, Tianjie Ju, Li Zheng, Jinxiang Lai, Tianlong Wu, Xinya Du, Jian Li, Siyuan Yan, Jiebo Luo, William Yang Wang, <strong>Hao Fei</strong>, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: https://arxiv.org/abs/2509.11866
+    code: https://github.com/Eurekaleo/Dr.V
+
+
+- title: "Derm1M: A Million-scale Vision-Language Dataset Aligned with Clinical Ontology Knowledge for Dermatology"
+  venue:
+    name: ICCV
+  year: 2025
+  authors: Siyuan Yan, Ming Hu, Yiwen Jiang, Xieji Li, <strong>Hao Fei</strong>, Philipp Tschandl, Harald Kittler, Zongyuan Ge
+  link:
+    paper: https://arxiv.org/abs/2503.14911
+    code: https://github.com/SiyuanYan1/Derm1M
+
+
 - title: "CCHall: A Novel Benchmark for Joint Cross-Lingual and Cross-Modal Hallucinations Detection in Large Language Models"
   venue:
     name: ACL
   year: 2025
   authors: Yongheng Zhang, Xu Liu, Ruoxi Zhou, Qiguang Chen, <strong>Hao Fei</strong>, Wenpeng Lu, Libo Qin
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/abs/2505.19108
+    code: https://github.com/BRZ911/CCHall
 
 
 - title: "Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark"
@@ -26,8 +81,7 @@
   authors: Zihui Cheng, Qiguang Chen, Jin Zhang, <strong>Hao Fei</strong>, Xiaocheng Feng, Wanxiang Che, Min Li, Libo Qin
   link:
     paper: https://arxiv.org/abs/2412.12932
-    code: #
-
+    code: https://github.com/gogoczh/CoMT
 
 
 
@@ -116,6 +170,7 @@
   link:
     paper: https://arxiv.org/abs/2009.09173
     code: https://ncce-site.pages.dev/
+
 
 
 
