@@ -47,27 +47,6 @@
 
 
 
-- title: Deep Multimodal Learning for Generation and Retrieval
-  venue:
-    name: ACM MM
-    note: Workshop
-  year: 2024
-  authors: Wei Ji, <strong>Hao Fei</strong>, Yinwei Wei, Zhedong Zheng, Juncheng Li, Zhiqi Ge, Long Chen, Lizi Liao, Yueting Zhuang, Roger Zimmermann
-  link:
-    paper: https://videorelation.nextcenter.org/MMGR24/
-
-
-
-- title: Deep Multimodal Learning for Information Retrieval
-  venue:
-    name: ACM MM
-    note: Workshop
-  year: 2023
-  authors: Wei Ji, Yinwei Wei, Zhedong Zheng, <strong>Hao Fei</strong>, Tat-seng Chua
-  link:
-    paper: https://videorelation.nextcenter.org/MMIR23/
-
-
 
 - title: On the Syntax-oriented Modeling and Optimization of Natural Language
   venue:
