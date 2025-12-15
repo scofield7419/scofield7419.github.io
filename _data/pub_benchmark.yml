@@ -23,11 +23,9 @@
 
 
 
-
 - title: "M3D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction"
   venue:
-    full: IEEE Transactions on Pattern Analysis and Machine Intelligence
-    short: TPAMI
+    name: TPAMI
   year: 2025
   authors: Jiang Liu, Bobo Li, Xinran Yang, Na Yang, <strong>Hao Fei</strong>, Mingyao Zhang, Fei Li, Donghong Ji
   link:
@@ -170,6 +168,7 @@
   link:
     paper: https://arxiv.org/abs/2009.09173
     code: https://ncce-site.pages.dev/
+
 
 
 
