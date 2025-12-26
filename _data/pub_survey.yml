@@ -1,4 +1,14 @@
 
+- title: "Event Extraction in Large Language Model: A Holistic Survey of Method, Modality, and Future"
+  venue:
+    name: arXiv
+  year: 2025
+  authors: Bobo Li, Xudong Han, Jiang Liu, Yuzhe Ding Liqiang Jing, Zhaoqi Zhang, Jinheng Li, Xinya Du, Fei Li, Meishan Zhang, Min Zhang, Aixin Sun, Philip S. Yu, <strong>Hao Fei<sup>*</sup></strong>
+  link:
+    paper: https://arxiv.org/pdf/2512.19537
+    code: https://github.com/unikcc/AwesomeEventExtraction
+
+
 
 - title: "Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey"
   venue:
@@ -40,5 +50,6 @@
   link:
     paper: https://arxiv.org/abs/2410.15019
     code: https://github.com/liangjinggui/Ontology-Expansion
+
 
 
