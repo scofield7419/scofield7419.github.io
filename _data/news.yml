@@ -1,5 +1,9 @@
 
 
+- date: 26 Jan 2026
+  headline: "Five papers are accepted by ICLR 2026, 1) [**JavisDiT++**](https://javisverse.github.io/JavisDiT2-page/), 2) [**JavisDiT**](https://javisverse.github.io/JavisDiT-page/), 3) [**LogicReward**](https://llm-symbol.github.io/LogicReward/) 4) [**Interleaved Reasoning**](#) and 5) [**Cognitive Emotion Reasoning**](https://hitemotion.github.io/). Congrats to all my co-authors!"
+
+
 - date: 14 Nov 2025
   headline: "We are thrilled to release [**UniVA: Universal Video Agent**](https://univa.online/) — an open-source next-generation video generalist! UniVA features:   **1) 🤖 Unified Agentic System:** an one-stop, omnipotent, highly automated, interactive, interactive and proactive video creation station, with deep memory and planner–executor synergy.    **2) 🎬 Powerful Creation:** MCP-native modular system covering understanding, editing, tracking, and any-conditioned video generation with industrial-grade cinematic quality.  Try the [**online demo**](https://univa.online/) now! Check the [**paper**](https://arxiv.org/abs/2511.08521)."
 
