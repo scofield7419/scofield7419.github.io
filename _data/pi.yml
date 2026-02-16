@@ -1,7 +1,7 @@
 - name: Hao Fei
   photo: feihao-potriat.jpg
   info: Senior Research Fellow
-  email: haofei37@nus.edu.sg
+  email: hao.fei@bdi.ox.ac.uk
   email2: haofei7419@gmail.com
   github: https://github.com/scofield7419
   dblp: https://dblp.uni-trier.de/pid/81/3569-1.html
@@ -11,5 +11,5 @@
   linkedin: https://www.linkedin.com/in/hao-fei-27769b140/
   twitter: https://x.com/ScottNLP
   cv: #
-  location1: School of Computing, National University of Singapore
-  location2: 3 Research Link, Singapore 117602
+  location1: Department of Computer Science, University of Oxford
+  location2: Wolfson Building, Parks Road, Oxford OX1 3QD, United Kingdom
