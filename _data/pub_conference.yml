@@ -89,6 +89,7 @@ Joint Audio-Video Generation"
     name: NeurIPS
   year: 2025
   authors: Jundong Xu, <strong>Hao Fei<sup>*</sup></strong>, Yuhui Zhang, Liangming Pan, Qijun Huang, Qian Liu, Preslav Nakov, Min-Yen Kan, William Yang Wang, Mong-Li Lee, Wynne Hsu
+  highlight: Best Paper of Logical and Symbolic Reasoning Workshop @ AAAI 2026
   link:
     paper: https://arxiv.org/abs/2509.25851
     code: https://llm-symbol.github.io/MuSLR/
