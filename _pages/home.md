@@ -47,8 +47,9 @@ permalink: /
 
 
 ### Profile
-I am a senior research fellow at National University of Singapore, working with Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) at [IDS](https://ids.nus.edu.sg/), also with Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) at [NExT++](https://www.nextcenter.org) as well as Prof. [Shuicheng Yan](https://yanshuicheng.info/).
-Previously, I was an associate researcher at Skywork AI Singapore, and SEA AI lab, respectively.
+I am a senior postdoctoral researcher at the University of Oxford, jointly working with Prof. [Yarin Gal](https://www.cs.ox.ac.uk/people/yarin.gal/website/) in the OATML Group and Prof. [Chris Holmes](https://www.stats.ox.ac.uk/people/chris-holmes) in the Big Data Institute.
+Previously, I was a senior research fellow at National University of Singapore, where I worked with Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/), Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/), Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) and Prof. [Shuicheng Yan](https://yanshuicheng.info/).
+I also worked as a visiting researcher at Microsoft Research Asia, an associate researcher at Skywork AI Singapore, and SEA AI lab, respectively.
 I graduated as Ph.D from Wuhan University.
 {: .text-justify}
 
@@ -72,8 +73,8 @@ I won more than ten honors and awards during Ph.D stage.
 
 
 
-My research interests lie in the NLP, CV, and the intersection of both (i.e., Multimodal/Vision-Language Learning).
-My long-term goal is to achieve human-level AI centering around multimodal LLMs & generalists.
+My research interests lie in NLP, CV, and the intersection of both (i.e., Multimodal/Vision-Language Learning).
+My long-term goal is to achieve human-level AI centered around multimodal LLMs & generalists.
 While previously I worked a lot on the topic of [Structural Modeling of Language&Vision]({{ site.url }}{{ site.baseurl }}/sail), I pay the most recent focus on the unified multimodal generalist towards human-level capacity (Modality, Task, Knowledge) and cognition (Reasoning, Affection), with following key topics and representative works (detailed in [research statement]({{ site.url }}{{ site.baseurl }}/research)):
 {: .text-justify}
 
@@ -116,7 +117,7 @@ While previously I worked a lot on the topic of [Structural Modeling of Language
 </div>
 
 
-I also extensively explore the AI for medicine, healthcare, clinical psychology, and social studies, by integrating the advanced LLM/agent methodologies.
+I also extensively explore the AI for science, including 1) clinical psychology & social studies, 2) medicine, healthcare, and 3) material science, by integrating the advanced LLM/agent methodologies.
 
 
 <div style="margin-top: 20px"></div>
