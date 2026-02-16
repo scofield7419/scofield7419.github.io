@@ -1,4 +1,58 @@
 
+
+
+- title: "JavisDiT++: Unified Modeling and Optimization for
+Joint Audio-Video Generation"
+  venue:
+    name: ICLR
+  year: 2026
+  authors: Kai Liu, Yanhao Zheng, Kai Wang, Shengqiong Wu, Rongjunchen Zhang, Jiebo Luo, Dimitrios Hatzinakos, Ziwei Liu, <strong>Hao Fei<sup>*</sup></strong>, Tat-Seng Chua
+  link:
+    paper: https://openreview.net/pdf?id=hRRWfFpKRp
+    code: https://javisverse.github.io/JavisDiT2-page/
+
+
+- title: "JavisDiT: Joint Audio-Video Diffusion Transformer with Hierarchical Spatio-Temporal Prior Synchronization"
+  venue:
+    name: ICLR
+  year: 2026
+  authors: Kai Liu, Wei Li, Lai Chen, Shengqiong Wu, Yanhao Zheng, Jiayi Ji, Fan Zhou, Jiebo Luo, Ziwei Liu, <strong>Hao Fei<sup>*</sup></strong>, Tat-Seng Chua
+  link:
+    paper: https://arxiv.org/abs/2503.23377
+    code: https://javisverse.github.io/JavisDiT-page/
+
+
+- title: "LogicReward: Incentivizing LLM Reasoning via Step-Wise Logical Supervision"
+  venue:
+    name: ICLR
+  year: 2026
+  authors: Jundong Xu, <strong>Hao Fei<sup>*</sup></strong>, Huichi Zhou, Xin Quan, Qijun Huang, Shengqiong Wu, William Yang Wang, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: https://arxiv.org/abs/2512.18196
+    code: https://llm-symbol.github.io/LogicReward/
+
+
+- title: "Synergizing Understanding and Generation with Interleaved Analyzing-Drafting Thinking"
+  venue:
+    name: ICLR
+  year: 2026
+  authors: Shengqiong Wu, Bobo Li, Xinkai Wang, Xiangtai Li, Lei Cui, Furu Wei, Shuicheng Yan, <strong>Hao Fei<sup>*</sup></strong>, Tat-Seng Chua
+  link:
+    paper: https://openreview.net/pdf?id=GtqmPJf00A
+    code: #
+
+
+- title: "Unveiling the Cognitive Compass: Theory-of-Mind–Guided Multimodal Emotion Reasoning"
+  venue:
+    name: ICLR
+  year: 2026
+  authors: Meng Luo, Bobo Li, Shanqing Xu, Shize Zhang, Qiuchan Chen, Menglu Han, Wenhao Chen, Yanxiang Huang, <strong>Hao Fei</strong>, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: https://arxiv.org/abs/2602.00971
+    code: https://hitemotion.github.io/
+
+
+
 - title: "Orthogonal Spatial-temporal Distributional Transfer for 4D Generation"
   venue:
     name: AAAI
