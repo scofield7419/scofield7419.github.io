@@ -128,8 +128,8 @@ I also extensively explore the AI for science, including 1) clinical psychology 
 **I am constantly looking for collaborations** on the above topics. 
 Remote manner is also supported.
 For promising students I will provide sufficient GPUs.
-Hit me up, if you are a Ph.D/master/bachelor student and interested in what I am doing now.
-When you are from Chinese universities, there are also potential vacancies for research interns (e.g., self-/CSC-funded joint PhD project).
-Please describe your research status and attach your resume.
+Hit me up, if you are a Ph.D/master/bachelor student and interested in what I am doing now (with potential vacancies for research interns/RAs/visiting).
+For students from University of Oxford, I'm particularly looking for collaborations on **world modeling + AI scientist**.
+Please describe your research status and attach your resume & statement.
 {: .text-justify}
 
