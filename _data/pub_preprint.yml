@@ -21,15 +21,6 @@
     code: https://github.com/Eurekaleo/Dr.V
 
 
-- title: "JavisDiT: Joint Audio-Video Diffusion Transformer with Hierarchical Spatio-Temporal Prior Synchronization"
-  venue:
-    name: arXiv
-  year: 2025
-  authors: Kai Liu, Wei Li, Lai Chen, Shengqiong Wu, Yanhao Zheng, Jiayi Ji, Fan Zhou, Rongxin Jiang, Jiebo Luo, <strong>Hao Fei</strong>, Tat-Seng Chua
-  link:
-    paper: https://arxiv.org/abs/2503.23377
-    code: https://javisdit.github.io/
-
 
 - title: "Any2Caption: Interpreting Any Condition to Caption for Controllable Video Generation"
   venue:
@@ -39,8 +30,6 @@
   link:
     paper: https://arxiv.org/abs/2503.24379
     code: https://sqwu.top/Any2Cap/
-
-
 
 
 - title: "Investigating the Adaptive Robustness with Knowledge Conflicts in LLM-based Multi-Agent Systems"
