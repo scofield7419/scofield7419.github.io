@@ -117,7 +117,7 @@ While previously I worked a lot on the topic of [Structural Modeling of Language
 </div>
 
 
-I also extensively explore the AI for science, including 1) clinical psychology & social studies, 2) bio-/medicine & healthcare, and 3) material science, by integrating the advanced LLM/agent methodologies.
+I also extensively explore the AI for science, including 1) psychology & social norm studies, 2) bio-/medicine & healthcare & clinics, and 3) material science, by integrating the advanced LLM/agent methodologies.
 
 
 <div style="margin-top: 20px"></div>
