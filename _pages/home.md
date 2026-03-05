@@ -57,9 +57,9 @@ I graduated as Ph.D from Wuhan University.
 My research has been published in top-tier ML/NLP/CV/MM venues, e.g., ICML, NeurIPS, ACL, CVPR, AAAI, WWW, SIGIR, IJCAI, EMNLP, ACM-MM, TPAMI, TKDE, TOIS, TNNLS, TASLP. 
 I was awarded the World AI Conference Rising Star in 2023. 
 My papers were selected as Most Influential Papers by Paper Digest, and ESI Highly Influential Papers and 2024 WAIC Outstanding Paper Award.
-I was also the recipient of the 2023 WAIC Rising Star award, and ranked as Top 2% Scientists Worldwide 2024 (Single Year) by Stanford University.
+I was also the recipient of the 2023 WAIC Rising Star award, and ranked as Top 2% Scientists Worldwide 2024&2025 by Stanford University.
 I've regularly served as (Senior) Area Chair or Senior Program Committee of top-tier conferences.
-I was the organization committee of WSDM 2022, EMNLP 2023, ACL 2024, ACM MM 2025. 
+I was the organization committee of conferences, WSDM, EMNLP, ACL, ACM MM, etc. 
 I serve as the Associate Editor of some journals, including TALLIP and Neurocomputing.
 And I am a persistently-invited reviewer for many journals including TPAMI, IJCV, TNNLS, TKDE, TOIS, etc. 
 My Ph.D thesis was awarded the Excellent Doctoral Thesis of Chinese Information Processing Society (CIPS). 
