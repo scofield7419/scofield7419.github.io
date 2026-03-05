@@ -16,11 +16,13 @@ permalink: /award
 
 ### Honors and Awards
 
+- 2026: AAAI 2026 Logical and Symbolic Reasoning in Language Models Workshop Best Paper Award
 - 2025: Top 2% Scientists Worldwide 2025 (Single Year) by Stanford University
 - 2025: MSRA StarTrack Scholar Award
 - 2025: ICLR Notable Reviewer
 - 2024: Top 2% Scientists Worldwide 2024 (Single Year) by Stanford University
-- 2024: ACM MM 2024 Workshop Best Paper Award
+- 2024: ACM MM 2024 MIS Workshop Best Paper Award
+- 2024: ACM MM 2024 HCMA Workshop Best Paper Award
 - 2024: 2024 WAIC Youth Outstanding Paper Award (2024世界人工智能大会青年优秀论文奖)
 - 2023: 2023 WAIC Rising Star (2023世界人工智能大会云帆奖明日之星)
 - 2023: ACL 2023 Best Paper Award Nomination
