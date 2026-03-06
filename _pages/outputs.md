@@ -12,6 +12,7 @@ permalink: /outputs
 
 ### Workshop Organization
 
+- Co-organizing the **1<sup>st</sup> Any-to-Any Multimodal Learning [(A2A-MML 2026)](https://any2any-mllm.github.io/workshop-cvpr26/)** Workshop @ [CVPR 2026](https://cvpr.thecvf.com/) 
 - Co-organizing the **1<sup>st</sup> Cognition-oriented Multimodal Affective and Empathetic Computing [(CogMAEC 2025)](https://cogmaec.github.io/MM2025/)** Workshop @ [ACM Multimedia 2025](https://acmmm2025.org/) 
 - Co-organizing the **1<sup>st</sup> MLLM for Unified Comprehension and Generation [(MUCG 2025)](https://mllm-mucg.github.io/MM2025/)** Workshop @ [ACM Multimedia 2025](https://acmmm2025.org/) 
 - Co-organizing the **1<sup>st</sup> Multimodal Knowledge and Language Modeling [(MKLM 2025)](https://sites.google.com/view/ijcai-mklm/home)** Workshop @ [IJCAI 2025](https://2025.ijcai.org/) 
