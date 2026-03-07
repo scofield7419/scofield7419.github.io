@@ -103,53 +103,18 @@ permalink: /outputs
 
 Those are the students I am currently collaborating with.
 
-- Ph.D Students
-  - [Jundong Xu](https://aiden0526.github.io/), NUS
-  - [Meng Luo](https://eurekaleo.github.io/), NUS
-  - [Pengxin Xu](), HITSZ
-  - [Kai Liu](https://kail8.github.io/), Zhejiang University, Visiting @ NUS
-  - [Tianjie Ju](https://scholar.google.com.hk/citations?user=f8PPcnoAAAAJ), SJTU, Visiting @ NUS
-  - [Li Zheng](https://scholar.google.com/citations?user=ItveFKsAAAAJ), Wuhan University, Remote
-  - [Yuhan Cui](https://www.grm.cuhk.edu.hk/en/profile/cui-yuhan/), CUHK, Remote
-  - [Hao Li](), WHU, Visiting @ NUS
-  - [Zongru Wu](https://zrw00.github.io/), SJTU, Visiting @ NUS
-  - [You Qin](https://scholar.google.com/citations?user=qC39v8kAAAAJ), NUS
-  - [Daoan Zhang](https://dwan.ch/), University of Rochester, Remote
-  - [Zhengyang Liang](), SMU
-  - [Jiachen Tu](), UIUC, Remote
-  - [Yiwen Jiang](), Monash University, Remote
-  - ...
-
-
-- Master Students (incl. RA)
-  - [Yanlin Li](), NUS
-  - [Yanguang Zhao](), NUS
-  - [Lanhu Wu](), NUS
-  - [Minghui Guo](), NUS
-  - [Wenhao Xu](), NUS
-  - [Pengcheng Zhou](), NUS
-  - [Kaiming Jin](), NUS
-  - [Shize Zhang](), NUS
-  - [Kaiwen Zhang](), NUS
-  - [Mingyang Bao](), NUS
-  - ...
-
-
-
-- Former Students
-  - [Shengqiong Wu](https://chocowu.github.io/), NUS
-  - [Bobo Li](https://github.com/unikcc), Wuhan University
-  - [Yu Zhao](https://github.com/zhaoyucs), Tianjin University
-  - [Yaoting Yang](), NUS
-  - [Han Zhang](), Xidian University, Remote
-  - [Ji Qi](https://qijimrc.github.io/), Tsinghua University
-  - [Yichong Huang](https://ychuang.netlify.app/), HIT
-  - [Jiang Liu](https://scholar.google.com/citations?user=LXLsXZUAAAAJ), Wuhan University
-  - [Haidong Xu](), HITSZ
-  - [Bin Wang](), HITSZ
-  - [Minghui Xu](), Wuhan University
-  - [Ling Zhuang](), Central China Normal University
-  - [Jingye Li](https://ljynlp.github.io/), Wuhan University
-  - [Peng Tao](), Wuhan University
-  - [Jun Gao](), Wuhan University
-
+  - [Jundong Xu](https://aiden0526.github.io/)
+  - [Meng Luo](https://eurekaleo.github.io/)
+  - [Hao Li](#)
+  - [Zongru Wu](https://zrw00.github.io/)
+  - [You Qin](https://42xingxing.github.io/)
+  - [Minghui Guo](https://guominghui07.github.io/)
+  - [Yanlin Li](https://liyanlin06.github.io/)
+  - [Li Zheng](https://zhengli-whu.github.io/)
+  - [Yanguang Zhao](https://scholar.google.com/citations?user=22p-FwoAAAAJ&hl=en)
+  - [Lanhu Wu](https://lanhoong.github.io/)
+  - [Pengxin Xu](#)
+  - [Wenhao Xu](#)
+  - [Kaiwen Zhang](#)
+  - [Jing Wang](#)
+  - [Shengsheng Li](#)
