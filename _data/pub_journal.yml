@@ -1,4 +1,24 @@
 
+- title: "Evaluating and Mitigating Relationship Hallucinations in Large Vision-Language Models"
+  venue:
+    full: IEEE Transactions on Pattern Analysis and Machine Intelligence
+    short: TPAMI
+  year: 2026
+  authors: Mingrui Wu, Jiale Li, Jiayi Ji, <strong>Hao Fei</strong>, Xiaoshuai Sun, Rongrong Ji
+  link:
+    paper: https://ieeexplore.ieee.org/abstract/document/#
+
+
+
+- title: "Grounding is All You Need? Dual Temporal Grounding for Video Dialog"
+  venue:
+    full: IEEE Transactions on Multimedia
+    short: TMM
+  year: 2026
+  authors: You Qin, Wei Ji, Xinze Lan, <strong>Hao Fei</strong>, Xun Yang, Dan Guo, Roger Zimmermann, Lizi Liao
+  link:
+    paper: https://arxiv.org/abs/2410.05767
+
 
 - title: "M3D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction"
   venue:
