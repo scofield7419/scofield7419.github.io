@@ -1,5 +1,34 @@
 
 
+- title: "Modeling Cross-vision Synergy for Unified Large Vision Model"
+  venue:
+    name: CVPR
+  year: 2026
+  authors: Shengqiong Wu, Lanhu Wu, Mingyang Bao, Wenhao Xu, Hanwang Zhang, Shuicheng Yan, <strong>Hao Fei<sup>*</sup></strong>, Tat-Seng Chua
+  link:
+    paper: https://arxiv.org/abs/2603.03564
+    code: https://sqwu.top/PolyV/
+
+
+- title: "UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark"
+  venue:
+    name: CVPR
+  year: 2026
+  authors: Yanlin Li, Minghui Guo, Kaiwen Zhang, Shize Zhang, Yiran Zhao, Haodong Li, Congyue Zhou, Weijie Zheng, Yushen Yan, Shengqiong Wu, Wei Ji, Lei Cui, Furu Wei, <strong>Hao Fei<sup>*</sup></strong>, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: https://arxiv.org/abs/2603.05075
+    code: https://any2any-mllm.github.io/unim/
+
+
+- title: "SCP: Spatial Causal Prediction in Video"
+  venue:
+    name: CVPR (Findings)
+  year: 2026
+  authors: Yanguang Zhao, Jie Yang, Shengqiong Wu, Shutong Hu, Hongbo Qiu, Yu Wang, Guijia Zhang, Tan Kai Ze, Hao Fei, Chia-Wen Lin, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: https://arxiv.org/abs/2603.03944
+    code: https://guangstrip.github.io/SCP-Bench/
+
 
 - title: "JavisDiT++: Unified Modeling and Optimization for
 Joint Audio-Video Generation"
