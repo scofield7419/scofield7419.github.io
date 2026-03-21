@@ -24,7 +24,7 @@
   venue:
     name: CVPR (Findings)
   year: 2026
-  authors: Yanguang Zhao, Jie Yang, Shengqiong Wu, Shutong Hu, Hongbo Qiu, Yu Wang, Guijia Zhang, Tan Kai Ze, Hao Fei, Chia-Wen Lin, Mong-Li Lee, Wynne Hsu
+  authors: Yanguang Zhao, Jie Yang, Shengqiong Wu, Shutong Hu, Hongbo Qiu, Yu Wang, Guijia Zhang, Tan Kai Ze, <strong>Hao Fei</strong>, Chia-Wen Lin, Mong-Li Lee, Wynne Hsu
   link:
     paper: https://arxiv.org/abs/2603.03944
     code: https://guangstrip.github.io/SCP-Bench/
@@ -704,6 +704,29 @@ Joint Audio-Video Generation"
   link:
     paper: #
     code: https://github.com/liangjinggui/SynCID
+
+
+
+- title: "EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot"
+  venue:
+    name: ACL
+    note: Demo
+  year: 2024
+  authors: <strong>Hao Fei</strong>, Han Zhang, Bin Wang, Lizi Liao, Qian Liu, Erik Cambria
+  link:
+    paper: https://arxiv.org/abs/2406.15177
+
+
+
+
+- title: "XNLP: An Interactive Demonstration System for Universal Structured NLP"
+  venue:
+    name: ACL
+    note: Demo
+  year: 2024
+  authors: <strong>Hao Fei</strong>, Meishan Zhang, Min Zhang, Tat-Seng Chua
+  link:
+    paper: https://arxiv.org/abs/2308.01846
 
 
 - title: "Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition"
