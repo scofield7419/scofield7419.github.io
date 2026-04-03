@@ -1,0 +1,305 @@
+eyebrow: Research Statement
+title: "Bridging Physical and Mental Worlds toward Human-like Intelligence"
+summary: "Future human-level AI should bridge physical-world grounding with mental-world intelligence, combining unified
+     multimodal capability with cognition, affection, mind, behavior, and social understanding. 
+     My research aims to build multimodal AI systems that do not only interact with the external 
+    world mechanically, but perceive, reason, generate, and act with increasingly advanced cognitive foundations."
+worlds:
+  - label: Physical World
+    title: Perception, Reasoning, and Generation
+    description: "Build cross-modal/multimodal systems that can understand, reason over, and 
+        generate rich signals across text, speech, audio, image, video, 3D, and 4D settings."
+    points:
+      - Unified multimodal foundation models and agentic systems
+      - Cross-modal comprehension, reasoning, and generation
+      - Video, 4D, and spatiotemporal world modeling
+  - label: Mental World
+    title: Mind, Cognitive, and Social Modeling
+    description: "Move AI beyond mechanical interaction by modeling cognition, mind, emotion, 
+        empathy, mental behavior, and collective intelligence."
+    points:
+      - Emotion, empathy, and human-centric interaction
+      - Cognitive and mental-state modeling
+      - Behavior, social norms, and group intelligence
+foundation_bridge:
+  label: Foundation Model
+  title: Foundation Multimodal LLMs and Generalists
+  description: "A unified multimodal foundation model serves as the common substrate that supports 
+      both physical-world grounding and mental-world intelligence, enabling generalist perception, 
+      reasoning, generation, interaction, and agentic coordination across diverse modalities, paradigm 
+      and tasks."
+directions:
+  - id: multimodal-foundation
+    kicker: Direction 1
+    world: Physical World
+    title: Large Multimodal Foundation Models and Agentic Systems
+    summary: "Unified and advanced multimodal foundational systems (LLMs and agents) that coordinate perception, reasoning, generation, and interaction across modalities. Below, I highlight several representative research series that define this direction."
+    cards:
+      - title: Any-to-Any MLLMs
+        label: Foundation Model
+        link: https://any2any-mllm.github.io/
+        description: "Unified any-to-any multimodal LLMs that move beyond perception-only systems toward fully interleaved multimodal input-output intelligence."
+        media:
+          type: image
+          src: /images/projpic/A2A/teaser3.png
+          fit: cover
+        works:
+          - name: NExT-GPT
+            link: https://next-gpt.github.io/
+            note: "The first unified any-to-any multimodal LLM."
+          - name: "UniM"
+            link: https://any2any-mllm.github.io/unim
+            note: "A benchmark for interleaved any-to-any multimodal understanding and generation."
+          - name: "Any2Any Workshop"
+            link: https://any2any-mllm.github.io/workshop-cvpr26/
+            note: "The first workshop for this series."
+          - name: "Awesome Any2Any"
+            link: https://github.com/any2any-mllm/awesome-any2any
+            note: "A collection of resources on Github: paper, datasets and tools."
+      - title: Unified Vision LLMs
+        label: Vision Intelligence
+        link: https://univision-llm.github.io/
+        description: "Pixel-level large vision foundation models for understanding, generation, segmentation, editing, and controllable interaction with visual content."
+        media:
+          type: image
+          src: /images/projpic/univision/univision-idea.png
+          fit: cover
+        works:
+          - name: Vitron
+            link: https://vitron-llm.github.io/
+            note: "A unified pixel-level vision LLM for understanding, generation, segmentation, and editing."
+          - name: Poly-V
+            link: https://sqwu.top/PolyV/
+            note: "A unified vision-language model for synergistic visual comprehension and interaction."
+      - title: "UniVA: Universal Video Agent"
+        label: Agentic System
+        link: https://univa-agent.github.io
+        description: "A universal video agent that unifies video understanding, editing, tracking, planning, and creation in an automated agentic workflow."
+        media:
+          type: image 
+          src: /images/projpic/univa/univa-teaser.png
+          fit: cover
+        works:
+      - title: Towards Multimodal Generalist
+        label: Generalist Agenda
+        link: https://path2generalist.github.io/
+        description: "A research line on building multimodal generalist AI unifies modalities, tasks, paradigms, enabling synergistic perception, reasoning, and generation."
+        media:
+          type: image
+          src: /images/projpic/path2generalist/path2generalist.png
+          fit: cover
+        works:
+          - name: "General-level&General-Bench"
+            link: https://generalist.top/
+            note: "Evaluation framework measuring progress of multimodal models toward true generalist intelligence."
+          - name: "Unified-R1"
+            link: https://sqwu.top/AD-Loop/
+            note: "Analyzing-Drafting loop interleaves understanding and generation, improving multimodal reasoning and performance."
+          - name: "MUCG Workshop"
+            link: https://mllm-mucg.github.io/MM2025/
+            note: "The workshop series of MLLM on Unified Comprehension and Generation."
+          - name: "MLLM Tutorial"
+            link: https://mllm2024.github.io/CVPR2024/
+            note: "The first tutorial series of MLLM: From Multimodal LLM to Human-level AI."
+  - id: cross-modal-modeling
+    kicker: Direction 2
+    world: Physical World
+    title: Cross-modal Comprehension, Reasoning, and Generation
+    summary: "Model the physical world through multimodal understanding, generation, and structured reasoning across text, speech, image, video, 3D, and 4D signals. Below, I highlight several representative research series that define this direction."
+    cards:
+      - title: "Javis: Joint Audio-Video Intelligence"
+        label: Generation
+        link: https://javisverse.github.io/
+        description: "Large generative foundation models for synchronized/joint audio-video generation."
+        media:
+          type: image
+          src: /images/projpic/javisverse/javisverse.png
+          fit: cover
+        works:
+          - name: Javis-DiT
+            link: https://javisverse.github.io/JavisDiT-page/
+            note: "A joint audio-video diffusion transformer for synchronized generation."
+          - name: Javis-DiT++
+            link: https://javisverse.github.io/JavisDiT2-page/
+            note: "A stronger generation model with improved fidelity and temporal coordination."
+          - name: Javis-GPT
+            link: https://javisverse.github.io/JavisGPT-page/
+            note: "A GPT-style multimodal system for audio-video understanding and generation."
+          - name: "JAV-CG Workshop"
+            link: https://javisverse.github.io/Workshop-MM26/
+            note: "The 1st workshop on Joint audio-video comprehension and generation."
+          - name: JAV Survey
+            link: https://javisverse.github.io/Awesome-AVI
+            note: "A survey-level synthesis of audio-video foundation modeling and generation."
+      - title: Video Generation Lab
+        label: Generation
+        link: https://vid-gen.github.io
+        description: "Video generation research embedding multimodal intent, causal reasoning, and physics for high-quality, faithful, physically consistent synthesis."
+        media:
+          type: image
+          src: /images/projpic/vid-gen/vid-gen2.png
+          fit: cover
+        works:
+          - name: Any2Caption
+            link: https://sqwu.top/Any2Cap/
+            note: "Dense captioning and interpretation for any-conditioned video generation."
+          - name: ReaDe
+            link: https://sqwu.top/ReaDe/
+            note: "A generation line focused on richer control and reasoning in video synthesis."
+      - title: Scene Graph Structure Modeling
+        label: Comprehension & Generation
+        link: https://scene-graph.github.io/
+        description: "Scene graphs provide structured representations enabling multimodal reasoning, generation, controllability, explainability, and generalization across modalities."
+        media:
+          type: image
+          src: /images/projpic/scene-graph/scene-graph2.png
+          fit: cover
+        works:
+          - name: Universal Scene Graph
+            link: https://sqwu.top/USG/
+            note: "Defines a unified SG representation spanning image, text, video, and 3D modalities."
+          - name: Dysen-VDM
+            link: https://haofei.vip/Dysen-VDM/
+            note: "Enhance temporal dynamics of text-to-video diffusion with dynamical video SG representation."
+          - name: LayoutLLM-T2I
+            link: https://layoutllm-t2i.github.io/
+            note: "Enhance fidelity of text-to-image diffusion with layout from LLMs."
+          - name: MRE-ISE
+            link: https://github.com/ChocoWu/MRE-ISE
+            note: "Fuse visual and textual SGs into a cross-modal graph for information extraction."
+          - name: SG4SI Workshop
+            link: https://scene-graph.github.io/SG4SI-WACV26/
+            note: "A focal workshop of Scene Graph for Structured Intelligence."
+          - name: Scene Graph Survey
+            link: https://github.com/ChocoWu/Awesome-Scene-Graph-Generation
+            note: "A comprehensive review of Scene Graph for Structured Intelligence."
+      - title: Multimodal Reasoning
+        label: Reasoning
+        link: #
+        description: "Line of work around multimodal chain-of-thought reasoning and other projects that connect perception with higher-level cognition."
+        media:
+          type: image
+          src: /images/projpic/mm-reason/mm-reason2.png
+          fit: cover
+        works:
+          - name: Video-of-Thought
+            link: https://haofei.vip/VoT/
+            note: "A video reasoning framework that extends chain-of-thought into temporal visual space."
+          - name: MCoT Survey
+            link: https://github.com/yaotingwangofficial/Awesome-MCoT
+            note: "A systematic survey of multimodal chain-of-thought reasoning."
+      - title: Neuro-symbolic Reasoning
+        label: Reasoning
+        link: https://llm-symbol.github.io/
+        description: "Symbolic structures and logic guide LLM reasoning toward more faithful, controllable, and interpretable decision processes."
+        media:
+          type: image
+          src: /images/projpic/llm-symbol/neuro-symb2.png
+          fit: cover
+        works:
+          - name: SymbCoT
+            link: https://llm-symbol.github.io/SymbCoT/
+            note: "Faithful logical reasoning via symbolic chain-of-thought."
+          - name: Aristotle
+            link: https://llm-symbol.github.io/Aristotle/
+            note: "Logic-complete decompose-search-resolve reasoning for complex problems."
+          - name: MuSLR
+            link: https://llm-symbol.github.io/MuSLR/
+            note: "A structured framework for more controllable and interpretable logical reasoning."
+          - name: LogicReward
+            link: https://llm-symbol.github.io/LogicReward/
+            note: "Reward-driven optimization for stronger logical consistency in LLM reasoning."
+      - title: Unified Multimodal Information Extraction
+        label: Information Extraction
+        link: https://uni-ie.github.io
+        description: "A flexible line of work around multimodal chain-of-thought reasoning and other projects that connect perception with higher-level cognition."
+        media:
+          type: image
+          src: /images/projpic/uni-ie/uni-ie-idea.png
+          fit: cover
+        works:
+          - name: LasUIE
+            link: https://haofei.vip/LasUIE-page/
+            note: "Latent structure-aware universal IE improves entity, relation, and event extraction via unified generative modeling."
+          - name: SpeechEE
+            link: https://speechee.github.io/
+            note: "Speech-native event extraction benchmark with end-to-end model operating directly on audio."
+          - name: XNLP
+            link: https://xnlp.haofei.vip/
+            note: "An interactive platform enabling unified structured NLP across tasks with scalable, interpretable single-model interface."
+          - name: SpeechEE
+            link: https://speechee.github.io/
+            note: "Speech-native event extraction benchmark with end-to-end model operating directly on audio."
+          - name: XLLM
+            link: https://xllms.github.io/
+            note: "The 1st workshop on LLMs and structure modeling."
+          - name: EE Survey
+            link: https://github.com/unikcc/AwesomeEventExtraction
+            note: "Event Extraction in LLMs: a holistic view of method, modality, and future."
+          - name: SRL Survey
+            link: https://github.com/DreamH1gh/Awesome-SRL
+            note: "Semantic Role Labeling: A Systematical Survey."
+  - id: mental-world-modeling
+    kicker: Direction 3
+    world: Mental World
+    title: "Mental-World Modeling: Affect, Cognition, Behavior, and Social Intelligence"
+    summary: "Model how AI individuals can feel, infer, empathize, and behave with richer cognitive and social awareness rather than interacting with the world in a purely mechanical manner. Below, I highlight several representative research series that define this direction."
+    cards:
+      - title: Unified Cross-modal Affective & Empathetic Computing
+        label: Affective Computing
+        link: https://unicae.github.io/
+        description: "UniCAE unifies multimodal affective understanding and generation, enabling empathetic AI across language, speech, vision, and 3D."
+        media:
+          type: image
+          src: /images/projpic/unicae/unicae-idea.png
+          fit: cover
+        works:
+          - name: DiaASQ
+            link: https://diaasq-page.pages.dev/
+            note: "The first benchmark of Conversational Aspect-based Sentiment Quadruple Analysis."
+          - name: PanoSent
+            link: https://panosent.github.io/
+            note: "The first benchmark of Multimodal Conversational Aspect-based Sentiment Quadruple Analysis."
+          - name: EmpathyEar
+            link: https://github.com/scofield7419/EmpathyEar
+            note: An open multimodal empathetic chatbot that turns text-only ERG into embodied avatar interaction."
+          - name: MERG
+            link: https://avamerg.github.io/
+            note: "The first benchmark for multimodal empathetic response generation."
+          - name: Emotional 3D Avatar
+            link: https://walkermitty.github.io/EmoAva/
+            note: "Emotion-aware avatar generation for expressive multimodal interaction."
+      - title: Mental World Modeling
+        label: Cognition
+        link: #
+        description: "Mental world modeling integrates physical dynamics and human cognitive-social states for comprehensive, interactive intelligence modeling."
+        media:
+          type: placeholder
+          note: Under Progressing
+        works:
+      - title: Cognition-driven Affective Computing
+        label: Cognition
+        link: https://cogaffc.github.io/
+        description: "Cognition-driven affective computing integrates perception, Theory-of-Mind, and social context and mental state to reason implicit emotions and hidden intentions."
+        media:
+          type: image
+          src: /images/projpic/cogaffc/cogaffc.png
+          fit: cover
+        works:
+          - name: THOR
+            link: https://haofei.vip/THOR/
+            note: "The first chain-of-thought reasoning framework for implicit sentiment analysis."
+          - name: HitEmotion 
+            link: https://hitemotion.github.io/
+            note: "Theory-of-Mind-guided multimodal emotion reasoning with benchmark and pipeline tracking mental states."
+          - name: CogMAEC Workshop
+            link: https://cogaffc.github.io/MM2025/
+            note: "A workshop for cognition-oriented multimodal affective and empathetic computing."
+      - title: Social & Behavioral Intelligence
+        label: Social Intelligence
+        link: "#"
+        description: "Large-scale modeling of cognition, mind, behavior, and social intelligence, including simulations of individuals and groups."
+        media:
+          type: placeholder
+          note: Under Progressing
+        works:

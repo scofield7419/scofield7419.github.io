@@ -12,7 +12,7 @@ permalink: /
     <tbody>
         <tr>
             <td width="35%">
-              <a id="profile" href="{{site.url}}{{site.baseurl}}/"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="90%" style="block:inline; margin-left:auto; margin-right:auto; margin-top:20px; margin-bottom:20px;" /></a>
+              <a id="profile" href="{{ '/' | relative_url }}"><img src="{{ '/images/teampic/' | relative_url }}{{ member.photo }}" class="img-responsive" width="90%" style="block:inline; margin-left:auto; margin-right:auto; margin-top:20px; margin-bottom:20px;" /></a>
             </td>
             <td>
                 <div id="toptitle" style="margin-left: 20px">
@@ -71,53 +71,25 @@ I won more than ten honors and awards during Ph.D stage.
 
 ### Research
 
-
-
-My research interests lie in NLP, CV, and the intersection of both (i.e., Multimodal/Vision-Language Learning).
+My research interests lie in NLP, CV, and the intersection of both (i.e., Multimodal/Vision-Language Learning). 
 My long-term goal is to achieve human-level AI centered around multimodal LLMs & generalists.
-While previously I worked a lot on the topic of [Structural Modeling of Language&Vision]({{ site.url }}{{ site.baseurl }}/sail), I pay the most recent focus on the unified multimodal generalist towards human-level capacity (Modality, Task, Knowledge) and cognition (Reasoning, Affection), with following key topics and representative works (detailed in [research statement]({{ site.url }}{{ site.baseurl }}/research)):
+I pay the main focus on building large foundation multimodal models and bridging physical and mental worlds.
+Know me via some latest series of representative works (see [research statement]({{ '/research/' | relative_url }}) for more):
 {: .text-justify}
 
 
-
-<div style="border-radius: 0.7em;background-color: rgba(0,0,0,3%);padding-bottom: 0.0pt;padding-left: 4.0pt;padding-right: 4.0pt;padding-top: 4.0pt;">
-
-&#9654;&nbsp; **`Multimodal Foundation Models`**: _Unified multimodal LLMs and generalists._
-- [**NExT-GPT**](https://next-gpt.github.io/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st unified any-to-any multimodal LLM</em> 
-- [**Vitron**](https://vitron-llm.github.io/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st unified pixel-level vision LLM for understanding, generating, segmenting, editing of image and video</em> 
-- [**General-Level**](https://generalist.top/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Pioneer the path of MLLM evaluations towards multimodal generalists</em> 
-- [**MLLM tutorial**](https://mllm2024.github.io/CVPR2024/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A pioneering & comprehensive tutorial series for MLLM techniques</em> 
+<div class="home-signature-highlight" style="border-radius: 0.7em;background-color: rgba(0,0,0,3%);padding-bottom: 1.0pt;padding-top: 4.0pt;">
+- [**Any-to-Any MLLM (NExT-GPT) series**](https://any2any-mllm.github.io/)
+- [**Universal Video Agent (UniVA) series**](https://univa-agent.github.io)
+- [**Unified Vision LLMs (UniVision) series**](https://univision-llm.github.io/)
+- [**Towards Multimodal Generalist series**](https://path2generalist.github.io/)
+- [**Joint Audio-Video (Javis) series**](https://javisverse.github.io/)
+- [**Neuro-symbolic Logic Reasoning series**](https://llm-symbol.github.io/)
+- [**Cognition-driven Affective Computing (CogAFFC) series**](https://cogaffc.github.io/)
 </div>
 
-
-
-<div style="border-radius: 0.7em;background-color: rgba(0,0,0,3%);padding-bottom: 0.0pt;padding-left: 4.0pt;padding-right: 4.0pt;padding-top: 4.0pt;">
-
-&#9654;&nbsp; **`Capacity`**: _Comprehension/generation of modalities/tasks, knowledge acquisition._
-- [**JavisDiT**](https://javisdit.github.io/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A novel Diffusion Transformer for synchronized audio-video generation</em> 
-- [**Any2Caption**](https://sqwu.top/Any2Cap/): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">A SoTA video generation framework from any input conditions</em>
-- [**Dysen-VDM**](https://haofei.vip/Dysen-VDM/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Enhance temporal dynamics of text-to-video diffusion from LLMs</em> 
-- [**LayoutLLM-T2I**](https://layoutllm-t2i.github.io/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">Enhance fidelity of text-to-image diffusion with layout from LLMs</em> 
-- [**MUIE**](https://haofei.vip/MUIE/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st benchmark for grounded multimodal universal information extraction</em> 
-</div>
-
-
-
-
-
-<div style="border-radius: 0.7em;background-color: rgba(0,0,0,3%);padding-bottom: 0.0pt;padding-left: 4.0pt;padding-right: 4.0pt;padding-top: 4.0pt;">
-
-&#9654;&nbsp; **`Cognition`**: _Cross-modal neuro-symbolic reasoning, human-centric affective computing._
-- [**MCoT-Survey**](https://github.com/yaotingwangofficial/Awesome-MCoT): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st systematic survey of MCoT reasoning</em> 
-- [**Video-of-Thought**](https://haofei.vip/VoT/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st video chain-of-thought reasoning framework</em> 
-- [**SymbCoT**](https://github.com/Aiden0526/SymbCoT): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st fully LLM-based logical reasoning framework based on chain-of-thought</em> 
-- [**THOR-ISA**](https://haofei.vip/THOR/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st chain-of-thought reasoning framework for implicit sentiment analysis</em> 
-- [**PanoSent**](https://panosent.github.io/): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st cognitive-level benchmark for multimodal conversational aspect-based sentiment analysis</em> 
-- [**AvaMERG**](https://github.com/ChocoWu/SeTok): &nbsp;&nbsp;&nbsp;<em style="font-size: 15px;color:#C7254E;">The 1st avatar-based multimodal empathetic conversation benchmark</em> 
-</div>
-
-
-I also extensively explore the AI for science, including 1) psychology & social norm studies, 2) bio-/medicine & healthcare & clinics, and 3) material science, by integrating the advanced LLM/agent methodologies.
+Recently, I also extensively explore the AI for science, including 1) psychology & social norm studies, 2) bio-/medicine & healthcare & clinics, and 3) material science, by integrating the advanced LLM/agent methodologies.
+{: .text-justify}
 
 
 <div style="margin-top: 20px"></div>
@@ -132,4 +104,3 @@ Hit me up, if you are a Ph.D/master/bachelor student and interested in what I am
 For students from University of Oxford, I'm particularly looking for collaborations on **world modeling + AI scientist**.
 Please describe your research status and attach your resume & statement.
 {: .text-justify}
-

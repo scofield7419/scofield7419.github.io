@@ -43,23 +43,23 @@ permalink: /outputs
 ### Invited Talks 
 
 - 2025.9: **Toward Unified and Advanced Multimodal Generalist**, [Australian National University](#)
-- 2025.6: **On Path to Multimodal Generalist General-Level and General-Bench**, [AI Time 2025](https://mp.weixin.qq.com/s/XY2ZVJX3VSxdy9_-FPsg1A), [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/Generalist-Talk-HaoFei2025.pdf)
+- 2025.6: **On Path to Multimodal Generalist General-Level and General-Bench**, [AI Time 2025](https://mp.weixin.qq.com/s/XY2ZVJX3VSxdy9_-FPsg1A), [(slides)]({{ '/downloads/Generalist-Talk-HaoFei2025.pdf' | relative_url }})
 - 2025.6: **Toward Unified and Advanced Large Multimodal Foundation Model**, [MSRA](#)
-- 2025.6: **On Path to Multimodal Generalist General-Level and General-Bench**, [NICE 2025](https://www.bilibili.com/video/BV1H5Mcz3ETP/?spm_id_from=333.1387.upload.video_card.click), [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/Generalist-Talk-HaoFei2025.pdf)
+- 2025.6: **On Path to Multimodal Generalist General-Level and General-Bench**, [NICE 2025](https://www.bilibili.com/video/BV1H5Mcz3ETP/?spm_id_from=333.1387.upload.video_card.click), [(slides)]({{ '/downloads/Generalist-Talk-HaoFei2025.pdf' | relative_url }})
 - 2025.5: **Toward Next-generation Large Multimodal Foundation Model**, [Central South University](#)
-- 2024.8: **Towards AGI: from Unified MLLM to Multimodal Generalist**, [MLNLP 2024](https://mlnlp.org/mlnlp2024/), [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/MLNLP24-HaoFei.pdf)
+- 2024.8: **Towards AGI: from Unified MLLM to Multimodal Generalist**, [MLNLP 2024](https://mlnlp.org/mlnlp2024/), [(slides)]({{ '/downloads/MLNLP24-HaoFei.pdf' | relative_url }})
 - 2024.1: **From Multimodal LLM to AGI**, [Harbin Institute of Technology, Shenzhen](#)
 - 2023.12: **From Multimodal LLM to AGI**, [CIPS Youth Working Committee in A Star, Singapore](https://mp.weixin.qq.com/s/LeJwkE_sk29twigo1wxkMw)
-- 2023.9: **LLM-Empowered Text-to-Vision Diffusion Models**, [MLNLP 2023](http://mlnlp.world/mlnlp2023/), [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/20230825-WING-feihao.pdf)
-- 2023.8: **LLM-Empowered Text-to-Vision Diffusion Models**, WING lab @ NUS, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/20230825-WING-feihao.pdf)
-- 2023.8: **Scene Graph-driven Structured Vision-Language Learning**, Chinese Academy of Sciences, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/20230823-CAS-feihao.pdf)
-- 2023.4: **Towards Human-level AI**, Huawei Cloud, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/talk-HaoFei-Towards-Human-level-AI.pdf)
-- 2023.2: **Towards Human-level AI**, NExT++ @ NUS, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/talk-HaoFei-Towards-Human-level-AI.pdf)
-- 2022.10: **On the Structure-aware NLP and Beyond**, Jianghan University, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/talk-HaoFei-structure-aware-NLP.pdf)
-- 2022.9: **Neural Models for End-to-end Complex Information Extraction**, SEA AI Lab, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/end-to-end-extraction-feihao.pdf)
-- 2022.6: **On the Structure-aware NLP and Beyond**, NExT++ @ NUS, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/talk-HaoFei-structure-aware-NLP.pdf)
-- 2021.10: **Language Semantic Vs. Syntactic Structure Parsing**, Wuhan University, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/Semantic-Syntactic-parsing.pdf)
-- 2020.8: **Deep Learning in NLP**, Wuhan University, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/Deep-Learning-NLP.pdf)
+- 2023.9: **LLM-Empowered Text-to-Vision Diffusion Models**, [MLNLP 2023](http://mlnlp.world/mlnlp2023/), [(slides)]({{ '/downloads/20230825-WING-feihao.pdf' | relative_url }})
+- 2023.8: **LLM-Empowered Text-to-Vision Diffusion Models**, WING lab @ NUS, [(slides)]({{ '/downloads/20230825-WING-feihao.pdf' | relative_url }})
+- 2023.8: **Scene Graph-driven Structured Vision-Language Learning**, Chinese Academy of Sciences, [(slides)]({{ '/downloads/20230823-CAS-feihao.pdf' | relative_url }})
+- 2023.4: **Towards Human-level AI**, Huawei Cloud, [(slides)]({{ '/downloads/talk-HaoFei-Towards-Human-level-AI.pdf' | relative_url }})
+- 2023.2: **Towards Human-level AI**, NExT++ @ NUS, [(slides)]({{ '/downloads/talk-HaoFei-Towards-Human-level-AI.pdf' | relative_url }})
+- 2022.10: **On the Structure-aware NLP and Beyond**, Jianghan University, [(slides)]({{ '/downloads/talk-HaoFei-structure-aware-NLP.pdf' | relative_url }})
+- 2022.9: **Neural Models for End-to-end Complex Information Extraction**, SEA AI Lab, [(slides)]({{ '/downloads/end-to-end-extraction-feihao.pdf' | relative_url }})
+- 2022.6: **On the Structure-aware NLP and Beyond**, NExT++ @ NUS, [(slides)]({{ '/downloads/talk-HaoFei-structure-aware-NLP.pdf' | relative_url }})
+- 2021.10: **Language Semantic Vs. Syntactic Structure Parsing**, Wuhan University, [(slides)]({{ '/downloads/Semantic-Syntactic-parsing.pdf' | relative_url }})
+- 2020.8: **Deep Learning in NLP**, Wuhan University, [(slides)]({{ '/downloads/Deep-Learning-NLP.pdf' | relative_url }})
 - 2019.11: **Implicit Objective Network for Emotion Detection**, NLPCC 2019,  [(slides)](#)
 
 
@@ -70,13 +70,13 @@ permalink: /outputs
 
 ### Tutorials
 
-- 2025.9: **A Beginner's Guide to AI Research--Insights from a Multimodal AI Perspective**, National University of Singapore, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/AI-lecture-Hao-publish.pdf)
+- 2025.9: **A Beginner's Guide to AI Research--Insights from a Multimodal AI Perspective**, National University of Singapore, [(slides)]({{ '/downloads/AI-lecture-Hao-publish.pdf' | relative_url }})
 - 2025.6: [**Evaluations and Benchmarks in the Context of Multimodal LLM**](https://mllm2024.github.io/CVPR2025), [CVPR 2025](https://cvpr.thecvf.com/), Nashville TN, USA
 - 2024.10: [**From Multimodal LLM to Human-level AI: Architecture, Modality, Function, Instruction, Hallucination, Evaluation, Reasoning and Beyond**](https://mllm2024.github.io/ACM-MM2024/), [ACM MM 2024](https://2024.acmmm.org/), Melbourne, Australia
 - 2024.6: [**From Multimodal LLM to Human-level AI: Modality, Instruction, Reasoning and Beyond**](https://mllm2024.github.io/CVPR2024), [CVPR 2024](https://cvpr.thecvf.com/), Seattle WA, USA
 - 2024.5: [**From Multimodal LLM to Human-level AI: Modality, Instruction, Reasoning, Efficiency and Beyond**](https://mllm2024.github.io/COLING2024), [LREC-COLING 2024](https://lrec-coling-2024.org/), Torino, Italia
 - 2022.10: **Python Introduction and Preliminary for Research**, Wuhan University
-- 2020.4: **How to AI Research and Paper Writing for AI Beginner**, Wuhan University, [(slides)]({{ site.url }}{{ site.baseurl }}/downloads/AI-research-for-beginer.pdf)
+- 2020.4: **How to AI Research and Paper Writing for AI Beginner**, Wuhan University, [(slides)]({{ '/downloads/AI-research-for-beginer.pdf' | relative_url }})
 
  
 
@@ -101,7 +101,7 @@ permalink: /outputs
 
 ### Mentoring
 
-Those are the students I am currently collaborating with.
+Those are the students I am currently collaborating with:
 
   - [Jundong Xu](https://aiden0526.github.io/)
   - [Meng Luo](https://eurekaleo.github.io/)
@@ -110,13 +110,9 @@ Those are the students I am currently collaborating with.
   - [You Qin](https://42xingxing.github.io/)
   - [Minghui Guo](https://guominghui07.github.io/)
   - [Yanlin Li](https://liyanlin06.github.io/)
-  - [Li Zheng](https://zhengli-whu.github.io/)
   - [Yanguang Zhao](https://scholar.google.com/citations?user=22p-FwoAAAAJ&hl=en)
-  - [Lanhu Wu](https://lanhoong.github.io/)
   - [Pengxin Xu](#)
   - [Wenhao Xu](#)
   - [Kaiwen Zhang](#)
   - [Jing Wang](#)
-  - [Shengsheng Li](#)
-  - [Tianjie Ju](https://jometeorie.github.io/)
   - [Yiran Zhao](#)

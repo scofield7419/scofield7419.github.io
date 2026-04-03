@@ -1,0 +1,371 @@
+
+我们现在在Research2这个Page进行实验。
+具体，我有三个research子方向，以下我详细展示了每个研究方向的重点代表作系列（对于一个成功的researcher，用最好的方式展示出自己的signature research 是非常重要的）。
+
+
+当前，还是旧的版本，research的展示方式是 一条一条的通过纯文字的形式给出来，如图1所示。
+这可能是因为局限于Jekyll模板的展示方式（即 只能通过纯文本的方式展示），而不能定义复杂的图形样式。这种纯文字的方式，必然极大限制了其视觉appealing程度。
+所以，我现在打算重新给出我的research statement / big picture / research story
+
+
+现在，我打算将每个research子方向的每个具体的signature系列工作 单独用一个卡片的形式展示出来。如图2大致所示的样式，我希望每个系列工作都有一个卡片，展示：系列名称，简介，图片或动态视频 展示（点击卡片可以跳转到这个系列的专门sitepage）；具体若干的工作（对应的名称）
+
+每一行可以展示2个卡片，往下排列 逐次增加卡片和行数。
+
+并且我希望卡片的数据我可以像其他的Page一样 通过再_data里面的文件进行配置数据，即可控制卡片里面呈现的内容。
+
+
+请你帮我实现。（我不确定Jekyll是否可以修改 高度定制出来这样的样式？可能要结合_layout里面专门定义一些html片段出来）
+
+
+==================
+
+[帮我的research picture起一个Title]
+
+●主题核心claim：bridging physical world和mental world；AI individual不能过于机械地跟这个外部世界交互，而是应该能够像人一样，具有复杂且advanced心理感受和认知驱动的行为决策能力
+	○ physical world：世界感知（跨模态理解、推理、生成；统一通用基础模型；video/4D/spatiotemporal 理解&生成 ）
+	○ mental world：个人心智（情感、心智、认知、行为；social/群体智能）
+
+
+
+
+----------
+
+
+- Research 方向1： Large Multimodal Fundamental Model / Agentic System
+
+
+1.1 基本能力方面：【一些文字大致描述这个方向】
+Unified, Advanced的跨模态大模型、Agent system
+
+
+
+
+1.2 重点代表作、有影响力的工作 【每一个系列（比如Any-to-Any MLLM） 都有一个卡片 展示（该系列下面会有具体的几个工作名称，如下所列），点进去可以跳转到这个系列的专门的homepage去】
+
+● Any-to-Any MLLM [https://any2any-mllm.github.io/]
+	○ NExT-GPT、
+	○ NExT-GPT-v2
+	○ UniM: A2A Interleaved Benchmark
+	○ NExT-GPT-R1
+
+
+● Vision MLLM [xxx]
+	○Vitron, 
+	○Poly-V
+	○Vitron-v2
+	○Vitron-Edit
+
+
+● UniVA: Universal Video Agent [https://univa.online/]
+
+
+● On path to generalist 【考虑跟any2any merge?】, Hao & Who?
+	○General-Bench, General-Level
+	○Unifed-R1
+	○A Unified Generalist Survey/Book?
+	○Synergistic Generalist?
+	○Workshop/Special Issue
+
+
+----------
+
+- Research 方向2： Cross-model Comprehension, Reasoning and Generation
+
+
+2.1 基本能力方面：【一些文字大致描述这个方向】
+●多模态（文本、语音、图片、视频、3D、4D建模）理解、感知、复杂推理
+●多模态生成（图片、视频、JAV、3D、4D）
+这部分整体偏客观physical world的建模
+
+
+
+
+2.2 重点代表作、有影响力的工作 【follow 1.2的setup，展示卡片】
+
+
+● Javis [https://javisverse.github.io/]
+	○Javis-DiT
+	○Javis-DiT++
+	○Javis-GPT
+	○Javis-R1
+	○AV survey
+
+
+● Neuro-symbolic Reasoning [https://llm-symbol.github.io/]
+	○SymbolCoT
+	○Alristotle
+	○LogiCAM
+	○LogicReward
+	○Survey
+
+
+● Video Generation
+	○Any2Captio
+	○ReaDe
+	○Survey
+
+● 还有落单的、零散的、未成体系的Others
+	○Multimodal Reasoning：MCoT survey， VoT
+
+
+
+----------
+
+- Research 方向3： 认知、心智、情感、行为建模 【帮我draft一个合适的section name】
+
+3.1 基本能力方面：
+●认知，社会norm分析，认知驱动的行为
+●情感和共情能力
+●心智，ToM
+这部分整体偏mental world modeling：个人心智（情感、心智、认知、行为） 以及social/群体智能
+
+
+
+3.2 重点代表作、有影响力的工作 【follow 1.2的setup，展示卡片】
+
+
+●传统的跨模态情感, 理解vs生成 
+	○理解&推理：
+		■LEM
+		■Thor
+		■PanoSent
+	○理解vs生成 Survey，总结**多模态**情感
+
+
+●多模态共情生成
+	○ AvaMERG
+	○ ○Emotional 3D Avatar
+
+
+●心智驱动的情感计算
+	○ CogMEAC
+	○ Implicit Scene
+	○ ToM survey
+
+
+● 大型[认知、心智、行为、Social]建模&研究
+	○EpicSim [Nature]
+
+
+
+================================
+
+整体上，新的research statement给出的版本 还不错。
+但有的细节（主要是样式层面）还需要再打磨。
+
+我们一个个来吧。
+
+请参考图1中的样式，改变以下图2中的（新的research statement）header部分的样式、
+
+
+================================
+
+在这个Page的下面，加上一个note，说明：
+
+Previously, I invested on a slightly different research focus, [Multimodal Generalist towards Human-level Capacity and Cognition](/generalist).
+More 更远之前，我还 I paid my focus on [Structure-aware Intelligence Learning](/sail)
+
+格式模仿第二个截图的，需要有一个浅色分割线隔开。
+/sail 是可以访问的本homepage的二级域名location for [Structure-aware Intelligence Learning]
+/generalist 代表了前面版本的[Multimodal Generalist towards Human-level Capacity and Cognition]，即当前 /research 的二级域名。但是我现在希望将当前的换成research, 而不再是带着版本二 “research2”. 与此同时，将 前面的/research 改成 /generalist 。
+“/generalist” 这个不再维护一个显示的导航tab item （只保留当前的最新的research tab）. 
+
+
+
+================================
+
+
+My research interests lie in NLP, CV, and the intersection of both (i.e., Multimodal/Vision-Language Learning). 
+My long-term goal is to achieve human-level AI, with specific focus on building large foundation multimodal models and bridging physical and mental worlds.
+Know me via some latest representative works (see research statement):
+
+- Any-to-Any MLLM (NExT-GPT) series [https://any2any-mllm.github.io/]
+- Universal Video Agent (UniVA) series [https://univa.online/]
+- Vision Generalist series [xxx]
+- Towards Multimodal Generalist series [http://generalist.top/]
+- Joint Audio-Video (Javis) series [https://javisverse.github.io/]
+- Neuro-symbolic Logic Reasoning series [https://llm-symbol.github.io/]
+- Cognition-driven Affective Computing series [https://cogmaec.github.io/]
+
+
+Recently, I also extensively explore the AI for science, including 1) psychology & social norm studies, 2) bio-/medicine & healthcare & clinics, and 3) material science, by integrating the advanced LLM/agent methodologies.
+
+
+
+================================
+
+Project site page to build:
+
+	Unified Vision LLMs
+
+	Video Generation Lab
+	https://scene-graph.github.io/
+	Multimodal Information Extraction
+
+	Multimodal Affective Lab
+	https://cogmaec.github.io/
+	Multimodal Empathetic Generation
+	Mental World Modeling
+		MWM
+
+
+================================
+
+TODO：
+
+- 生成&补充proj site
+
+- 生成Cover图片，梳理重写描述词
+
+- 等以下工作release后，update到主页：
+	- JAV Survey
+	- JAV Workshop page
+
+
+================================
+
+A. 
+	1. Any-to-Any MLLMs, √ https://any2any-mllm.github.io/
+		NExT-GPT
+		UniM
+		A2A Workshop
+		--------
+		NExT-GPT-2 [岩霖ing]
+		NExT-GPT-R1 [岩霖 todo]
+
+
+	2. Unified Vision LLMs
+		Vitron
+		Poly-V
+		--------
+		Vitron-2 [明辉ing]
+		Vitron-Edit [王晶ing] [WSQ 通讯]
+
+
+	3. UniVA: Universal Video Agent
+		UniVA
+		--------
+		UniVA-2 [明辉ing]
+
+
+	4. Towards Multimodal Generalist
+		General-Level
+		Unifed-R1 (AD-Loop)
+		--------
+		Synergistic Generalist [?]
+		A Unified Generalist Survey/Book [?]
+
+
+	5. MLLM Tutorials
+
+
+B.
+
+	1. Javis, √ https://javisverse.github.io/
+		Javis-DiT
+		Javis-DiT++
+		Javis-GPT
+		JAV Survey [soon, 刘凯&覃游 写作ing] [chase!]
+		JAV Workshop
+		--------
+		Javis-R1 [覃游 ing] [chase!]
+		Lip-Sync [覃游 ing]
+
+	2. Neuro-symbolic Reasoning, √ https://llm-symbol.github.io/
+		SymbCoT
+		Aristotle
+		MuSLR
+		LogicReward
+		--------
+		Survey [俊东写作ing] [chase!]
+
+
+	3. Video Generation Lab
+		Any2Caption
+		ReaDe
+		VWG-Bench [罗盟投稿ing]
+		--------
+		Video-RAE[明辉ing] [WSQ 通讯]
+		Video Generation Survey  [罗盟写作ing] [chase!]
+
+
+
+	4. Multimodal Reasoning and Others
+		MCoT Survey
+		VoT
+
+
+	5. Scene Graph Structure Intelligence, https://scene-graph.github.io/
+		4D Scene Graph
+		Universal Scene Graph (USG)
+		Dysen-VDM
+		LayoutLLM-T2I
+		赵煜的3D-SG
+		Salad
+		Finsta
+		Awesome
+		SG Workshop
+		--------
+		Scene Graph Survey [胜琼写作] [chase!]
+
+
+	6. Information Extraction
+		LasUIE
+		MUIE
+		SpeechEE
+		XNLP demo
+		XLLM workshop
+		EE survey
+		SRL survey
+
+
+
+	×7. Hallucination
+		Dr.V
+		SG-Hall
+
+
+
+C.
+
+	1. Multimodal Affect Understanding and Reasoning
+		PanoSent
+		LEM
+		SyMux
+		--------
+		Multimodal Affect Survey
+
+
+	2. Multimodal Empathetic Generation
+		EmpathyEar demo
+		AvaMERG
+		Emotional 3D Avatar
+		--------
+		3D Avatar Empathetic Gen  [杨杰 ing]
+
+
+	3. Cognition-driven Affective Computing, https://cogmaec.github.io/
+		THOR
+		MoCA [文豪投稿ing] [chase!]
+		HitEmotion
+		CogMEAC Workshop
+		--------
+		CogAffec [李浩写作ing] [chase!]
+		CogAffec-Agent [李浩 todo] 
+
+
+	4. Mental World Modeling
+		--------
+		MWM theory [我一作;懿然写作 ing] [chase!]
+		MWM-model [懿然 todo]
+		ToM survey [懿然&李浩 todo]
+
+
+	5. Social and Behavioral Intelligence
+		EpicSim [Nature] [天杰&Yuhan ing] [chase!]
+		--------
+		虚假信息传播 [Nature] [波波 ing] [chase!]
+
+
+

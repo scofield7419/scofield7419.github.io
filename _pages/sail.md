@@ -41,7 +41,7 @@ Also human-level reasoning largely follows structural manner.
 
 
 <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/structure-examples.png" width="92%"/>
+  <img src="{{ '/images/respic/structure-examples.png' | relative_url }}" width="92%"/>
 </p>
 
 
@@ -72,7 +72,7 @@ To achieve the AGI goal via SAIL that aligns the most with human society, these 
 {: .text-justify}
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/research-sum2.png){: style="width: 100%; float: center; margin: 0px"}
+![]({{ '/images/respic/research-sum2.png' | relative_url }}){: style="width: 100%; float: center; margin: 0px"}
 
 
 
@@ -87,7 +87,7 @@ To achieve the AGI goal via SAIL that aligns the most with human society, these 
 ### Research Interests
 
 
-My research is sliced into the following blocks [\[View complete publications\]]({{ site.url }}{{ site.baseurl }}/publications):
+My research is sliced into the following blocks [\[View complete publications\]]({{ '/publications' | relative_url }}):
 
 
 
@@ -166,7 +166,6 @@ I've developed [**_XNLP_**](https://xnlp.haofei.vip/), an interactive demonstrat
   - Reasoning
   - Multimodal Agent
   - Embodied Intelligence
-
 
 
 

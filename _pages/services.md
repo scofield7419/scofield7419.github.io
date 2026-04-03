@@ -44,9 +44,9 @@ permalink: /services
 - ICML 2024 (AC), 2025 (AC), 2026 (AC)
 - CCL 2024 (AC)
 - NLPCC 2024 (AC)
-- NeurIPS 2024 (AC), 2025 (AC)
+- NeurIPS 2024 (AC), 2025 (AC), 2026 (AC)
 - NeurIPS (Data and Benchmark Track) 2025 (AC)
-- CIKM 2025 (SPC)
+- CIKM 2025 (SPC), 2026 (SPC)
 - AACL 2025 (SAC)
 
 
@@ -77,6 +77,7 @@ permalink: /services
 - ICCV 2025
 - COLM 2024, 2025
 - CIKM 2024
+- ECCV 2024, 2026
 - ICASSP 2025
 - ...
 

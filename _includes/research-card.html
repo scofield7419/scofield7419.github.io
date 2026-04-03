@@ -1,0 +1,95 @@
+{% assign card = include.card %}
+{% assign has_link = false %}
+{% if card.link and card.link != '#' %}
+  {% assign has_link = true %}
+{% endif %}
+{% assign is_external = false %}
+{% if has_link and card.link contains '://' %}
+  {% assign is_external = true %}
+{% endif %}
+{% assign media_src = card.media.src %}
+{% assign media_url = '' %}
+{% if media_src %}
+  {% if media_src contains '://' %}
+    {% assign media_url = media_src %}
+  {% else %}
+    {% assign media_url = media_src | relative_url %}
+  {% endif %}
+{% endif %}
+{% assign poster_src = card.media.poster %}
+{% assign poster_url = '' %}
+{% if poster_src %}
+  {% if poster_src contains '://' %}
+    {% assign poster_url = poster_src %}
+  {% else %}
+    {% assign poster_url = poster_src | relative_url %}
+  {% endif %}
+{% endif %}
+
+<div class="research2-card research2-card--static">
+  {% if has_link %}
+  <a class="research2-card-linkblock" href="{{ card.link }}"{% if is_external %} target="_blank" rel="noopener"{% endif %}>
+  {% endif %}
+    <div class="research2-card-media{% if card.media.fit %} research2-card-media--{{ card.media.fit }}{% endif %}{% if card.media.type == 'placeholder' %} research2-card-media--placeholder{% endif %}">
+      {% if card.media.type == 'video' and media_url != '' %}
+        <video autoplay muted loop playsinline preload="metadata"{% if poster_url != '' %} poster="{{ poster_url }}"{% endif %}>
+          <source src="{{ media_url }}">
+        </video>
+      {% elsif media_url != '' %}
+        <img src="{{ media_url }}" alt="{{ card.title }}">
+      {% else %}
+        <div class="research2-card-placeholder">
+          {% if card.label %}<span>{{ card.label }}</span>{% endif %}
+          <strong>{{ card.title }}</strong>
+          {% if card.media.note %}<em>{{ card.media.note }}</em>{% endif %}
+        </div>
+      {% endif %}
+    </div>
+    <div class="research2-card-body research2-card-body--linked">
+      <div class="research2-card-meta">
+        {% if card.label %}<span class="research2-card-label">{{ card.label }}</span>{% endif %}
+        {% if has_link %}<span class="research2-card-arrow">&#8599;</span>{% endif %}
+      </div>
+      <h3>{{ card.title }}</h3>
+    </div>
+  {% if has_link %}
+  </a>
+  {% endif %}
+  <div class="research2-card-body research2-card-body--content">
+    <p class="research2-card-description">{{ card.description }}</p>
+    {% if card.works %}
+      <ul class="research2-work-list">
+        {% for work in card.works %}
+          {% assign work_name = work %}
+          {% assign work_note = '' %}
+          {% assign work_link = '' %}
+          {% assign work_external = false %}
+          {% if work.name %}
+            {% assign work_name = work.name %}
+            {% assign work_note = work.note | default: '' %}
+            {% if work.link and work.link != '#' %}
+              {% assign work_link = work.link %}
+            {% elsif has_link %}
+              {% assign work_link = card.link %}
+            {% endif %}
+          {% elsif has_link %}
+            {% assign work_link = card.link %}
+          {% endif %}
+          {% if work_link != '' and work_link contains '://' %}
+            {% assign work_external = true %}
+          {% endif %}
+          <li class="research2-work-item">
+            {% if work_link != '' %}
+              <a class="research2-work-link" href="{{ work_link }}"{% if work_external %} target="_blank" rel="noopener"{% endif %}>{{ work_name }}</a>
+            {% else %}
+              <span class="research2-work-link research2-work-link--static">{{ work_name }}</span>
+            {% endif %}
+            {% if work_note != '' %}
+              <span class="research2-work-note">{{ work_note }}</span>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+</div>

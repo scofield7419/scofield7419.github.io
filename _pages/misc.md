@@ -67,7 +67,7 @@ Whenever communicating with people, my mind always follows tree-like Stack-based
 
 
 <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/top-down.png" width="55%"/>
+  <img src="{{ '/images/teampic/top-down.png' | relative_url }}" width="55%"/>
 </p>
 
 
@@ -81,4 +81,4 @@ Whenever communicating with people, my mind always follows tree-like Stack-based
        I enjoy the experience of embodying different personality roles when speaking different languages.
     - ii) making EDM music; where I have a particular fondness for genres such as Future Bass and Dubstep. 
        I use FL-Studio, Cubase and GarageBand. I exclusively follow [Vexento](https://www.youtube.com/@Vexento), [Marshmello](https://www.youtube.com/@marshmello) and [Slushii](https://www.youtube.com/@SlushiiMusic). 
-       See [my music playlist]({{ site.url }}{{ site.baseurl }}/music).
+       See [my music playlist]({{ '/music' | relative_url }}).

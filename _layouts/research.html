@@ -1,6 +1,72 @@
 ---
 layout: default
 ---
-<div id="research" class="col-sm-12">
-  {{ content }}
+{% assign research = site.data.research %}
+<div id="research2-story" class="col-sm-12">
+  <div class="research2-shell">
+    <section class="research2-hero">
+      <h1 class="research2-page-heading">{{ research.statement_heading | default: "Research Statement" }}</h1>
+      <h2 class="research2-title"><span>{{ research.title }}</span></h2>
+      <p class="research2-summary">
+        {{ research.summary }}
+        {% if research.claim %} {{ research.claim }}{% endif %}
+      </p>
+
+      <div class="research2-worlds-stack">
+        <div class="row research2-world-row">
+          {% for world in research.worlds %}
+            <div class="col-sm-6 research2-world-col">
+              <div class="research2-world-card">
+                <span class="research2-world-label">{{ world.label }}</span>
+                <h2>{{ world.title }}</h2>
+                <p>{{ world.description }}</p>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+
+        {% if research.foundation_bridge %}
+          <div class="research2-bridge-arrows" aria-hidden="true">
+            <span class="research2-bridge-arrow"></span>
+            <span class="research2-bridge-arrow"></span>
+          </div>
+          <div class="research2-bridge-card">
+            <span class="research2-world-label">{{ research.foundation_bridge.label }}</span>
+            <h2>{{ research.foundation_bridge.title }}</h2>
+            <p>{{ research.foundation_bridge.description }}</p>
+          </div>
+        {% endif %}
+      </div>
+    </section>
+
+    {% for direction in research.directions %}
+      <section class="research2-section" id="{{ direction.id }}">
+        <div class="research2-section-heading">
+          <div class="research2-section-heading-main">
+            <div class="research2-section-line">
+              <span class="research2-section-kicker"><span class="research2-section-kicker-text">{{ direction.kicker }}</span></span>
+              <span class="research2-section-separator">:</span>
+              <h2 class="research2-section-title"><span>{{ direction.title }}</span></h2>
+            </div>
+          </div>
+          <p class="research2-section-summary">{{ direction.summary }}</p>
+        </div>
+
+        <div class="row research2-card-grid">
+          {% for card in direction.cards %}
+            <div class="col-sm-6 research2-card-col">
+              {% include research-card.html card=card %}
+            </div>
+          {% endfor %}
+        </div>
+      </section>
+    {% endfor %}
+
+    {% assign page_content = content | strip %}
+    {% unless page_content == "" %}
+      <section class="research2-page-content">
+        {{ content }}
+      </section>
+    {% endunless %}
+  </div>
 </div>
