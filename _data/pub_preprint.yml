@@ -11,17 +11,6 @@
 
 
 
-- title: "Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding"
-  venue:
-    name: arXiv
-  year: 2025
-  authors: Meng Luo, Shengqiong Wu, Liqiang Jing, Tianjie Ju, Li Zheng, Jinxiang Lai, Tianlong Wu, Xinya Du, Jian Li, Siyuan Yan, Jiebo Luo, William Yang Wang, <strong>Hao Fei</strong>, Mong-Li Lee, Wynne Hsu
-  link:
-    paper: https://arxiv.org/abs/2509.11866
-    code: https://github.com/Eurekaleo/Dr.V
-
-
-
 - title: "Any2Caption: Interpreting Any Condition to Caption for Controllable Video Generation"
   venue:
     name: arXiv
@@ -40,36 +29,6 @@
   link:
     paper: https://arxiv.org/abs/2502.15153
     code: https://github.com/wbw625/MultiAgentRobustness
-
-
-
-- title: "Modeling Unified Semantic Discourse Structure for High-quality Headline Generation"
-  venue:
-    name: arXiv
-  year: 2024
-  authors: Minghui Xu, <strong>Hao Fei</strong>, Fei Li, Shengqiong Wu, Rui Sun, Chong Teng, Donghong Ji
-  link:
-    paper: https://arxiv.org/pdf/2403.15776
-
-
-
-- title: "ControlRetriever: Harnessing the Power of Instructions for Controllable Retrieval"
-  venue:
-    name: arXiv
-  year: 2023
-  authors: Kaihang Pan, Juncheng Li, Hongye Song, <strong>Hao Fei</strong>, Wei Ji, Shuo Zhang, Jun Lin, Xiaozhong Liu, Siliang Tang
-  link:
-    paper: https://arxiv.org/pdf/2308.10025
-
-
-
-- title: "Subband-based Generative Adversarial Network for Non-parallel Many-to-many Voice Conversion"
-  venue:
-    name: arXiv
-  year: 2022
-  authors: Jian Ma, Zhedong Zheng, <strong>Hao Fei</strong>, Feng Zheng, Tat-seng Chua, Yi Yang
-  link:
-    paper: https://arxiv.org/pdf/2207.06057.pdf
 
 
 
