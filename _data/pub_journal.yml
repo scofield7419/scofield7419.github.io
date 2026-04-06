@@ -1,4 +1,15 @@
 
+- title: "Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding"
+  venue:
+    full: International Journal of Computer Vision
+    short: IJCV
+  year: 2026
+  authors: Meng Luo, Shengqiong Wu, Liqiang Jing, Tianjie Ju, Li Zheng, Jinxiang Lai, Tianlong Wu, Xinya Du, Jian Li, Siyuan Yan, Jiebo Luo, William Yang Wang, <strong>Hao Fei<sup>*</sup></strong>, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: https://arxiv.org/abs/2509.11866
+    code: https://github.com/Eurekaleo/Dr.V
+
+
 - title: "Evaluating and Mitigating Relationship Hallucinations in Large Vision-Language Models"
   venue:
     full: IEEE Transactions on Pattern Analysis and Machine Intelligence
@@ -7,7 +18,6 @@
   authors: Mingrui Wu, Jiale Li, Jiayi Ji, <strong>Hao Fei</strong>, Xiaoshuai Sun, Rongrong Ji
   link:
     paper: https://ieeexplore.ieee.org/abstract/document/#
-
 
 
 - title: "Grounding is All You Need? Dual Temporal Grounding for Video Dialog"
