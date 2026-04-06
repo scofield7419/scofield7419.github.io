@@ -47,7 +47,7 @@ permalink: /
 
 
 ### Profile
-I am a senior postdoctoral researcher at the CS department and the Big Data Institute in the University of Oxford, working with Prof. [Yarin Gal](https://www.cs.ox.ac.uk/people/yarin.gal/website/).
+I am a senior postdoctoral researcher at the CS department and the Big Data Institute in the University of Oxford, working with Prof. [Yarin Gal](https://www.cs.ox.ac.uk/people/yarin.gal/website/) and other CeBAM PIs.
 Previously, I was a senior research fellow at National University of Singapore, where I worked with Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/), Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/), Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) and Prof. [Shuicheng Yan](https://yanshuicheng.info/).
 I also worked as a visiting researcher at Microsoft Research Asia, an associate researcher at Skywork AI Singapore, and SEA AI lab, respectively.
 I graduated as Ph.D from Wuhan University.
