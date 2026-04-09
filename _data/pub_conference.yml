@@ -1,5 +1,18 @@
 
 
+- title: "SAMTok: Representing Any Mask with Two Words"
+  venue:
+    name: CVPR
+    note: Hiighlit
+  year: 2026
+  authors: Yikang Zhou, Tao Zhang, Dengxian Gong, Yuanzheng Wu, Ye Tian, Haochen Wang, Haobo Yuan, Jiacong Wang, Lu Qi, <strong>Hao Fei</strong>, Anran Wang, Zhuochen Wang, Yujing Wang, Cheng Chen, Shunping Ji, Xiangtai Li
+  highlight: Highlight
+  link:
+    paper: https://arxiv.org/abs/2601.16093
+    code: https://zhouyiks.github.io/projects/SAMTok/
+
+
+
 - title: "Modeling Cross-vision Synergy for Unified Large Vision Model"
   venue:
     name: CVPR
@@ -22,7 +35,8 @@
 
 - title: "SCP: Spatial Causal Prediction in Video"
   venue:
-    name: CVPR (Findings)
+    name: CVPR
+    note: Findings
   year: 2026
   authors: Yanguang Zhao, Jie Yang, Shengqiong Wu, Shutong Hu, Hongbo Qiu, Yu Wang, Guijia Zhang, Tan Kai Ze, <strong>Hao Fei</strong>, Chia-Wen Lin, Mong-Li Lee, Wynne Hsu
   link:
