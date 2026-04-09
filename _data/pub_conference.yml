@@ -1,5 +1,25 @@
 
 
+- title: "Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment"
+  venue:
+    name: ACL
+  year: 2026
+  authors: Bobo Li, Wu Rui, Zibo Ji, Meishan Zhang, <strong>Hao Fei<sup>*</sup></strong>, Min Zhang, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: #
+    code: #
+
+
+- title: "Dynamic Emotion and Personality Profiling for Multimodal Deception Detection"
+  venue:
+    name: ACL
+  year: 2026
+  authors: Li Zheng, Yanyi Luo, <strong>Hao Fei</strong>, Yuzhe Ding, Yujie Huang, Fei Li, Chong Teng, Donghong Ji
+  link:
+    paper: #
+    code: #
+	
+
 - title: "SAMTok: Representing Any Mask with Two Words"
   venue:
     name: CVPR
