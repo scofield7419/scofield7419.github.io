@@ -2,18 +2,14 @@
 - date: 7 April 2026
   headline: "Two papers are accepted by ACL 2026, about 1) [**Multi-agent Reasoning**](#) and 2) [**Multimodal Deception Detection**](#). Congrats to all my co-authors!"
 
-
 - date: 27 Mar 2026
   headline: "One paper about [**Video Hallucination (Dr.V)**](https://arxiv.org/abs/2509.11866) is accepted by International Journal of Computer Vision (IJCV)!"
-
 
 - date: 21 Feb 2026
   headline: "Four papers are accepted by CVPR 2026, 1) [**SAMTok**](https://zhouyiks.github.io/projects/SAMTok/), 2) [**Unified Large Vision Model++**](https://arxiv.org/abs/2603.03564), 3) [**Any-to-Any Multimodal Benchmark**](https://any2any-mllm.github.io/unim/) and 4) [**Spatial Causal Reasoning**](https://guangstrip.github.io/SCP-Bench/). Congrats to all my co-authors!"
 
-
 - date: 26 Jan 2026
   headline: "Five papers are accepted by ICLR 2026, 1) [**JavisDiT++**](https://javisverse.github.io/JavisDiT2-page/), 2) [**JavisDiT**](https://javisverse.github.io/JavisDiT-page/), 3) [**LogicReward**](https://llm-symbol.github.io/LogicReward/) 4) [**Interleaved Reasoning**](#) and 5) [**Cognitive Emotion Reasoning**](https://hitemotion.github.io/). Congrats to all my co-authors!"
-
 
 - date: 14 Nov 2025
   headline: "We are thrilled to release [**UniVA: Universal Video Agent**](https://univa.online/) — an open-source next-generation video generalist! UniVA features:   **1) 🤖 Unified Agentic System:** an one-stop, omnipotent, highly automated, interactive, interactive and proactive video creation station, with deep memory and planner–executor synergy.    **2) 🎬 Powerful Creation:** MCP-native modular system covering understanding, editing, tracking, and any-conditioned video generation with industrial-grade cinematic quality.  Try the [**online demo**](https://univa.online/) now! Check the [**paper**](https://arxiv.org/abs/2511.08521)."
