@@ -43,7 +43,7 @@
 
 - title: "STPar: A Structure-Aware Triaffine Parser for Screenplay Character Coreference Resolution"
   venue:
-    full: Transactions of the Association for Computational Linguistics (TACL)
+    full: Transactions of the Association for Computational Linguistics
     short: TACL
   year: 2025
   authors: Li Zheng, <strong>Hao Fei</strong>, Lei Chen, Bobo Li, Fei Li, Chong Teng, Liang Zhao, Donghong Ji
