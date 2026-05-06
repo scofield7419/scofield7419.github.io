@@ -129,7 +129,7 @@ directions:
             link: https://javisverse.github.io/Workshop-MM26/
             note: "The 1st workshop on Joint audio-video comprehension and generation."
           - name: JAV Survey
-            link: https://javisverse.github.io/Awesome-AVI
+            link: https://github.com/JavisVerse/Awesome-AVI
             note: "A survey-level synthesis of audio-video foundation modeling and generation."
       - title: Video Generation Lab
         label: Generation
