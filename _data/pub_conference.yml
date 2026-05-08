@@ -49,6 +49,16 @@
     code: #
 
 
+- title: "GraphiContact: Pose-aware Human-Scene Robust Contact Perception for Interactive Systems"
+  venue:
+    name: ICME
+  year: 2026
+  authors: Xiaojian Lin, Yaomin Shen, Junyuan Ma, Yujie Sun, Chengqing Bu, Wenxin Zhang, Zongzheng Zhang, <strong>Hao Fei</strong>, Lei Jin, Hao Zhao
+  link:
+    paper: #
+    code: #
+
+
 - title: "SAMTok: Representing Any Mask with Two Words"
   venue:
     name: CVPR
