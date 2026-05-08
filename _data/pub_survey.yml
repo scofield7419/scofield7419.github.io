@@ -1,4 +1,14 @@
 
+- title: "Audio-Visual Intelligence in Large Foundation Models: A Comprehensive Survey"
+  venue:
+    name: arXiv
+  year: 2026
+  authors: You Qin, Kai Liu, Shengqiong Wu, Kai Wang, Shijian Deng, Yapeng Tian, Junbin Xiao, Yazhou Xing, Yinghao Ma, Bobo Li, Roger Zimmermann, Lei Cui, Furu Wei, Jiebo Luo, <strong>Hao Fei<sup>*</sup></strong>
+  link:
+    paper: https://arxiv.org/abs/2605.04045
+    code: https://github.com/JavisVerse/Awesome-AVI
+
+
 - title: "Event Extraction in Large Language Model: A Holistic Survey of Method, Modality, and Future"
   venue:
     name: arXiv
