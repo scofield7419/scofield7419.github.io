@@ -1,5 +1,34 @@
 
 
+- title: "Towards One-to-Many Temporal Grounding"
+  venue:
+    name: ICML
+  year: 2026
+  authors: Qi Xu, Tan Yue, Shihao Chen, Jiahao Meng, Anran Wang, Shunping Ji, <strong>Hao Fei</strong>, Xiangtai Li
+  link:
+    paper: #
+    code: #
+
+
+- title: "AVI-Bench: Toward Human-like Audio-Visual Intelligence of Omni-MLLMs"
+  venue:
+    name: ICML
+  year: 2026
+  authors: Yaoting Wang, Ziyi Zhang, Wenming Tu, Shaoxuan Xu, Wenjie Du, Cheng Liang, Weijun Wang, Yuanchao Li, Guangyao Li, <strong>Hao Fei</strong>, Yuanchun Li, Henghui Ding, Yunxin Liu
+  link:
+    paper: #
+    code: #
+
+
+- title: "RADAR: Redundancy-Aware Diffusion for Multi-Agent Communication Structure Generation"
+  venue:
+    name: ICML
+  year: 2026
+  authors: Zhen Zhang, Wanjing Zhou, Juncheng Li, <strong>Hao Fei</strong>, Jun Wen, Wei Ji
+  link:
+    paper: #
+    code: #
+
 - title: "Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment"
   venue:
     name: ACL
