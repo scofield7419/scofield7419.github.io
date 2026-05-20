@@ -103,6 +103,7 @@ permalink: /outputs
 
 Those are the students I am currently collaborating with:
 
+  - [Utkarsh Gupta](https://sites.google.com/view/utkarshgupta1496/home)
   - [Jundong Xu](https://aiden0526.github.io/)
   - [Meng Luo](https://eurekaleo.github.io/)
   - [Hao Li](#)
