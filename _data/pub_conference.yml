@@ -561,7 +561,7 @@ Joint Audio-Video Generation"
     paper: https://arxiv.org/abs/2412.19806
     code: https://vitron-llm.github.io/
   promote:
-    name: 新智元
+    name: Media-Ad
     link: https://mp.weixin.qq.com/s/ef3GMQavH_K9iarSdwoxog
 
 
@@ -812,7 +812,7 @@ Joint Audio-Video Generation"
     paper: http://haofei.vip/downloads/papers/VoT_2024.pdf
     code: http://haofei.vip/VoT/
   promote:
-    name: 机器之心
+    name: Media-Ad
     link: https://mp.weixin.qq.com/s/K5qqCj-g7FpXPM3AGewgYg
 
 
@@ -826,7 +826,7 @@ Joint Audio-Video Generation"
     paper: https://arxiv.org/pdf/2309.05519
     code: https://next-gpt.github.io/
   promote:
-    name: 新智元
+    name: Media-Ad
     link: https://mp.weixin.qq.com/s/rE24QWdOFlYhMk7v3tv-fg
 
 
@@ -887,7 +887,7 @@ Joint Audio-Video Generation"
     paper: https://arxiv.org/pdf/2308.13812.pdf
     code: https://haofei.vip/Dysen-VDM/
   promote:
-    name: PaperWeekly
+    name: Media-Ad
     link: https://mp.weixin.qq.com/s/dmCcSesfsy1UGBy9mHXr9A
 
 
@@ -976,7 +976,7 @@ Joint Audio-Video Generation"
     paper: https://arxiv.org/pdf/2305.01278.pdf
     code: https://vpgtrans.github.io/
   promote:
-    name: 新智元
+    name: Media-Ad
     link: https://mp.weixin.qq.com/s/7Pf1PCZKdpyWOLdUyBH-Bw
 
 
@@ -1042,7 +1042,7 @@ Joint Audio-Video Generation"
     paper: https://arxiv.org/pdf/2205.10346.pdf
     code: https://github.com/scofield7419/THOR-ISA
   promote:
-    name: Paperweakly
+    name: Media-Ad
     link: https://mp.weixin.qq.com/s/IwWHK5heDEG2blMVoDhVdw
 
 - title: "Scene Graph as Pivoting: Inference-time Image-free Unsupervised Multimodal Machine Translation with Visual Scene Hallucination"
@@ -1094,7 +1094,7 @@ Joint Audio-Video Generation"
     paper: https://arxiv.org/pdf/2305.11768.pdf
     code: https://github.com/zhaoyucs/VSD
   promote:
-    name: Paperweakly
+    name: Media-Ad
     link: https://mp.weixin.qq.com/s/cGtE_ouAC67sutj7ekuN8w
 
 
@@ -1108,7 +1108,7 @@ Joint Audio-Video Generation"
     paper: https://arxiv.org/pdf/2211.05705.pdf
     code: https://github.com/unikcc/DiaASQ
   promote:
-    name: Paperweakly
+    name: Media-Ad
     link: https://mp.weixin.qq.com/s/Fxf_9X72K5v-JgMzGpw7rA
 
 
@@ -1157,7 +1157,7 @@ Joint Audio-Video Generation"
     paper: https://arxiv.org/pdf/2112.10070.pdf
     code: https://github.com/ljynlp/W2NER
   promote:
-    name: Paperweekly
+    name: Media-Ad
     link: https://mp.weixin.qq.com/s/CAcuYe2s_Yag4Xg8POIEvA
 
 
@@ -1182,7 +1182,7 @@ Joint Audio-Video Generation"
     paper: https://dl.acm.org/doi/abs/10.1145/3477495.3532029
     code: https://github.com/scofield7419/DualFGSC-SG
   promote:
-    name: 情感计算
+    name: Media-Ad
     link: https://mp.weixin.qq.com/s/Tw7T7SbPPOG7RlDxqEpbkA
 
 
@@ -1391,7 +1391,7 @@ Joint Audio-Video Generation"
     paper: https://aclanthology.org/2020.acl-main.627.pdf
     code: https://github.com/scofield7419/XSRL-ACL
   promote:
-    name: 社媒派SMP
+    name: Media-Ad
     link: https://mp.weixin.qq.com/s/T-FBWJMPZWo03SxUrTvJUw
 
 
