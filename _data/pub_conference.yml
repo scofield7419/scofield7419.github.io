@@ -219,6 +219,16 @@ Joint Audio-Video Generation"
 
 
 
+- title: "InTriage: Intelligent Telephone Triage in Pre-Hospital Emergency Care"
+  venue:
+    name: EMNLP
+    note: Demo
+  year: 2024
+  authors: Kai He, Qika Lin, <strong>Hao Fei</strong>, Eng Siong Chng, Dehan Hong, Marcus Eng Hock Ong, Mengling Feng
+  link:
+    paper: https://aclanthology.org/2025.emnlp-demos.67/
+
+
 
 
 - title: "When Words Smile: Generating Diverse Emotional Facial Expressions from Text"
