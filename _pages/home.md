@@ -54,16 +54,14 @@ I graduated as Ph.D from Wuhan University.
 {: .text-justify}
 
 
-My research has been published in top-tier ML/NLP/CV/MM venues, e.g., ICML, NeurIPS, ACL, CVPR, AAAI, WWW, SIGIR, IJCAI, EMNLP, ACM-MM, TPAMI, TKDE, TOIS, TNNLS, TASLP. 
+My research has been published in top-tier ML/NLP/CV/MM venues, e.g., ICML, NeurIPS, ICLR, ACL, CVPR, ACM-MM, AAAI, WWW, SIGIR, EMNLP, TPAMI, IJCV, TMM, TKDE, TOIS, TNNLS, TASLP. 
+My papers were selected as Most Influential Papers by Paper Digest, and ESI Highly Influential Papers, 2024 WAIC Outstanding Paper Award and also several Best Papers (Nominations as well) on some venues.
 I was awarded the World AI Conference Rising Star in 2023. 
-My papers were selected as Most Influential Papers by Paper Digest, and ESI Highly Influential Papers and 2024 WAIC Outstanding Paper Award.
 I was also the recipient of the 2023 WAIC Rising Star award, and ranked as Top 2% Scientists Worldwide 2024&2025 by Stanford University.
 I've regularly served as (Senior) Area Chair or Senior Program Committee of top-tier conferences.
 I was the organization committee of conferences, WSDM, EMNLP, ACL, ACM MM, etc. 
-I serve as the Associate Editor of some journals, including TALLIP and Neurocomputing.
-And I am a persistently-invited reviewer for many journals including TPAMI, IJCV, TNNLS, TKDE, TOIS, etc. 
+I serve as the Associate Editor of some journals, e.g., IEEE TAFFC, IEEE TASLP, ACM TALLIP, Neurocomputing.
 My Ph.D thesis was awarded the Excellent Doctoral Thesis of Chinese Information Processing Society (CIPS). 
-I won more than ten honors and awards during Ph.D stage. 
 {: .text-justify}
 
 
@@ -101,6 +99,6 @@ Recently, I also extensively explore the AI for science, including 1) psychology
 Remote manner is also supported.
 For promising students I will provide sufficient GPUs.
 Hit me up, if you are a Ph.D/master/bachelor student and interested in what I am doing now (with potential vacancies for research interns/RAs/visiting).
-For students from University of Oxford, I'm particularly looking for collaborations on **world modeling + AI scientist**.
+For students from University of Oxford, I'm particularly looking for collaborations on **world modeling** and **AI scientist**.
 Please describe your research status and attach your resume & statement.
 {: .text-justify}
