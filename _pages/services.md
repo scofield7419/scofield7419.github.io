@@ -88,7 +88,7 @@ permalink: /services
 
 ### Journal Editorial Board
 
-- Guest Editor, at [International Journal of Computer Vision (IJCV)](https://link.springer.com/journal/11263), on a special issue of [Multimodal Large Language Models for Unified Comprehension and Generation (MUCG)](#)
+- Guest Editor, at [International Journal of Computer Vision (IJCV)](https://link.springer.com/journal/11263), on a special issue of [Multimodal Large Language Models for Unified Comprehension and Generation (MUCG)](https://mllm-mucg.github.io/IJCV2026-SI/)
 - Associate Editor, [IEEE Transactions on Affective Computing (TAFFC)](https://www.computer.org/csdl/journal/ta)
 - Associate Editor, [IEEE Transactions on Audio, Speech and Language Processing (TASLP)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-audio-speech-and-language-processing)
 - Guest Editor, at [ACM Transactions on Multimedia Computing, Communications, and Applications (ToMM)](https://dl.acm.org/journal/tomm), on a special issue of [Deep Multimodal Generation and Retrieval](https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM-SI_ToMM_MMGR-1708635711467.pdf)
