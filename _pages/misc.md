@@ -54,31 +54,14 @@ permalink: /misc
 <div style="margin-top: 30px"></div>
 
 
-### About Me
-
-- Thinking
-  - I am INTJ. I am living with the Structured Thinking mode and logic.
-I advocate problem-solving with a [`Top-Down`](https://www.daryllscott.com/discovery-vs-data) (from-top-to-bottom) manner.
-Whenever communicating with people, my mind always follows tree-like Stack-based Depth-first Traversal.
-  - Whenever coming to producing or outputting, I am accustomed to a smooth, fluent, and coherent thought process. Additionally, I excel at detecting instances of cognitive leaps in others' thinking.
-  Thus, I am good at bridging gaps.
-  - I am highly sensitive to subtle details, emotions, and relationships, which makes me very meticulous about details. I am also an extremely enthusiastic organizer and have a penchant for categorizing and arranging things.
-  - I kinda enjoy being alone. I often do meditation. For years, I am keeping searching for my [`Inner Peace`](https://en.wikipedia.org/wiki/Inner_peace).
-
+### Thinking Mode
+- I am living with a higly structural thinking mode and logic, with a [`Top-Down`](https://www.daryllscott.com/discovery-vs-data) (from-top-to-bottom) mind, and tree-like Stack-based Depth-first Traversal.
+- I am an extremely enthusiastic organizer and enjoy categorizing and arranging things.
+- I am introverted and susceptible to environments and crowds. I prefer Work From Home, always.
+- I am highly sensitive to subtle details, emotions, and relations.
 
 <p align="center">
   <img src="{{ '/images/teampic/top-down.png' | relative_url }}" width="55%"/>
 </p>
 
 
-- Skills
-  - I speak Mandarin (Native), English, Cantonese.
-  - I use many programming languages (Python, Java, C/C++, HTML, etc.).
-    I wrote web system (Java/Python/PHP/Node.js), Windows (C#/QT), Android (Java), iOS (Objective-C/Swift), 3D system (Unity3D), Linux&Chrome plugins (Bash/JS).
-  - I always have passions for hardware programming (STM32, ARM, Arduino, Raspberry Pi), which I learned during my B.E.
-  - Whenever I am not thinking about research, I will pick up my interests:
-    - i) learning various natural language, e.g., French, Spanish, German, Italian, Japanese, Korean.
-       I enjoy the experience of embodying different personality roles when speaking different languages.
-    - ii) making EDM music; where I have a particular fondness for genres such as Future Bass and Dubstep. 
-       I use FL-Studio, Cubase and GarageBand. I exclusively follow [Vexento](https://www.youtube.com/@Vexento), [Marshmello](https://www.youtube.com/@marshmello) and [Slushii](https://www.youtube.com/@SlushiiMusic). 
-       See [my music playlist]({{ '/music' | relative_url }}).
