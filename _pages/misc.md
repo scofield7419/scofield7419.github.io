@@ -57,7 +57,6 @@ permalink: /misc
 ### Thinking Mode
 - I am living with a higly structural thinking mode and logic, with a [`Top-Down`](https://www.daryllscott.com/discovery-vs-data) (from-top-to-bottom) mind, and tree-like Stack-based Depth-first Traversal.
 - I am an extremely enthusiastic organizer and enjoy categorizing and arranging things.
-- I am introverted and susceptible to environments and crowds. I prefer Work From Home, always.
 - I am highly sensitive to subtle details, emotions, and relations.
 
 <p align="center">
