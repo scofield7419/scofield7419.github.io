@@ -97,25 +97,3 @@ permalink: /outputs
 
 
 
-
-<div style="margin-top: 30px"></div>
-
-
-### Mentoring
-
-Those are the students I am currently collaborating with:
-
-  - [Utkarsh Gupta](https://sites.google.com/view/utkarshgupta1496/home)
-  - [Jundong Xu](https://aiden0526.github.io/)
-  - [Meng Luo](https://eurekaleo.github.io/)
-  - [Hao Li](#)
-  - [Zongru Wu](https://zrw00.github.io/)
-  - [You Qin](https://42xingxing.github.io/)
-  - [Minghui Guo](https://guominghui07.github.io/)
-  - [Yanlin Li](https://liyanlin06.github.io/)
-  - [Yanguang Zhao](https://scholar.google.com/citations?user=22p-FwoAAAAJ&hl=en)
-  - [Pengxin Xu](#)
-  - [Wenhao Xu](#)
-  - [Kaiwen Zhang](#)
-  - [Jing Wang](#)
-  - [Yiran Zhao](#)
