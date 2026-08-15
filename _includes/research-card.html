@@ -87,6 +87,17 @@
             {% if work_note != '' %}
               <span class="research2-work-note">{{ work_note }}</span>
             {% endif %}
+            {% if work.resources %}
+              <span class="research2-work-resources">
+                {% for resource in work.resources %}
+                  {% assign resource_external = false %}
+                  {% if resource.link contains '://' %}
+                    {% assign resource_external = true %}
+                  {% endif %}
+                  <a class="research2-work-resource" href="{{ resource.link }}"{% if resource_external %} target="_blank" rel="noopener"{% endif %}>{{ resource.name }}</a>{% unless forloop.last %}<span class="research2-work-resource-separator">&middot;</span>{% endunless %}
+                {% endfor %}
+              </span>
+            {% endif %}
           </li>
         {% endfor %}
       </ul>

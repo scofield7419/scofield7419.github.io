@@ -131,21 +131,6 @@ directions:
           - name: JAV Survey
             link: https://github.com/JavisVerse/Awesome-AVI
             note: "A survey-level synthesis of audio-video foundation modeling and generation."
-      - title: Video Generation Lab
-        label: Generation
-        link: https://vid-gen.github.io
-        description: "Video generation research embedding multimodal intent, causal reasoning, and physics for high-quality, faithful, physically consistent synthesis."
-        media:
-          type: image
-          src: /images/projpic/vid-gen/vid-gen2.png
-          fit: cover
-        works:
-          - name: Any2Caption
-            link: https://sqwu.top/Any2Cap/
-            note: "Dense captioning and interpretation for any-conditioned video generation."
-          - name: ReaDe
-            link: https://sqwu.top/ReaDe/
-            note: "A generation line focused on richer control and reasoning in video synthesis."
       - title: Scene Graph Structure Modeling
         label: Comprehension & Generation
         link: https://scene-graph.github.io/
@@ -173,42 +158,6 @@ directions:
           - name: Scene Graph Survey
             link: https://github.com/ChocoWu/Awesome-Scene-Graph-Generation
             note: "A comprehensive review of Scene Graph for Structured Intelligence."
-      - title: Multimodal Reasoning
-        label: Reasoning
-        link: #
-        description: "Line of work around multimodal chain-of-thought reasoning and other projects that connect perception with higher-level cognition."
-        media:
-          type: image
-          src: /images/projpic/mm-reason/mm-reason2.png
-          fit: cover
-        works:
-          - name: Video-of-Thought
-            link: https://haofei.vip/VoT/
-            note: "A video reasoning framework that extends chain-of-thought into temporal visual space."
-          - name: MCoT Survey
-            link: https://github.com/yaotingwangofficial/Awesome-MCoT
-            note: "A systematic survey of multimodal chain-of-thought reasoning."
-      - title: Neuro-symbolic Reasoning
-        label: Reasoning
-        link: https://llm-symbol.github.io/
-        description: "Symbolic structures and logic guide LLM reasoning toward more faithful, controllable, and interpretable decision processes."
-        media:
-          type: image
-          src: /images/projpic/llm-symbol/neuro-symb2.png
-          fit: cover
-        works:
-          - name: SymbCoT
-            link: https://llm-symbol.github.io/SymbCoT/
-            note: "Faithful logical reasoning via symbolic chain-of-thought."
-          - name: Aristotle
-            link: https://llm-symbol.github.io/Aristotle/
-            note: "Logic-complete decompose-search-resolve reasoning for complex problems."
-          - name: MuSLR
-            link: https://llm-symbol.github.io/MuSLR/
-            note: "A structured framework for more controllable and interpretable logical reasoning."
-          - name: LogicReward
-            link: https://llm-symbol.github.io/LogicReward/
-            note: "Reward-driven optimization for stronger logical consistency in LLM reasoning."
       - title: Unified Multimodal Information Extraction
         label: Information Extraction
         link: https://uni-ie.github.io
@@ -239,6 +188,86 @@ directions:
           - name: SRL Survey
             link: https://github.com/DreamH1gh/Awesome-SRL
             note: "Semantic Role Labeling: A Systematical Survey."
+      - title: Multimodal Reasoning
+        label: Reasoning
+        link: #
+        description: "Line of work around multimodal chain-of-thought reasoning and other projects that connect perception with higher-level cognition."
+        media:
+          type: image
+          src: /images/projpic/mm-reason/mm-reason2.png
+          fit: cover
+        works:
+          - name: Video-of-Thought
+            link: https://haofei.vip/VoT/
+            note: "A video reasoning framework that extends chain-of-thought into temporal visual space."
+          - name: MCoT Survey
+            link: https://github.com/yaotingwangofficial/Awesome-MCoT
+            note: "A systematic survey of multimodal chain-of-thought reasoning."
+      - title: Video Generation Lab
+        label: Generation
+        link: https://vid-gen.github.io
+        description: "Video generation research embedding multimodal intent, causal reasoning, and physics for high-quality, faithful, physically consistent synthesis."
+        media:
+          type: image
+          src: /images/projpic/vid-gen/vid-gen2.png
+          fit: cover
+        works:
+          - name: Any2Caption
+            link: https://sqwu.top/Any2Cap/
+            note: "Dense captioning and interpretation for any-conditioned video generation."
+          - name: ReaDe
+            link: https://sqwu.top/ReaDe/
+            note: "A generation line focused on richer control and reasoning in video synthesis."
+          - name: V-RAE
+            link: https://v-rae.github.io/
+            note: "A video autoencoder that constructs generative latent spaces directly from frozen visual representations."
+            # resources:
+            #   - name: Project Page
+            #     link: https://v-rae.github.io/
+            #   - name: Paper
+            #     link: https://arxiv.org/abs/2608.13556
+            #   - name: Code
+            #     link: https://github.com/V-RAE/V-RAE
+      - title: Neuro-symbolic Reasoning
+        label: Reasoning
+        link: https://llm-symbol.github.io/
+        description: "Symbolic structures and logic guide LLM reasoning toward more faithful, controllable, and interpretable decision processes."
+        media:
+          type: image
+          src: /images/projpic/llm-symbol/neuro-symb2.png
+          fit: cover
+        works:
+          - name: SymbCoT
+            link: https://llm-symbol.github.io/SymbCoT/
+            note: "Faithful logical reasoning via symbolic chain-of-thought."
+          - name: Aristotle
+            link: https://llm-symbol.github.io/Aristotle/
+            note: "Logic-complete decompose-search-resolve reasoning for complex problems."
+          - name: MuSLR
+            link: https://llm-symbol.github.io/MuSLR/
+            note: "A structured framework for more controllable and interpretable logical reasoning."
+          - name: LogicReward
+            link: https://llm-symbol.github.io/LogicReward/
+            note: "Reward-driven optimization for stronger logical consistency in LLM reasoning."
+      - title: AI Scientist & AI for Science
+        label: AI for Science
+        link: https://omni-scientist.github.io/
+        description: "AI Scientist and AI-for-Science systems that integrate multimodal understanding, reasoning, experimentation, and discovery across disciplines including bioinformatics, chemistry, materials science, and beyond."
+        media:
+          type: image
+          src: /images/projpic/omni-scientist/OmniScientist-fig.png
+          fit: cover
+        works:
+          - name: OmniScientist
+            link: https://omni-scientist.github.io/
+            note: "The first Omni-Modal Omni-Discipline AI Scientist for end-to-end system spanning scientific ideation, experimentation, analysis, and writing."
+            # resources:
+              # - name: Demo Page
+              #   link: https://omni-scientist.github.io/
+              # - name: Paper
+              #   link: https://arxiv.org/abs/2608.13558
+              # - name: Code
+              #   link: https://omni-scientist.github.io/
   - id: mental-world-modeling
     kicker: Direction 3
     world: Mental World
@@ -271,12 +300,23 @@ directions:
             note: "Emotion-aware avatar generation for expressive multimodal interaction."
       - title: Mental World Modeling
         label: Cognition
-        link: #
-        description: "Mental world modeling integrates physical dynamics and human cognitive-social states for comprehensive, interactive intelligence modeling."
+        link: https://mental-world.github.io/
+        description: "Mental world modeling studies how intelligent systems represent, reason about, and predict latent cognitive, affective, intentional, behavioral, and social states beyond observable physical dynamics."
         media:
-          type: placeholder
-          note: Under Progressing
+          type: image
+          src: /images/projpic/mwm/MWM-fig.png
+          fit: cover
         works:
+          - name: Mental World Modeling (MWM)
+            link: https://mental-world.github.io/
+            note: "The first theoretical framework for explicitly modeling the mental world beyond conventional physical world modeling."
+            # resources:
+            #   - name: Demo Page
+            #     link: https://mental-world.github.io/
+            #   - name: Paper
+            #     link: https://arxiv.org/abs/2607.27201
+            #   - name: Code
+            #     link: https://github.com/mental-world/Mentis
       - title: Cognition-driven Affective Computing
         label: Cognition
         link: https://cogaffc.github.io/
@@ -292,6 +332,14 @@ directions:
           - name: HitEmotion 
             link: https://hitemotion.github.io/
             note: "Theory-of-Mind-guided multimodal emotion reasoning with benchmark and pipeline tracking mental states."
+          - name: "MoCA"
+            link: https://arxiv.org/abs/2608.05825
+            note: "Systematizes implicit social context analysis to infer emotions, intentions, and stances hidden in sarcasm, expression, tone, power relations, and cultural context."
+            # resources:
+            #   - name: Paper
+            #     link: https://arxiv.org/abs/2608.05825
+            #   - name: Code
+            #     link: https://github.com/Coder12188/MoCA
           - name: CogMAEC Workshop
             link: https://cogaffc.github.io/MM2025/
             note: "A workshop for cognition-oriented multimodal affective and empathetic computing."

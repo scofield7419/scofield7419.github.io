@@ -599,6 +599,30 @@ firstp {
   line-height: 1.45;
 }
 
+.research2-work-resources {
+  margin-left: 8px;
+  font-size: 13px;
+  font-style: normal;
+  white-space: nowrap;
+}
+
+.research2-work-resource {
+  color: #05a9a0;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.research2-work-resource:hover,
+.research2-work-resource:focus {
+  color: #048f87;
+  text-decoration: underline;
+}
+
+.research2-work-resource-separator {
+  margin: 0 4px;
+  color: #9aa8b4;
+}
+
 .research2-page-content {
   margin-top: 44px;
 }
