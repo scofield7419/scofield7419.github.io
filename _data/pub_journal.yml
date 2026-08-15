@@ -9,6 +9,15 @@
     paper: https://arxiv.org/abs/2509.11866
     code: https://github.com/Eurekaleo/Dr.V
 
+- title: "SHARING BEYOND DECISION: Deep Collaboration between Large Language Models via Representation Ensemble"
+  venue:
+    full: Transactions of the Association for Computational Linguistics
+    short: TACL
+  year: 2026
+  authors: Yichong Huang, Xiaocheng Feng, Jinlan Fu, Xiachong Feng, Baohang Li, Zekai Ye, Libo Qin, <strong>Hao Fei</strong>, See-Kiong Ng, Bing Qin
+  link:
+    paper: https://doi.org/10.1162/TACL.a.773
+
 
 - title: "Evaluating and Mitigating Relationship Hallucinations in Large Vision-Language Models"
   venue:
