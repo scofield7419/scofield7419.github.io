@@ -55,10 +55,9 @@ I also worked as a visiting researcher at Microsoft Research Asia, an associate 
 
 My research has been published in top-tier ML/NLP/CV/MM venues, e.g., ICML, NeurIPS, ICLR, ACL, CVPR, ACM-MM, AAAI, WWW, SIGIR, EMNLP, TPAMI, IJCV, TMM, TKDE, TOIS, TNNLS, TASLP. 
 My papers were selected as Most Influential Papers by Paper Digest, and ESI Highly Influential Papers, 2024 WAIC Outstanding Paper Award and also several Best Papers (Nominations as well) on some venues.
-I was awarded the World AI Conference Rising Star in 2023. 
-I was also the recipient of the 2023 WAIC Rising Star award, and ranked as Top 2% Scientists Worldwide 2024&2025 by Stanford University.
+I was awarded the World AI Conference Bright Star in 2026 & Rising Star in 2023, and also ranked as Top 2% Scientists Worldwide 2024&2025 by Stanford University.
 I've regularly served as (Senior) Area Chair or Senior Program Committee of top-tier conferences.
-I was the organization committee of conferences, WSDM, EMNLP, ACL, ACM MM, etc. 
+I was on the organization committee of conferences, WSDM, EMNLP, ACL, ACM MM, etc. 
 I serve as the Associate Editor of some journals, e.g., IEEE TAFFC, IEEE TASLP, ACM TALLIP, Neurocomputing.
 My Ph.D thesis was awarded the Excellent Doctoral Thesis of Chinese Information Processing Society (CIPS). 
 {: .text-justify}
