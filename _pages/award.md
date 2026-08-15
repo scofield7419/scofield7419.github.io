@@ -16,7 +16,9 @@ permalink: /award
 
 ### Honors and Awards
 
+- 2026: 2026 WAIC Bright Star (2023世界人工智能大会云帆奖璀璨明星)
 - 2026: AAAI 2026 Logical and Symbolic Reasoning in Language Models Workshop Best Paper Award
+- 2025: EMNLP 2025 Best Paper Award Nomination
 - 2025: Top 2% Scientists Worldwide 2025 (Single Year) by Stanford University
 - 2025: MSRA StarTrack Scholar Award
 - 2025: ICLR Notable Reviewer
