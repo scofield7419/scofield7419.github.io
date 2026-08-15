@@ -1,13 +1,34 @@
 
 
+- title: "SemStream: Semantic Boundary-Aware Memory for Streaming Video Understanding"
+  venue:
+    name: ECCV
+  year: 2026
+  authors: Zixuan Tan, Mingjin Kuai, Zheqi Lv, Hao Fei, <strong>Hao Fei</strong>, Wei Ji
+  link:
+    paper: #
+    code: #
+
+
+- title: "From Evaluation to Enhancement: Benchmarking and Improving Think-with-Video Reasoning for Video Generative Models"
+  venue:
+    name: ECCV
+  year: 2026
+  authors: Meng Luo, Yicheng Liu, Jiahao Wang, Yuanxing Zhang, Xin Tao, Pengfei Wan, Kun Gai, <strong>Hao Fei<sup>*</sup></strong>
+  link:
+    paper: #
+    code: #
+
+
+
 - title: "Towards One-to-Many Temporal Grounding"
   venue:
     name: ICML
   year: 2026
   authors: Qi Xu, Tan Yue, Shihao Chen, Jiahao Meng, Anran Wang, Shunping Ji, <strong>Hao Fei</strong>, Xiangtai Li
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/abs/2606.06294
+    code: https://insomniaaac.github.io/OMTG/
 
 
 - title: "AVI-Bench: Toward Human-like Audio-Visual Intelligence of Omni-MLLMs"
@@ -16,8 +37,8 @@
   year: 2026
   authors: Yaoting Wang, Ziyi Zhang, Wenming Tu, Shaoxuan Xu, Wenjie Du, Cheng Liang, Weijun Wang, Yuanchao Li, Guangyao Li, <strong>Hao Fei</strong>, Yuanchun Li, Henghui Ding, Yunxin Liu
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/abs/2606.07643
+    code: https://fudancvl.github.io/AVI-Bench/
 
 
 - title: "RADAR: Redundancy-Aware Diffusion for Multi-Agent Communication Structure Generation"
@@ -26,8 +47,8 @@
   year: 2026
   authors: Zhen Zhang, Wanjing Zhou, Juncheng Li, <strong>Hao Fei</strong>, Jun Wen, Wei Ji
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/abs/2605.09907
+    code: https://github.com/cszhangzhen/RADAR
 
 - title: "Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment"
   venue:
@@ -35,8 +56,8 @@
   year: 2026
   authors: Bobo Li, Wu Rui, Zibo Ji, Meishan Zhang, <strong>Hao Fei<sup>*</sup></strong>, Min Zhang, Mong-Li Lee, Wynne Hsu
   link:
-    paper: #
-    code: #
+    paper: https://arxiv.org/abs/2604.19548
+    code: https://unikcc.github.io/ReTAS/
 
 
 - title: "Dynamic Emotion and Personality Profiling for Multimodal Deception Detection"
@@ -45,7 +66,7 @@
   year: 2026
   authors: Li Zheng, Yanyi Luo, <strong>Hao Fei</strong>, Yuzhe Ding, Yujie Huang, Fei Li, Chong Teng, Donghong Ji
   link:
-    paper: #
+    paper: https://arxiv.org/abs/2604.17037
     code: #
 
 
