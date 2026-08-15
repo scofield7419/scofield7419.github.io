@@ -1,5 +1,67 @@
 
+- title: "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist"
+  venue:
+    name: arXiv
+  year: 2026
+  authors: Bobo Li, <strong>Hao Fei</strong>, Tianjie Ju, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: https://arxiv.org/abs/2608.13558
+    code: https://omni-scientist.github.io/
 
+- title: "V-RAE: Rethinking Video Latent Spaces for Generation"
+  venue:
+    name: arXiv
+  year: 2026
+  authors: Minghui Guo, Shengqiong Wu, <strong>Hao Fei</strong>
+  link:
+    paper: https://arxiv.org/abs/2608.13556
+    code: https://v-rae.github.io/
+
+- title: "Mental World Modeling"
+  venue:
+    name: arXiv
+  year: 2026
+  authors: <strong>Hao Fei</strong>, Yiran Zhao
+  link:
+    paper: https://arxiv.org/abs/2607.27201
+    code: https://mental-world.github.io/
+
+- title: "MoCA: Implicit Social Context Analysis"
+  venue:
+    name: arXiv
+  year: 2026
+  authors: Wenhao Xu, Kaiwen Zhang, Hao Li, Maowei You, Yongzheng Ji, Siyuan Zuo, Jingxuan Yu, Sina A, Xinyao Tan, Bobo Li, <strong>Hao Fei</strong>, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: https://arxiv.org/abs/2608.05825
+    code: https://github.com/Coder12188/MoCA
+
+- title: "EmpaAva: An Open-source Agentic 3D-Avatar Empathetic Live Chatbot"
+  venue:
+    name: arXiv
+  year: 2026
+  authors: Jie Yang, Wenhao Xu, Shuhui Lin, <strong>Hao Fei</strong>
+  link:
+    paper: https://arxiv.org/abs/2608.04709
+    code: https://empaava.top/
+
+- title: "SceneParser: Hierarchical Scene Parsing for Visual Semantics Understanding"
+  venue:
+    name: arXiv
+  year: 2026
+  authors: Pengxin Xu, Xincheng Lin, Luping Xiao, Qing Jiang, Meishan Zhang, <strong>Hao Fei</strong>, Shanghang Zhang, Xingyu Chen
+  link:
+    paper: https://arxiv.org/abs/2605.14923
+    code: https://github.com/ZGCA-HMI-Lab/SceneParser
+
+- title: "From Profiling to Synthesis: Benchmarking Implicit Behavioral Alignment in Personalized LLM Agents"
+  venue:
+    name: arXiv
+  year: 2026
+  authors: Jiajia Song, Bobo Li, Haiwen Yi, Zibo Ji, Meishan Zhang, <strong>Hao Fei</strong>, Min Zhang, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: https://arxiv.org/abs/2608.02171
+    code: #
+    
 - title: "UniVA: Universal Video Agent towards Open-Source Next-Generation Video Generalist"
   venue:
     name: arXiv
