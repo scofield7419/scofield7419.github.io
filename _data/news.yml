@@ -1,5 +1,25 @@
 
+- date: 13 Aug 2026
+  headline: "We are excited to release [**OmniScientist**](https://omni-scientist.github.io/), the first **Omni-Modal Omni-Discipline AI Scientist** for end-to-end multidisciplinary scientific research. 🚀 Skill and Desktop versions are now publicly available! [**Project Page**](https://omni-scientist.github.io/) | [**Paper**](https://arxiv.org/abs/2608.13558) | **Code** available on the project page."
 
+- date: 13 Aug 2026
+  headline: "We are excited to release [**V-RAE**](https://v-rae.github.io/), a video autoencoder that constructs **generative latent spaces directly from frozen visual representations**. [**Project Page**](https://v-rae.github.io/) | [**Paper**](https://arxiv.org/abs/2608.13556) | [**Code**](https://github.com/V-RAE/V-RAE)"
+
+- date: 29 Jul 2026
+  headline: "We are excited to introduce [**Mental World Modeling (MWM)**](https://mental-world.github.io/), the first theoretical framework for explicitly modeling the **mental world** beyond conventional physical world modeling. 🚀 Demo and code are publicly available! [**Project Page**](https://mental-world.github.io/) | [**Paper**](https://arxiv.org/abs/2607.27201) | [**Code**](https://github.com/mental-world/Mentis)"
+
+
+- date: 30 Jun 2026
+  headline: "We are organizing an [**IJCV Special Issue on Multimodal Unified Comprehension and Generation (MUCG)**](https://mllm-mucg.github.io/IJCV2026-SI/). **Call for Papers, welcome submissions!**"
+
+
+- date: 10 Jun 2026
+  headline: "We are co-organizing the [**2nd MLLM for Unified Comprehension and Generation (MUCG 2026) Workshop**](https://mllm-mucg.github.io/ECCV2026/) at [**ECCV 2026**](https://eccv.ecva.net/). **Call for Papers, welcome submissions!**"
+
+- date: 15 May 2026
+  headline: "We are co-organizing the [**1st Joint Audio-Video Comprehension and Generation (JAV-CG 2026) Workshop**](https://javisverse.github.io/Workshop-MM26/) at [**ACM Multimedia 2026**](https://2026.acmmm.org/). **Call for Papers, welcome submissions!**"
+  
+  
 - date: 7 May 2026
   headline: "We are releasing the survey of [**Audio-Visual Intelligence**](https://arxiv.org/abs/2605.04045), check it now at [**Github**](https://github.com/JavisVerse/Awesome-AVI)!"
   photo: "<img src='https://cdn-uploads.huggingface.co/production/uploads/647773a1168cb428e00e9a8f/BBXGRQBHZLk0Si4XlUiXt.jpeg' class='img-responsive' style='max-width: 800px' />"
