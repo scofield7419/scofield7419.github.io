@@ -46,10 +46,11 @@ permalink: /services
 - IJCAI 2023 (SPC), 2024 (SPC), 2025 (AC), 2026 (SPC)
 - COLING 2024 (SAC), 2025 (AC)
 - EACL 2024 (AC/ARR-AE)
+- AACL 2025 (SAC)
 - CCL 2024 (AC)
 - NLPCC 2024 (AC)
-- AACL 2025 (SAC)
-
+- NLPCC 2024 (AC)
+- MMAsia, 2026 (SPC)
 
 
 <div style="margin-top: 30px"></div>
