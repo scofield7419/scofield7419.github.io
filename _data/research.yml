@@ -343,11 +343,4 @@ directions:
           - name: CogMAEC Workshop
             link: https://cogaffc.github.io/MM2025/
             note: "A workshop for cognition-oriented multimodal affective and empathetic computing."
-      - title: Social & Behavioral Intelligence
-        label: Social Intelligence
-        link: "#"
-        description: "Large-scale modeling of cognition, mind, behavior, and social intelligence, including simulations of individuals and groups."
-        media:
-          type: placeholder
-          note: Under Progressing
-        works:
+
