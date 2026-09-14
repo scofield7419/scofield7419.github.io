@@ -56,13 +56,13 @@ permalink: /misc
 
 ### Who am I really?
 - I am INTJ. 
-- I am living with a higly structural thinking mode and logic, with a [`Top-Down`](https://www.daryllscott.com/discovery-vs-data) (from-top-to-bottom) mind, and tree-like Stack-based Depth-first Traversal.
+- I am living with a highly structured thinking mode and logic, with a [`Top-Down`](https://www.daryllscott.com/discovery-vs-data) (from-top-to-bottom) mind, and tree-like Stack-based Depth-first Traversal.
 - I tend to think in terms of encapsulation, as practiced in software engineering.
 - I am an extremely enthusiastic organizer and enjoy categorizing and arranging things.
 - I am highly sensitive to subtle details, emotions, and relations.
 - I am good at bridging mental gaps.
 - I have great taste (I believe), in art, beauty, visual design, music, etc.
-- I kinda enjoy being alone. I often do meditation. For years, I am keeping searching for my [`Inner Peace`](https://en.wikipedia.org/wiki/Inner_peace).
+- Crowded spaces and people make me feel really uneasy, especially with half-strangers. I'd rather enjoy being alone. I often meditate. For years, I have been searching for my [`Inner Peace`](https://en.wikipedia.org/wiki/Inner_peace).
 
 <p align="center">
   <img src="{{ '/images/teampic/top-down.png' | relative_url }}" width="55%"/>
@@ -76,7 +76,7 @@ permalink: /misc
 ### Skill?
 - I speak Mandarin (Native), English (Skilled), Cantonese (Partial).
 - I am a full-stack developer. I use >10 programming languages (Python, Java, C/C++, HTML, etc.).
-I wrote web system (Java/Python/PHP/Node.js), Windows (C#/QT), Android (Java), iOS (Objective-C/Swift), 3D system (Unity3D), Linux&Chrome plugins (Bash/JS), etc.
+I have written web systems (Java/Python/PHP/Node.js), Windows (C#/QT), Android (Java), iOS (Objective-C/Swift), 3D systems (Unity3D, Blender), Linux&Chrome plugins (Bash/JS), etc.
 - I always have a passion for hardware programming (STM32, ARM, Arduino, Raspberry Pi).
 - Whenever I am not thinking about research, I will pick up my ~~interests~~ phone and watch videos.
   - i) learning various natural languages, e.g., French, Spanish, German, Italian, Japanese, Korean.
