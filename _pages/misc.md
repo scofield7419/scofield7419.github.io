@@ -23,7 +23,7 @@ permalink: /misc
   - [Good Research and Good Papers](http://qinhongwei.com/2015/03/25/Fei-fei-Li-s-advice/) (Fei-Fei Li)
 
 
-- About Paper Writing for Beginner
+- About Paper Writing for Beginners
   - [How to write a good paper/review/rebuttal](https://sites.google.com/view/making-reviews-great-again/) (CVPR 2020 Tutorial)
   - [How to write a great research paper](https://www.microsoft.com/en-us/research/uploads/prod/2016/07/How-to-write-a-great-research-paper.pdf) (Simon Peyton Jones)
   - [How to give a great research talk](https://www.microsoft.com/en-us/research/uploads/prod/2016/07/How-to-give-a-great-research-talk.pdf) (Simon Peyton Jones)
@@ -54,13 +54,38 @@ permalink: /misc
 <div style="margin-top: 30px"></div>
 
 
-### Thinking Mode
+### Who am I really?
+- I am INTJ. 
 - I am living with a higly structural thinking mode and logic, with a [`Top-Down`](https://www.daryllscott.com/discovery-vs-data) (from-top-to-bottom) mind, and tree-like Stack-based Depth-first Traversal.
+- I tend to think in terms of encapsulation, as practiced in software engineering.
 - I am an extremely enthusiastic organizer and enjoy categorizing and arranging things.
 - I am highly sensitive to subtle details, emotions, and relations.
+- I am good at bridging mental gaps.
+- I have great taste (I believe), in art, beauty, visual design, music, etc.
+- I kinda enjoy being alone. I often do meditation. For years, I am keeping searching for my [`Inner Peace`](https://en.wikipedia.org/wiki/Inner_peace).
 
 <p align="center">
   <img src="{{ '/images/teampic/top-down.png' | relative_url }}" width="55%"/>
 </p>
+
+
+
+<div style="margin-top: 30px"></div>
+
+
+### Skill?
+- I speak Mandarin (Native), English (Skilled), Cantonese (Partial).
+- I am a full-stack developer. I use >10 programming languages (Python, Java, C/C++, HTML, etc.).
+I wrote web system (Java/Python/PHP/Node.js), Windows (C#/QT), Android (Java), iOS (Objective-C/Swift), 3D system (Unity3D), Linux&Chrome plugins (Bash/JS), etc.
+- I always have a passion for hardware programming (STM32, ARM, Arduino, Raspberry Pi).
+- Whenever I am not thinking about research, I will pick up my ~~interests~~ phone and watch videos.
+  - i) learning various natural languages, e.g., French, Spanish, German, Italian, Japanese, Korean.
+     I enjoy the experience of persona role-play when speaking different languages.
+  - ii) making EDM music, where I have a particular fondness for genres such as Future Bass and Dubstep. 
+     I use FL Studio, Cubase and GarageBand. I exclusively follow [Vexento](https://www.youtube.com/@Vexento), [Marshmello](https://www.youtube.com/@marshmello) and [Slushii](https://www.youtube.com/@SlushiiMusic). 
+     See [my music playlist]({{ '/music' | relative_url }}).
+
+
+
 
 
