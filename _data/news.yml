@@ -1,4 +1,10 @@
 
+- date: 30 Sep 2026
+  headline: "We are excited to release [**Omni-IO Skills**](https://github.com/any2any-mllm/Omni-IO-Skill), a plug-and-play skill set and MCP runtime for understanding, creating, and coordinating images, video, audio, documents, 3D assets, code, and web content. 🚀 Skill and codes are publicly available! Check the [**Paper**](https://arxiv.org/abs/2609.31847) and [**Repo**](https://github.com/any2any-mllm/Omni-IO-Skill)."
+
+- date: 27 Aug 2026
+  headline: "We are excited to release [**UrbanGround**](https://urbanground.github.io/), a real-scale urban sandbox that turns territory-wide 3D geospatial data of Hong Kong into a continuously rendered and physically grounded environment for multimodal agents. Our [**code, resources and demo**](https://urbanground.github.io/) are all open; check the [**Paper**](https://arxiv.org/abs/2608.27456)"
+
 - date: 13 Aug 2026
   headline: "We are excited to release [**OmniScientist**](https://omni-scientist.github.io/), the first **Omni-Modal Omni-Discipline AI Scientist** for end-to-end multidisciplinary scientific research. 🚀 Skill and Desktop versions are now publicly available! [**Demo Page**](https://omni-scientist.github.io/), [**Paper**](https://arxiv.org/abs/2608.13558), [**Code**](https://github.com/Omni-Scientist/OmniScientist) available on the project page."
 
