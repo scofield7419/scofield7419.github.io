@@ -1,4 +1,24 @@
 
+- title: "Omni-IO Skills: Harnessing Your Agent Omni-Native"
+  venue:
+    name: arXiv
+  year: 2026
+  authors: Yanlin Li, Mingyang Hao, Shengqiong Wu, <strong>Hao Fei</strong>, Mong-Li Lee, Wynne Hsu
+  link:
+    paper: https://arxiv.org/abs/2609.31847
+    code: https://github.com/any2any-mllm/Omni-IO-Skill
+
+
+- title: "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City"
+  venue:
+    name: arXiv
+  year: 2026
+  authors: Tianjie Ju, Zheng Wu, Yueqing Sun, Yuhan Cui, Bobo Li, Shengqiong Wu, Pengzhou Cheng, Haodong Zhao, Zongru Wu, Xinbei Ma, Doris Zhang, Kunling Li, Mong-Li Lee, Wynne Hsu, <strong>Hao Fei</strong>, Qi Gu, Gongshen Liu, Zhuosheng Zhang
+  link:
+    paper: https://arxiv.org/abs/2608.27456
+    code: https://urbanground.github.io/
+
+
 - title: "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist"
   venue:
     name: arXiv
