@@ -1,10 +1,33 @@
 
 
+- title: "From Finding to Linking: Benchmarking and Advancing Cross-Long-Video Reasoning for Multimodal LLMs"
+  venue:
+    name: NeurIPS
+  year: 2025
+  authors: Meng Luo, Zikang Zhou, Shanqing Xu, Shize Zhang, Bobo Li, <strong>Hao Fei</strong>, Mong-Li Lee, Wynne Hsu
+  highlight: Best Paper of Logical and Symbolic Reasoning Workshop @ AAAI 2026
+  link:
+    paper: #
+    code: #
+
+
+- title: "Uncertainty-o: One Model-agnostic Framework for Unveiling Uncertainty in Large Multimodal Models"
+  venue:
+    name: EMNLP
+    note: Findings
+  year: 2026
+  authors: Ruiyang Zhang, Hu Zhang, <strong>Hao Fei</strong>, Zhedong Zheng
+  link:
+    paper: https://arxiv.org/abs/2506.07575
+    code: https://uncertainty-o.github.io/
+
+
+
 - title: "SemStream: Semantic Boundary-Aware Memory for Streaming Video Understanding"
   venue:
     name: ACM MM
   year: 2026
-  authors: Zixuan Tan, Mingjin Kuai, Zheqi Lv, Hao Fei, <strong>Hao Fei</strong>, Wei Ji
+  authors: Zixuan Tan, Mingjin Kuai, Zheqi Lv, <strong>Hao Fei</strong>, Wei Ji
   link:
     paper: #
     code: #
