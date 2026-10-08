@@ -22,6 +22,17 @@
     code: https://uncertainty-o.github.io/
 
 
+- title: "PRISM-CTG: A Foundation Model for Cardiotocography Analysis with Multi-View SSL"
+  venue:
+    name: ECML-PKDD
+  year: 2026
+  authors: Sheng Wong, Ravi Shankar, Beth Albert, <strong>Hao Fei</strong> Lin Li, Imane Ben MBarek, Manu Vatish, Gabriel Davis Jones
+  link:
+    paper: https://arxiv.org/abs/2605.02917
+    code: #
+
+
+
 
 - title: "SemStream: Semantic Boundary-Aware Memory for Streaming Video Understanding"
   venue:
