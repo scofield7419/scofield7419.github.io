@@ -24,6 +24,7 @@ permalink: /services
 - [SSNLP 2024](https://wing-nus.github.io/ssnlp-2024/) Publicity Chair
 - [iGYRO SMD 2025](https://igyro-nus.github.io/) Program Chair
 - [ACM MM 2025](https://acmmm2025.org/) Publication Co-Chair
+- [IEEE ICME 2027](https://2026.ieeeicme.org/) Special Session Co-chair
 
 
 
