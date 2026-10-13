@@ -58,7 +58,7 @@ directions:
             note: "A collection of resources on Github: paper, datasets and tools."
       - title: Unified Vision LLMs
         label: Vision Intelligence
-        link: https://univision-llm.github.io/
+        link: https://vitron-llm.github.io/
         description: "Pixel-level large vision foundation models for understanding, generation, segmentation, editing, and controllable interaction with visual content."
         media:
           type: image
@@ -66,10 +66,13 @@ directions:
           fit: cover
         works:
           - name: Vitron
-            link: https://vitron-llm.github.io/
+            link: https://vitron-llm.github.io/Vitron
             note: "A unified pixel-level vision LLM for understanding, generation, segmentation, and editing."
+          - name: Vitron-E
+            link: https://vitron-llm.github.io/Vitron-E/
+            note: "A universal visual editor across image, video, and 3D Scenes."
           - name: Poly-V
-            link: https://sqwu.top/PolyV/
+            link: https://vitron-llm.github.io/PolyV/
             note: "A unified vision-language model for synergistic visual comprehension and interaction."
       - title: "UniVA: Universal Video Agent"
         label: Agentic System
