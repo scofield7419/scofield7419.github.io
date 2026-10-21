@@ -32,7 +32,7 @@ permalink: /services
 
 ### Senior Program Committee Member
 
-- ICML 2024 (AC), 2025 (AC), 2026 (AC)
+- ICML 2024 (AC), 2025 (AC), 2026 (AC), 2027 (SAC) 
 - NeurIPS 2024 (AC), 2025 (AC), 2026 (AC)
 - NeurIPS (Data and Benchmark Track) 2025 (AC)
 - ICLR 2027
