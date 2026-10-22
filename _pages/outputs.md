@@ -12,7 +12,8 @@ permalink: /outputs
 
 ### Workshop Organization
 
-- Co-organizing the **2<sup>st</sup> MLLM for Unified Comprehension and Generation [(MUCG 2026)](https://mllm-mucg.github.io/ECCV2026/)** Workshop @ [ECCV 2026](https://eccv.ecva.net/) 
+- Co-organizing the **1<sup>st</sup> Neuro-Symbolic AI in Large Foundation Models [(NeSy—FM 2027)](https://llm-symbol.github.io/NeSy-FM-AAAI2027/)** Workshop @ [**AAAI 2027**](https://aaai.org/conference/aaai/aaai-27/)
+- Co-organizing the **2<sup>nd</sup> MLLM for Unified Comprehension and Generation [(MUCG 2026)](https://mllm-mucg.github.io/ECCV2026/)** Workshop @ [ECCV 2026](https://eccv.ecva.net/) 
 - Co-organizing the **1<sup>st</sup> Joint Audio-Video Comprehension and Generation [(JAV-CG 2026)](https://javisverse.github.io/Workshop-MM26/)** Workshop @ [ACM Multimedia 2026](https://2026.acmmm.org/) 
 - Co-organizing the **1<sup>st</sup> Any-to-Any Multimodal Learning [(A2A-MML 2026)](https://any2any-mllm.github.io/workshop-cvpr26/)** Workshop @ [CVPR 2026](https://cvpr.thecvf.com/) 
 - Co-organizing the **1<sup>st</sup> Cognition-oriented Multimodal Affective and Empathetic Computing [(CogMAEC 2025)](https://cogmaec.github.io/MM2025/)** Workshop @ [ACM Multimedia 2025](https://acmmm2025.org/) 
@@ -72,6 +73,7 @@ permalink: /outputs
 
 ### Tutorials
 
+- 2027.2: [**Chain-of-Thought Reasoning in Large Language Models: Recent Advances and New Frontiers**](###), [**AAAI 2027**](https://aaai.org/conference/aaai/aaai-27/), Montréal, Canada
 - 2025.9: **A Beginner's Guide to AI Research--Insights from a Multimodal AI Perspective**, National University of Singapore, [(slides)]({{ '/downloads/AI-lecture-Hao-publish.pdf' | relative_url }})
 - 2025.6: [**Evaluations and Benchmarks in the Context of Multimodal LLM**](https://mllm2024.github.io/CVPR2025), [CVPR 2025](https://cvpr.thecvf.com/), Nashville TN, USA
 - 2024.10: [**From Multimodal LLM to Human-level AI: Architecture, Modality, Function, Instruction, Hallucination, Evaluation, Reasoning and Beyond**](https://mllm2024.github.io/ACM-MM2024/), [ACM MM 2024](https://2024.acmmm.org/), Melbourne, Australia
