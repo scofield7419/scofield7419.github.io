@@ -1,4 +1,22 @@
 
+- title: "Enhancing Weakly Correlated Multimodal Sentiment Analysis With Meta-Knowledge"
+  venue:
+    full: IEEE Transactions on Affective Computing
+    short: TAFFC
+  year: 2026
+  authors: Li Zheng, Mingqi Yan, <strong>Hao Fei</strong>, Yuzhe Ding, Jinghang Li, Bobo Li, Fei Li, Jinbo Li, Chong Teng, Donghong Ji
+  link:
+    paper: https://doi.org/10.1109/TAFFC.2026.3738631
+
+- title: "DebaToM: An Innovative Debate Framework for Theory of Mind Reasoning Using Large Language Models"
+  venue:
+    full: IEEE Transactions on Audio, Speech and Language Processing
+    short: TASLP
+  year: 2026
+  authors: Li Zheng, Tongyue Wang, <strong>Hao Fei</strong>, Fei Li, Qiujing Xu, Chong Teng, Donghong Ji
+  link:
+    paper: https://doi.org/10.1109/TASLPRO.2026.3687035
+    
 - title: "Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding"
   venue:
     full: International Journal of Computer Vision
