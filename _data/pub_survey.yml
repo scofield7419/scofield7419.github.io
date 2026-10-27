@@ -3,7 +3,7 @@
   venue:
     name: arXiv
   year: 2026
-  authors: Shengqiong Wu, Meng Luo, Bobo Li, Ziwei Liu, Shuicheng Yan, Ming-Hsuan Yang, Philip Torr, <strong>Hao Fei</strong>
+  authors: Shengqiong Wu, Meng Luo, Bobo Li, Ziwei Liu, Shuicheng Yan, Ming-Hsuan Yang, Philip Torr, <strong>Hao Fei<sup>*</sup></strong>
   link:
     paper: https://arxiv.org/abs/2610.31668
     code: https://vid-gen.github.io/video-world-model-survey
