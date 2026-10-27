@@ -1,4 +1,14 @@
 
+- title: "Reading, Writing, Sharing, and Interacting with the World through Video: A Survey Toward Unified Video World Models"
+  venue:
+    name: arXiv
+  year: 2026
+  authors: Shengqiong Wu, Meng Luo, Bobo Li, Ziwei Liu, Shuicheng Yan, Ming-Hsuan Yang, Philip Torr, <strong>Hao Fei</strong>
+  link:
+    paper: https://arxiv.org/abs/2610.31668
+    code: https://vid-gen.github.io/video-world-model-survey
+
+
 - title: "Audio-Visual Intelligence in Large Foundation Models: A Comprehensive Survey"
   venue:
     name: arXiv
