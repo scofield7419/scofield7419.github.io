@@ -3,9 +3,11 @@
   headline: "We are releasing the survey of [**Video World Models**](https://arxiv.org/abs/2610.31668), check it now at [**project page**](https://vid-gen.github.io/video-world-model-survey)!"
   photo: "<img src='https://raw.githubusercontent.com/vid-gen/awesome-video-world-model/main/assets/survey-overview.png' class='img-responsive' style='max-width: 800px' />"
 
+- date: 19 Oct 2026
+  headline: "We are excited to release [**VitronEdit**](https://vitron-llm.github.io/VitronEdit/), a universal visual editing model across Images, Videos, and 3D Scenes. 🚀 Models and codes are publicly available! Check the [**Paper**](https://arxiv.org/abs/2610.27049) and [**Repo**](https://github.com/Vitron-LLM/VitronEdit-Code)."
+
 - date: 5 Oct 2026
   headline: "We are co-organizing the [**1st Neuro-Symbolic AI in Large Foundation Models (NeSy—FM 2027) Workshop**](https://llm-symbol.github.io/NeSy-FM-AAAI2027/) at [**AAAI 2027**](https://aaai.org/conference/aaai/aaai-27/). **Call for Papers, welcome submissions!**"
-
 
 - date: 30 Sep 2026
   headline: "We are excited to release [**Omni-IO Skills**](https://github.com/any2any-mllm/Omni-IO-Skill), a plug-and-play skill set and MCP runtime for understanding, creating, and coordinating images, video, audio, documents, 3D assets, code, and web content. 🚀 Skill and codes are publicly available! Check the [**Paper**](https://arxiv.org/abs/2609.31847) and [**Repo**](https://github.com/any2any-mllm/Omni-IO-Skill)."
