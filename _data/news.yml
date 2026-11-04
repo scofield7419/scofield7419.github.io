@@ -1,4 +1,7 @@
 
+- date: 4 Nov 2026
+  headline: "We are excited to introduce [**Cognitive Symbionts**](https://cognitive-symbiont.github.io/), a perspective paper on **AI-Augmented Human Intelligence (AHI)**: alongside embodied robots, the era of Physical AI holds a second kind of intelligent individual, the person augmented by AI. 🎬 Check out our [**PR Video**](https://www.youtube.com/watch?v=OBQF9SN7S3E)! [**Project Page**](https://cognitive-symbiont.github.io/), [**Paper**](https://arxiv.org/abs/2611.05376)"
+
 - date: 22 Oct 2026
   headline: "We are releasing the first survey of [**Video World Models**](https://arxiv.org/abs/2610.31668), check it now at [**project page**](https://vid-gen.github.io/video-world-model-survey) and [**Repo**](https://github.com/vid-gen/awesome-video-world-model)!"
   photo: "<img src='https://raw.githubusercontent.com/vid-gen/awesome-video-world-model/main/assets/survey-overview.png' class='img-responsive' style='max-width: 800px' />"
