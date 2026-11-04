@@ -1,4 +1,13 @@
 
+- title: "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence"
+  venue:
+    name: arXiv
+  year: 2026
+  authors: <strong>Hao Fei</strong>
+  link:
+    paper: https://arxiv.org/abs/2611.05376
+    code: https://cognitive-symbiont.github.io/
+    
 - title: "VitronEdit: Universal Visual Editing across Images, Videos, and 3D Scenes"
   venue:
     name: arXiv
