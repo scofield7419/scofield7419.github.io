@@ -35,10 +35,10 @@ directions:
     title: Large Multimodal Foundation Models and Agentic Systems
     summary: "Unified and advanced multimodal foundational systems (LLMs and agents) that coordinate perception, reasoning, generation, and interaction across modalities. Below, I highlight several representative research series that define this direction."
     cards:
-      - title: Any-to-Any MLLMs
+      - title: Any-to-Any/Omni MLFMs
         label: Foundation Model
         link: https://any2any-mllm.github.io/
-        description: "Unified any-to-any multimodal LLMs that move beyond perception-only systems toward fully interleaved multimodal input-output intelligence."
+        description: "Unified any-to-any/omni multimodal large foundation models (MLFMs) that move beyond perception-only systems toward fully interleaved multimodal input-output intelligence."
         media:
           type: image
           src: /images/projpic/A2A/teaser3.png
@@ -50,6 +50,9 @@ directions:
           - name: "UniM"
             link: https://any2any-mllm.github.io/unim
             note: "A benchmark for interleaved any-to-any multimodal understanding and generation."
+          - name: "Omni-IO Skills"
+            link: https://github.com/any2any-mllm/Omni-IO-Skill
+            note: "A plug-and-play skill set and MCP runtime for understanding, creating, and coordinating images, video, audio, documents, 3D assets, code, and web content."
           - name: "Any2Any Workshop"
             link: https://any2any-mllm.github.io/workshop-cvpr26/
             note: "The first workshop for this series."
@@ -74,15 +77,21 @@ directions:
           - name: Poly-V
             link: https://vitron-llm.github.io/PolyV/
             note: "A unified vision-language model for synergistic visual comprehension and interaction."
-      - title: "UniVA: Universal Video Agent"
+      - title: "UniVA-Verse: Universal Video Agents"
         label: Agentic System
-        link: https://univa-agent.github.io
-        description: "A universal video agent that unifies video understanding, editing, tracking, planning, and creation in an automated agentic workflow."
+        link: https://github.com/UniVA-Verse
+        description: "An open-source universe of universal video agents and reusable skills that unify video understanding, editing, tracking, planning, and creation in automated agentic workflows."
         media:
           type: image 
           src: /images/projpic/univa/univa-teaser.png
           fit: cover
         works:
+          - name: UniVA
+            link: https://univa.online/
+            note: "A universal video agent towards an open-source next-generation video generalist."
+          - name: UniVA-Skill
+            link: https://github.com/UniVA-Verse/Univa-Skill
+            note: "Reusable skills and MCP media tools for agent-driven video and audio production."
       - title: Towards Multimodal Generalist
         label: Generalist Agenda
         link: https://path2generalist.github.io/
@@ -209,7 +218,7 @@ directions:
       - title: Video Generation Lab
         label: Generation
         link: https://vid-gen.github.io
-        description: "Video generation research embedding multimodal intent, causal reasoning, and physics for high-quality, faithful, physically consistent synthesis."
+        description: "Video generation research embedding multimodal intent, causal reasoning, and physics for high-quality, faithful, physically consistent synthesis, and connecting video generation toward world modeling."
         media:
           type: image
           src: /images/projpic/vid-gen/vid-gen2.png
@@ -231,6 +240,9 @@ directions:
             #     link: https://arxiv.org/abs/2608.13556
             #   - name: Code
             #     link: https://github.com/V-RAE/V-RAE
+          - name: Video World Model Survey
+            link: https://vid-gen.github.io/video-world-model-survey
+            note: "The first survey of video world models: reading, writing, sharing, and interacting with the world through video."
       - title: Neuro-symbolic Reasoning
         label: Reasoning
         link: https://llm-symbol.github.io/
@@ -252,6 +264,9 @@ directions:
           - name: LogicReward
             link: https://llm-symbol.github.io/LogicReward/
             note: "Reward-driven optimization for stronger logical consistency in LLM reasoning."
+          - name: NeSy-FM Workshop
+            link: https://llm-symbol.github.io/NeSy-FM-AAAI2027/
+            note: "The 1st Workshop on Neuro-Symbolic AI in Large Foundation Models at AAAI 2027."
       - title: AI Scientist & AI for Science
         label: AI for Science
         link: https://omni-scientist.github.io/
@@ -343,7 +358,21 @@ directions:
             #     link: https://arxiv.org/abs/2608.05825
             #   - name: Code
             #     link: https://github.com/Coder12188/MoCA
+          - name: TRACE
+            link: https://cogaffc.github.io/TRACE/
+            note: "Cognition-oriented emotion tracing from causes, through regulation, to consequences in real-world social scenes."
           - name: CogMAEC Workshop
             link: https://cogaffc.github.io/MM2025/
             note: "A workshop for cognition-oriented multimodal affective and empathetic computing."
-
+      - title: "AHI: AI-Augmented Human Intelligence"
+        label: Cognition
+        link: https://cognitive-symbiont.github.io/
+        description: "AI-augmented human intelligence envisions, alongside embodied robots, a second kind of intelligent individual in the era of Physical AI: the person whose own cognition is strengthened by an AI cognitive symbiont."
+        media:
+          type: image
+          src: /images/projpic/ahi/ahi.jpg
+          fit: cover
+        works:
+          - name: Cognitive Symbionts
+            link: https://cognitive-symbiont.github.io/
+            note: "A perspective paper on moving from autonomous agents to cognitive symbionts toward AI-Augmented Human Intelligence."
