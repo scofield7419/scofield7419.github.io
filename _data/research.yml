@@ -68,8 +68,8 @@ directions:
           - name: Vitron
             link: https://vitron-llm.github.io/Vitron
             note: "A unified pixel-level vision LLM for understanding, generation, segmentation, and editing."
-          - name: Vitron-E
-            link: https://vitron-llm.github.io/Vitron-E/
+          - name: VitronEdit
+            link: https://vitron-llm.github.io/VitronEdit/
             note: "A universal visual editor across image, video, and 3D Scenes."
           - name: Poly-V
             link: https://vitron-llm.github.io/PolyV/
