@@ -44,7 +44,6 @@ permalink: /misc
   - [We're Moving from the Age of Scaling to the Age of Research](https://www.dwarkesh.com/p/ilya-sutskever-2) (Ilya Sutskever)
   - [Nobel Lecture in Physics 2024](https://www.nobelprize.org/prizes/physics/2024/hinton/lecture/) (Geoffrey Hinton)
   - [Nobel Lecture in Chemistry 2024](https://www.nobelprize.org/prizes/chemistry/2024/hassabis/lecture/) (Demis Hassabis)
-  - [The Second Half](https://ysymyth.github.io/The-Second-Half/) (Shunyu Yao)
   - [Why We Think](https://lilianweng.github.io/posts/2025-05-01-thinking/) (Lilian Weng)
   - [Asymmetry of Verification and Verifier's Rule](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law) (Jason Wei)
   - [Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ) (Andrej Karpathy)
