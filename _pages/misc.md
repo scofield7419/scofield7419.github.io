@@ -78,12 +78,44 @@ permalink: /misc
 - I am a full-stack developer. I use >10 programming languages (Python, Java, C/C++, HTML, etc.).
 I have written web systems (Java/Python/PHP/Node.js), Windows (C#/QT), Android (Java), iOS (Objective-C/Swift), 3D systems (Unity3D, Blender), Linux&Chrome plugins (Bash/JS), etc.
 - I always have a passion for hardware programming (STM32, ARM, Arduino, Raspberry Pi).
-- Whenever I am not thinking about research, I will pick up my ~~interests~~ phone and watch videos.
+- Whenever I am not thinking about research, I will pick up my <button type="button" class="misc-interests-toggle" aria-expanded="false" title="Click to see what I actually do"><s>interests</s><span class="misc-interests-caret" aria-hidden="true">&#9656;</span></button> phone and watch videos.<span class="misc-relax-tag"><span class="misc-relax-tag-hole" aria-hidden="true"></span>gotta relax...</span>
   - i) learning various natural languages, e.g., French, Spanish, German, Italian, Japanese, Korean.
      I enjoy the experience of persona role-play when speaking different languages.
   - ii) making EDM music, where I have a particular fondness for genres such as Future Bass and Dubstep. 
      I use FL Studio, Cubase and GarageBand. I exclusively follow [Vexento](https://www.youtube.com/@Vexento), [Marshmello](https://www.youtube.com/@marshmello) and [Slushii](https://www.youtube.com/@SlushiiMusic). 
      See [my music playlist]({{ '/music' | relative_url }}).
+
+<style>
+li:has(> p > .misc-interests-toggle) > ul,
+li:has(> .misc-interests-toggle) > ul { display: none; }
+li.misc-interests-open > ul { display: block; animation: miscInterestsIn .28s ease-out; }
+@keyframes miscInterestsIn { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: none; } }
+.misc-interests-toggle {
+  font: inherit; color: inherit; background: none; border: 0; padding: 0 2px; margin: 0;
+  cursor: pointer; border-bottom: 1px dotted #9aa5b1; border-radius: 3px;
+  transition: background-color .15s ease, color .15s ease;
+}
+.misc-interests-toggle:hover, .misc-interests-toggle:focus-visible { background: #e8f6f4; color: #128a82; outline: none; }
+.misc-interests-caret { display: inline-block; margin-left: 2px; font-size: .75em; color: #128a82; opacity: .55; transition: transform .2s ease, opacity .2s ease; }
+.misc-interests-toggle:hover .misc-interests-caret, .misc-interests-toggle[aria-expanded="true"] .misc-interests-caret { opacity: 1; }
+.misc-interests-toggle[aria-expanded="true"] .misc-interests-caret { transform: rotate(90deg); }
+.misc-relax-tag {
+  position: relative; display: inline-block; margin-left: 10px; padding: 1px 10px 1px 18px;
+  font-size: .78em; font-style: italic; line-height: 1.6; white-space: nowrap; vertical-align: 1px;
+  color: #8a5a12; background: #fbe7c4; border: 1px solid #efc98a;
+  border-radius: 3px 10px 10px 3px; transform: rotate(-3deg); box-shadow: 0 1px 2px rgba(0,0,0,.08);
+}
+.misc-relax-tag-hole { position: absolute; left: 6px; top: 50%; width: 6px; height: 6px; margin-top: -3px; border-radius: 50%; background: #fff; border: 1px solid #e0b46a; }
+</style>
+<script>
+document.querySelectorAll('.misc-interests-toggle').forEach(function (btn) {
+  var li = btn.closest('li');
+  btn.addEventListener('click', function () {
+    var open = li.classList.toggle('misc-interests-open');
+    btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+  });
+});
+</script>
 
 
 
