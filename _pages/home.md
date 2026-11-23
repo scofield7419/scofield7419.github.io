@@ -74,7 +74,7 @@ Know me via some latest series of representative works (see [research statement]
 <div class="home-signature-highlight" style="border-radius: 0.7em;background-color: rgba(0,0,0,3%);padding-bottom: 1.0pt;padding-top: 4.0pt;">
 - [**Any-to-Any MLLM (NExT-GPT) series**](https://any2any-mllm.github.io/)
 - [**Universal Video Agent (UniVA) series**](https://github.com/UniVA-Verse)
-- [**Unified Vision LLMs (UniVision) series**](https://univision-llm.github.io/)
+- [**Unified Vision LLMs (UniVision) series**](https://vitron-llm.github.io/)
 - [**Towards Multimodal Generalist series**](https://path2generalist.github.io/)
 - [**Joint Audio-Video (Javis) series**](https://javisverse.github.io/)
 - [**Neuro-symbolic Logic Reasoning series**](https://llm-symbol.github.io/)
