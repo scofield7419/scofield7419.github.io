@@ -82,6 +82,8 @@ Know me via some latest series of representative works (see [research statement]
 - [**Joint Audio-Video (Javis) series**](https://javisverse.github.io/)
 - [**Neuro-symbolic Logic Reasoning series**](https://llm-symbol.github.io/)
 - [**Cognition-driven Affective Computing (CogAFFC) series**](https://cogaffc.github.io/)
+- [**Mental World Modeling (MWM) series**](https://mental-world.github.io/)
+- [**AI-Augmented Human Intelligence (Cognitive Symbionts) series**](https://cognitive-symbiont.github.io/)
 </div>
 
 Recently, I also extensively explore the AI for science, including 1) psychology & social norm studies, 2) bio-/medicine & healthcare & clinics, and 3) material science, by integrating the advanced LLM/agent methodologies.
