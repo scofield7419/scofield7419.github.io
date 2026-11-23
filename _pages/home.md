@@ -50,9 +50,6 @@ permalink: /
 I am a senior postdoctoral researcher at the CS department and the Big Data Institute in the University of Oxford.
 Previously, I was a senior research fellow at National University of Singapore.
 I also worked as a visiting researcher at Microsoft Research Asia, an associate researcher at Skywork AI Singapore, and SEA AI lab, respectively.
-{: .text-justify}
-
-
 My research has been published in top-tier ML/NLP/CV/MM venues, e.g., ICML, NeurIPS, ICLR, ACL, CVPR, ACM-MM, AAAI, WWW, SIGIR, EMNLP, TPAMI, IJCV, TMM, TKDE, TOIS, TNNLS, TASLP. 
 My papers were selected as Most Influential Papers by Paper Digest, and ESI Highly Influential Papers, 2024 WAIC Outstanding Paper Award and also several Best Papers (Nominations as well) on some venues.
 I was awarded the World AI Conference Bright Star in 2026 & Rising Star in 2023, and also ranked as Top 2% Scientists Worldwide 2024&2025 by Stanford University.
